@@ -1,16 +1,9 @@
-# ============================================================= #
-#                                                               #
-# MSM Adblock List                                              #
-# Made by: fabian freund                                              #
-# Github: github.com/                               #
-# Repository: github.com/     #
-#                                                               #
-# ============================================================= #
 ## springer
 axel-springer-akademie.de
 ein-herz-fuer-kinder.de
 ikiosk.de
 bild.de
+www.bild.de
 bz-berlin.de
 welt.de
 n24.de
@@ -151,8 +144,6 @@ europeanvoice.com
 sports.pl
 fakt.pl
 blic.rs
-
 ## burda
 chip.de
-
 ## bertelsman
