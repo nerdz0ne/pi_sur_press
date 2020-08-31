@@ -1,3 +1,13 @@
+0.0.0.0 www.tyt.com
+0.0.0.0 tyt.com
+0.0.0.0 www.voxmedia.com
+0.0.0.0 voxmedia.com
+0.0.0.0 www.polygon.com
+0.0.0.0 polygon.com
+0.0.0.0 www.theverge.com
+0.0.0.0 theverge.com
+0.0.0.0 www.vox.com
+0.0.0.0 vox.com
 0.0.0.0 guter-rat-abo.de
 0.0.0.0 www.guter-rat.de
 0.0.0.0 guter-rat.de
@@ -61,6 +71,8 @@
 0.0.0.0 tagesspiegel.de
 0.0.0.0 www.blog-der-republik.de
 0.0.0.0 blog-der-republik.de
+0.0.0.0 www.wdr.de
+0.0.0.0 wdr.de
 ## bertelsman
 0.0.0.0 www.rtl.de
 0.0.0.0 rtl.de
