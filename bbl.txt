@@ -20,6 +20,12 @@
 0.0.0.0 taz.de
 0.0.0.0 www.taz.de
 #msm leftist
+0.0.0.0 www.derwesten.de
+0.0.0.0 derwesten.de
+0.0.0.0 www.funk.net
+0.0.0.0 funk.net
+0.0.0.0 www.quarks.de
+0.0.0.0 quarks.de
 0.0.0.0 www.merkur.de
 0.0.0.0 merkur.de
 0.0.0.0 www.tagesschau.de
