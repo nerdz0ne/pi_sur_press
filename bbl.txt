@@ -41,7 +41,7 @@
 0.0.0.0 gruene.de
 0.0.0.0 www.tag24.de
 0.0.0.0 tag24.de
-0.0.0.0 www.fr.de´
+0.0.0.0 www.fr.de
 0.0.0.0 fr.de
 0.0.0.0 www.neues-deutschland.de
 0.0.0.0 neues-deutschland.de
