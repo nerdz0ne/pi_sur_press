@@ -22,6 +22,10 @@
 0.0.0.0 www.spiegel.de
 0.0.0.0 spiegel.de
 #bullcrap
+0.0.0.0 www.der-postillon.com
+0.0.0.0 der-postillon.com
+0.0.0.0 gesund.bund.de
+0.0.0.0 www.gesund.bund.de
 0.0.0.0 www.derwesten.de
 0.0.0.0 derwesten.de
 0.0.0.0 www.funk.net
