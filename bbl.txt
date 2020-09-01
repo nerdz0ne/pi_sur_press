@@ -21,7 +21,7 @@
 0.0.0.0 www.taz.de
 0.0.0.0 www.spiegel.de
 0.0.0.0 spiegel.de
-#msm
+#bullcrap
 0.0.0.0 www.derwesten.de
 0.0.0.0 derwesten.de
 0.0.0.0 www.funk.net
@@ -136,7 +136,7 @@
 0.0.0.0 territory.de
 0.0.0.0 www.territory.de
 0.0.0.0 sanoma.com
-0.0.0.0 www,sanoma.com
+0.0.0.0 www.sanoma.com
 0.0.0.0 www.ligatus.fr
 0.0.0.0 ligatus.fr
 0.0.0.0 www.prismamedia.com
