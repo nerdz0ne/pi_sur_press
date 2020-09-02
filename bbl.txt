@@ -22,6 +22,20 @@
 0.0.0.0 www.spiegel.de
 0.0.0.0 spiegel.de
 #bullcrap
+0.0.0.0 www.niederrheinzeitung.de
+0.0.0.0 .niederrheinzeitung.de
+0.0.0.0 www.rundschau-online.de
+0.0.0.0 .rundschau-online.de
+0.0.0.0 www.express.de
+0.0.0.0 express.de
+0.0.0.0 www.wn.de
+0.0.0.0 wn.de
+0.0.0.0 www.rga.de
+0.0.0.0 rga.de
+0.0.0.0 www.ruhrbarone.de
+0.0.0.0 ruhrbarone.de
+0.0.0.0 www.ardmediathek.de
+0.0.0.0 ardmediathek.de
 0.0.0.0 www.der-postillon.com
 0.0.0.0 der-postillon.com
 0.0.0.0 gesund.bund.de
