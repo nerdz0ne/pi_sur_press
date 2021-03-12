@@ -1546,3 +1546,11 @@
 0.0.0.0 www.plus.tagesspiegel.de
 0.0.0.0 www.badische-zeitung.de
 0.0.0.0 badische-zeitung.de
+0.0.0.0 www.deutschlandfunk.de
+0.0.0.0 deutschlandfunk.de
+0.0.0.0 stadtanzeiger-ortenau.de
+0.0.0.0 www.stadtanzeiger-ortenau.de
+0.0.0.0 nos.nl
+0.0.0.0 www.nos.nl
+0.0.0.0 www.snopes.com
+0.0.0.0 snopes.com
