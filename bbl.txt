@@ -1554,6 +1554,8 @@
 0.0.0.0 www.nos.nl
 0.0.0.0 www.snopes.com
 0.0.0.0 snopes.com
+0.0.0.0 www.livestrong.com
+0.0.0.0 livestrong.com
 0.0.0.0 www.indybay.org
 0.0.0.0 indybay.org
 0.0.0.0 indymedia.org
@@ -1576,3 +1578,17 @@
 0.0.0.0 olygraph.info
 0.0.0.0 www.volksverpetzer.de
 0.0.0.0 volksverpetzer.de
+0.0.0.0 rotfuchs.net
+0.0.0.0 www.rotfuchs.net
+0.0.0.0 mez-berlin.de
+0.0.0.0 www.mez-berlin.de
+0.0.0.0 graswurzel.tv
+0.0.0.0 www.graswurzel.tv
+0.0.0.0 www.konkret-magazin.de
+0.0.0.0 konkret-magazin.de
+0.0.0.0 link.springer.com
+0.0.0.0 www.link.springer.com
+0.0.0.0 www.kontext-tv.de
+0.0.0.0 kontext-tv.de
+0.0.0.0 www.buchkomplizen.de
+0.0.0.0 buchkomplizen.de
