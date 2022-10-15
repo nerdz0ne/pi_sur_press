@@ -1,0 +1,5 @@
+reg ex line for pihole
+domains/regex filter/add to blacklist
+
+watson\..*\.microsoft\.com
+
