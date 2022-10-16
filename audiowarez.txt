@@ -136,4 +136,5 @@
 0.0.0.0 www.tone2.net
 0.0.0.0 www.u-he.com
 0.0.0.0 www.u-he.de
-0.0.0.0 wyday.com www.wyday.com
+0.0.0.0 wyday.com 
+0.0.0.0 www.wyday.com
