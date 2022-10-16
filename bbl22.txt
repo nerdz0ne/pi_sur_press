@@ -1520,7 +1520,6 @@
 0.0.0.0 linksfraktionbayern.de
 0.0.0.0 linksjugend-sachsen.de
 0.0.0.0 linksjugend-solid.de
-0.0.0.0 linksjugend-solid.de´
 0.0.0.0 linkspartei.de
 0.0.0.0 linkswende.org
 0.0.0.0 litlounge.tv
