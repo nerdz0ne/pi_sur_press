@@ -1,3 +1,7 @@
+0.0.0.0 wr.de
+0.0.0.0 www.wr.de
+0.0.0.0 tz.de
+0.0.0.0 www.tz.de
 0.0.0.0 www.11freunde.de
 0.0.0.0 www.aljazeera.com
 0.0.0.0 www.amateur-fussball-hamburg.de
@@ -152,5 +156,11 @@
 0.0.0.0 wien.orf.at
 0.0.0.0 woz.ch
 0.0.0.0 wr.de
-0.0.0.0 tz.de
-0.0.0.0 www.tz.de
+0.0.0.0 www.tagesspiegel.de
+0.0.0.0 tagesspiegel.de
+0.0.0.0 www.die-partei.de
+0.0.0.0 die-partei.de
+0.0.0.0 www.fraktionsverein.de
+0.0.0.0 fraktionsverein.de
+0.0.0.0 www.zona.media
+0.0.0.0 zona.media
