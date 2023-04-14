@@ -1,4 +1,7 @@
-# pi-hole_anarchy
+# pi-hole Media Pulverizer
+
+"If one desires to improve their standard of living, free from the influence of state-run media, then this is the ideal location for them."
+
 something to give you peace of mind
 no more fakenews / propaganda / lies 
 no more manipulation
