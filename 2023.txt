@@ -79,7 +79,6 @@
 0.0.0.0 la-bora.de
 0.0.0.0 latscher.in
 0.0.0.0 left-action.de
-0.0.0.0 left-action.de
 0.0.0.0 leftvision.de
 0.0.0.0 leibi.de
 0.0.0.0 leo-koeln.org
@@ -122,7 +121,6 @@
 0.0.0.0 soli-antifa-ost.org
 0.0.0.0 stadtrevue.de
 0.0.0.0 sterneck.net
-0.0.0.0 streifzuege.org
 0.0.0.0 streifzuege.org
 0.0.0.0 syndikatkoeln.blogspot.com
 0.0.0.0 terz.org
@@ -223,7 +221,6 @@
 0.0.0.0 www.la-bora.de
 0.0.0.0 www.latscher.in
 0.0.0.0 www.left-action.de
-0.0.0.0 www.left-action.de
 0.0.0.0 www.leftvision.de
 0.0.0.0 www.leibi.de
 0.0.0.0 www.leo-koeln.org
@@ -266,7 +263,6 @@
 0.0.0.0 www.soli-antifa-ost.org
 0.0.0.0 www.stadtrevue.de
 0.0.0.0 www.sterneck.net
-0.0.0.0 www.streifzuege.org
 0.0.0.0 www.streifzuege.org
 0.0.0.0 www.syndikatkoeln.blogspot.com
 0.0.0.0 www.terz.org
