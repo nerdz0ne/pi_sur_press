@@ -139,7 +139,6 @@
 0.0.0.0 wastun.co
 0.0.0.0 werhatdergibt.org
 0.0.0.0 whk.de
-
 0.0.0.0 CounterPunch.org
 0.0.0.0 actionnetwork.org
 0.0.0.0 allgood.de
