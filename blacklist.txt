@@ -1,6 +1,6 @@
 #boykott(ed) blacklist companies
 #23andme:
-0.0.0.0 http://www..23andme.com
+0.0.0.0 http://www.23andme.com
 #72andSunny:
 0.0.0.0 http://www.72andsunny.com
 #A16z:
