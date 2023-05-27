@@ -1,329 +1,165 @@
 #boykott(ed) blacklist companies
-#23andme:
-0.0.0.0 http://www.23andme.com
-#72andSunny:
-0.0.0.0 http://www.72andsunny.com
-#A16z:
-0.0.0.0 http://www.a16z.com
-#AMD:
-0.0.0.0 http://www.amd.com
-#AT&T:
-0.0.0.0 http://www.att.com
-#AWS:
-0.0.0.0 http://www.aws.amazon.com
-#AXE:
-0.0.0.0 http://www.axe.com
-#AbbVie:
-0.0.0.0 http://www.abbvie.com
-#Abbey Road Studios:
-0.0.0.0 http://www.abbeyroad.com
-#Activision Blizzard:
-0.0.0.0 http://www.activisionblizzard.com
-#Adidas:
-0.0.0.0 http://www.adidas.com
-#Airbnb:
-0.0.0.0 http://www.airbnb.com
-#Alaska Airlines:
-0.0.0.0 http://www.alaskaair.com
-#Amazon:
-0.0.0.0 http://www.amazon.com
-#American Airlines:
-0.0.0.0 http://www.aa.comhomePage.do
-#American Apparel:
-0.0.0.0 http://www.americanapparel.com
-#American Express:
-0.0.0.0 http://www.americanexpress.com
-#Ancestry:
-0.0.0.0 http://www.ancestry.com
-#Apple Music:
-0.0.0.0 http://www.music.apple.com
-#Armani:
-0.0.0.0 http://www.armani.com
-#Asics:
-0.0.0.0 http://www.asics.com
-#Astro Gaming:
-0.0.0.0 http://www.astrogaming.com
-#Atlantic Records:
-0.0.0.0 http://www.atlanticrecords.com
-#BMW:
-0.0.0.0 http://www.bmw.com
-#BP:
-0.0.0.0 http://www.bp.com
-#Bandcamp:
-0.0.0.0 http://www.bandcamp.com
-#Bank of America:
-0.0.0.0 http://www.bankofamerica.com
-#Barclays Bank:
-0.0.0.0 http://www.barclays.co.uk
-#Barnes & Noble:
-0.0.0.0 http://www.barnesandnoble.com
-#Bayer:
-0.0.0.0 http://www.bayer.com
-#Ben & Jerry’s:
-0.0.0.0 http://www.benjerry.com
-#Bergdorf Goodman:
-0.0.0.0 http://www.bergdorfgoodman.com
-#Bethesda:
-0.0.0.0 http://www.bethesda.net
-#Billboard:
-0.0.0.0 http://www.billboard.com
-#Blizzard:
-0.0.0.0 http://www.blizzard.com
-#Boost Mobile:
-0.0.0.0 http://www.boostmobile.com
-#Braintree:
-0.0.0.0 http://www.braintreepayments.com
-#Bratz:
-0.0.0.0 http://www.bratz.com
-#Bumble:
-0.0.0.0 http://www.bumble.com
-#Bungie:
-0.0.0.0 http://www.bungie.net
-#Burberry:
-0.0.0.0 http://www.burberry.com
-#Burger King:
-0.0.0.0 http://www.bk.com
-#Burt’s Bees:
-0.0.0.0 http://www.burtsbees.com
-#CNN:
-0.0.0.0 http://www.edition.cnn.com
-#CORSAIR:
-0.0.0.0 http://www.corsair.com
-#CVS:
-0.0.0.0 http://www.cvs.com
-#CW:
-0.0.0.0 http://www.cwtv.com
-#Cadillac:
-0.0.0.0 http://www.cadillac.com
-#Call of Duty:
-0.0.0.0 http://www.callofduty.com
-#Canada Goose:
-0.0.0.0 http://www.canadagoose.com
-#Capcom:
-0.0.0.0 http://www.capcom.com
-#Capitol Records:
-0.0.0.0 http://www.capitolrecords.com
-#Cartoon Network:
-0.0.0.0 http://www.cartoonnetwork.com
-#Chick-fil-A:
-0.0.0.0 http://www.chick-fil-a.com
-#Chipotle:
-0.0.0.0 http://www.chipotle.com
-#Chips Ahoy:
-0.0.0.0 http://www.chipsahoy.com
-#Cisco:
-0.0.0.0 http://www.cisco.com
-#Citigroup:
-0.0.0.0 http://www.citigroup.com
-#Citrix Systems:
-0.0.0.0 http://www.citrix.com
-#Coca Cola:
-0.0.0.0 http://www.coca-cola.com
-#Colourpop Cosmetics:
-0.0.0.0 http://www.colourpop.com
-#Conde Nast:
-0.0.0.0 http://www.condenast.com
-#Converse:
-0.0.0.0 http://www.converse.com
-#Creative Commons:
-0.0.0.0 http://www.creativecommons.org
-#Criterion Collection:
-0.0.0.0 http://www.criterion.com
-#Crunchyroll:
-0.0.0.0 http://www.crunchyroll.com
-#DHL Express:
-0.0.0.0 http://www.dhl.com
-#DIRECTV:
-0.0.0.0 http://www.directv.com
-#Degree:
-0.0.0.0 http://www.degreedeodorant.com
-#Dell:
-0.0.0.0 http://www.dell.com
-#Devolver Digital:
-0.0.0.0 http://www.devolverdigital.com
-#Discord:
-0.0.0.0 http://www.discord.com
-#Disney:
-0.0.0.0 http://www.disney.com
-#Docusign:
-0.0.0.0 http://www.docusign.com
-#DogPile:
-0.0.0.0 http://www.dogpile.com
-#Dollar Shave Club:
-0.0.0.0 http://www.dollarshaveclub.com
-#DoorDash:
-0.0.0.0 http://www.doordash.com
-#Doritos:
-0.0.0.0 http://www.doritos.com
-#Doulingo:
-0.0.0.0 http://www.duolingo.com
-#Dribbble:
-0.0.0.0 http://www.dribbble.com
-#Dropbox:
-0.0.0.0 http://www.dropbox.com
-#E! News:
-0.0.0.0 http://www.eonline.com
-#23andme:
-0.0.0.0 http://.23andme.com
-#72andSunny:
-0.0.0.0 http://72andsunny.com
-#A16z:
-0.0.0.0 http://a16z.com
-#AMD:
-0.0.0.0 http://amd.com
-#AT&T:
-0.0.0.0 http://att.com
-#AWS:
-0.0.0.0 http://aws.amazon.com
-#AXE:
-0.0.0.0 http://axe.com
-#AbbVie:
-0.0.0.0 http://abbvie.com
-#Abbey Road Studios:
-0.0.0.0 http://abbeyroad.com
-#Activision Blizzard:
-0.0.0.0 http://activisionblizzard.com
-#Adidas:
-0.0.0.0 http://adidas.com
-#Airbnb:
-0.0.0.0 http://airbnb.com
-#Alaska Airlines:
-0.0.0.0 http://alaskaair.com
-#Amazon:
-0.0.0.0 http://amazon.com
-#American Airlines:
-0.0.0.0 http://aa.comhomePage.do
-#American Apparel:
-0.0.0.0 http://americanapparel.com
-#American Express:
-0.0.0.0 http://americanexpress.com
-#Ancestry:
-0.0.0.0 http://ancestry.com
-#Apple Music:
-0.0.0.0 http://music.apple.com
-#Armani:
-0.0.0.0 http://armani.com
-#Asics:
-0.0.0.0 http://asics.com
-#Astro Gaming:
-0.0.0.0 http://astrogaming.com
-#Atlantic Records:
-0.0.0.0 http://atlanticrecords.com
-#BMW:
-0.0.0.0 http://bmw.com
-#BP:
-0.0.0.0 http://bp.com
-#Bandcamp:
-0.0.0.0 http://bandcamp.com
-#Bank of America:
-0.0.0.0 http://bankofamerica.com
-#Barclays Bank:
-0.0.0.0 http://barclays.co.uk
-#Barnes & Noble:
-0.0.0.0 http://barnesandnoble.com
-#Bayer:
-0.0.0.0 http://bayer.com
-#Ben & Jerry’s:
-0.0.0.0 http://benjerry.com
-#Bergdorf Goodman:
-0.0.0.0 http://bergdorfgoodman.com
-#Bethesda:
-0.0.0.0 http://bethesda.net
-#Billboard:
-0.0.0.0 http://billboard.com
-#Blizzard:
-0.0.0.0 http://blizzard.com
-#Boost Mobile:
-0.0.0.0 http://boostmobile.com
-#Braintree:
-0.0.0.0 http://braintreepayments.com
-#Bratz:
-0.0.0.0 http://bratz.com
-#Bumble:
-0.0.0.0 http://bumble.com
-#Bungie:
-0.0.0.0 http://bungie.net
-#Burberry:
-0.0.0.0 http://burberry.com
-#Burger King:
-0.0.0.0 http://bk.com
-#Burt’s Bees:
-0.0.0.0 http://burtsbees.com
-#CNN:
-0.0.0.0 http://edition.cnn.com
-#CORSAIR:
-0.0.0.0 http://corsair.com
-#CVS:
-0.0.0.0 http://cvs.com
-#CW:
-0.0.0.0 http://cwtv.com
-#Cadillac:
-0.0.0.0 http://cadillac.com
-#Call of Duty:
-0.0.0.0 http://callofduty.com
-#Canada Goose:
-0.0.0.0 http://canadagoose.com
-#Capcom:
-0.0.0.0 http://capcom.com
-#Capitol Records:
-0.0.0.0 http://capitolrecords.com
-#Cartoon Network:
-0.0.0.0 http://cartoonnetwork.com
-#Chick-fil-A:
-0.0.0.0 http://chick-fil-a.com
-#Chipotle:
-0.0.0.0 http://chipotle.com
-#Chips Ahoy:
-0.0.0.0 http://chipsahoy.com
-#Cisco:
-0.0.0.0 http://cisco.com
-#Citigroup:
-0.0.0.0 http://citigroup.com
-#Citrix Systems:
-0.0.0.0 http://citrix.com
-#Coca Cola:
-0.0.0.0 http://coca-cola.com
-#Colourpop Cosmetics:
-0.0.0.0 http://colourpop.com
-#Conde Nast:
-0.0.0.0 http://condenast.com
-#Converse:
-0.0.0.0 http://converse.com
-#Creative Commons:
-0.0.0.0 http://creativecommons.org
-#Criterion Collection:
-0.0.0.0 http://criterion.com
-#Crunchyroll:
-0.0.0.0 http://crunchyroll.com
-#DHL Express:
-0.0.0.0 http://dhl.com
-#DIRECTV:
-0.0.0.0 http://directv.com
-#Degree:
-0.0.0.0 http://degreedeodorant.com
-#Dell:
-0.0.0.0 http://dell.com
-#Devolver Digital:
-0.0.0.0 http://devolverdigital.com
-#Discord:
-0.0.0.0 http://discord.com
-#Disney:
-0.0.0.0 http://disney.com
-#Docusign:
-0.0.0.0 http://docusign.com
-#DogPile:
-0.0.0.0 http://dogpile.com
-#Dollar Shave Club:
-0.0.0.0 http://dollarshaveclub.com
-#DoorDash:
-0.0.0.0 http://doordash.com
-#Doritos:
-0.0.0.0 http://doritos.com
-#Doulingo:
-0.0.0.0 http://duolingo.com
-#Dribbble:
-0.0.0.0 http://dribbble.com
-#Dropbox:
-0.0.0.0 http://dropbox.com
-#E! News:
-0.0.0.0 http://eonline.com
+0.0.0.0 https://23andme.com
+0.0.0.0 https://72andsunny.com
+0.0.0.0 https://a16z.com
+0.0.0.0 https://aa.comhomePage.do
+0.0.0.0 https://abbeyroad.com
+0.0.0.0 https://abbvie.com
+0.0.0.0 https://activisionblizzard.com
+0.0.0.0 https://adidas.com
+0.0.0.0 https://airbnb.com
+0.0.0.0 https://alaskaair.com
+0.0.0.0 https://amazon.com
+0.0.0.0 https://amd.com
+0.0.0.0 https://americanapparel.com
+0.0.0.0 https://americanexpress.com
+0.0.0.0 https://ancestry.com
+0.0.0.0 https://armani.com
+0.0.0.0 https://asics.com
+0.0.0.0 https://astrogaming.com
+0.0.0.0 https://atlanticrecords.com
+0.0.0.0 https://att.com
+0.0.0.0 https://aws.amazon.com
+0.0.0.0 https://axe.com
+0.0.0.0 https://bandcamp.com
+0.0.0.0 https://bankofamerica.com
+0.0.0.0 https://barclays.co.uk
+0.0.0.0 https://barnesandnoble.com
+0.0.0.0 https://bayer.com
+0.0.0.0 https://benjerry.com
+0.0.0.0 https://bergdorfgoodman.com
+0.0.0.0 https://bethesda.net
+0.0.0.0 https://billboard.com
+0.0.0.0 https://bk.com
+0.0.0.0 https://blizzard.com
+0.0.0.0 https://bmw.com
+0.0.0.0 https://boostmobile.com
+0.0.0.0 https://bp.com
+0.0.0.0 https://braintreepayments.com
+0.0.0.0 https://bratz.com
+0.0.0.0 https://bumble.com
+0.0.0.0 https://bungie.net
+0.0.0.0 https://burberry.com
+0.0.0.0 https://burtsbees.com
+0.0.0.0 https://cadillac.com
+0.0.0.0 https://callofduty.com
+0.0.0.0 https://canadagoose.com
+0.0.0.0 https://capcom.com
+0.0.0.0 https://capitolrecords.com
+0.0.0.0 https://cartoonnetwork.com
+0.0.0.0 https://chick-fil-a.com
+0.0.0.0 https://chipotle.com
+0.0.0.0 https://chipsahoy.com
+0.0.0.0 https://cisco.com
+0.0.0.0 https://citigroup.com
+0.0.0.0 https://citrix.com
+0.0.0.0 https://coca-cola.com
+0.0.0.0 https://colourpop.com
+0.0.0.0 https://condenast.com
+0.0.0.0 https://converse.com
+0.0.0.0 https://corsair.com
+0.0.0.0 https://creativecommons.org
+0.0.0.0 https://criterion.com
+0.0.0.0 https://crunchyroll.com
+0.0.0.0 https://cvs.com
+0.0.0.0 https://cwtv.com
+0.0.0.0 https://degreedeodorant.com
+0.0.0.0 https://dell.com
+0.0.0.0 https://devolverdigital.com
+0.0.0.0 https://dhl.com
+0.0.0.0 https://directv.com
+0.0.0.0 https://discord.com
+0.0.0.0 https://disney.com
+0.0.0.0 https://docusign.com
+0.0.0.0 https://dogpile.com
+0.0.0.0 https://dollarshaveclub.com
+0.0.0.0 https://doordash.com
+0.0.0.0 https://doritos.com
+0.0.0.0 https://dribbble.com
+0.0.0.0 https://dropbox.com
+0.0.0.0 https://duolingo.com
+0.0.0.0 https://edition.cnn.com
+0.0.0.0 https://eonline.com
+0.0.0.0 https://music.apple.com
+0.0.0.0 https://www.23andme.com
+0.0.0.0 https://www.72andsunny.com
+0.0.0.0 https://www.a16z.com
+0.0.0.0 https://www.aa.comhomePage.do
+0.0.0.0 https://www.abbeyroad.com
+0.0.0.0 https://www.abbvie.com
+0.0.0.0 https://www.activisionblizzard.com
+0.0.0.0 https://www.adidas.com
+0.0.0.0 https://www.airbnb.com
+0.0.0.0 https://www.alaskaair.com
+0.0.0.0 https://www.amazon.com
+0.0.0.0 https://www.amd.com
+0.0.0.0 https://www.americanapparel.com
+0.0.0.0 https://www.americanexpress.com
+0.0.0.0 https://www.ancestry.com
+0.0.0.0 https://www.armani.com
+0.0.0.0 https://www.asics.com
+0.0.0.0 https://www.astrogaming.com
+0.0.0.0 https://www.atlanticrecords.com
+0.0.0.0 https://www.att.com
+0.0.0.0 https://www.aws.amazon.com
+0.0.0.0 https://www.axe.com
+0.0.0.0 https://www.bandcamp.com
+0.0.0.0 https://www.bankofamerica.com
+0.0.0.0 https://www.barclays.co.uk
+0.0.0.0 https://www.barnesandnoble.com
+0.0.0.0 https://www.bayer.com
+0.0.0.0 https://www.benjerry.com
+0.0.0.0 https://www.bergdorfgoodman.com
+0.0.0.0 https://www.bethesda.net
+0.0.0.0 https://www.billboard.com
+0.0.0.0 https://www.bk.com
+0.0.0.0 https://www.blizzard.com
+0.0.0.0 https://www.bmw.com
+0.0.0.0 https://www.boostmobile.com
+0.0.0.0 https://www.bp.com
+0.0.0.0 https://www.braintreepayments.com
+0.0.0.0 https://www.bratz.com
+0.0.0.0 https://www.bumble.com
+0.0.0.0 https://www.bungie.net
+0.0.0.0 https://www.burberry.com
+0.0.0.0 https://www.burtsbees.com
+0.0.0.0 https://www.cadillac.com
+0.0.0.0 https://www.callofduty.com
+0.0.0.0 https://www.canadagoose.com
+0.0.0.0 https://www.capcom.com
+0.0.0.0 https://www.capitolrecords.com
+0.0.0.0 https://www.cartoonnetwork.com
+0.0.0.0 https://www.chick-fil-a.com
+0.0.0.0 https://www.chipotle.com
+0.0.0.0 https://www.chipsahoy.com
+0.0.0.0 https://www.cisco.com
+0.0.0.0 https://www.citigroup.com
+0.0.0.0 https://www.citrix.com
+0.0.0.0 https://www.coca-cola.com
+0.0.0.0 https://www.colourpop.com
+0.0.0.0 https://www.condenast.com
+0.0.0.0 https://www.converse.com
+0.0.0.0 https://www.corsair.com
+0.0.0.0 https://www.creativecommons.org
+0.0.0.0 https://www.criterion.com
+0.0.0.0 https://www.crunchyroll.com
+0.0.0.0 https://www.cvs.com
+0.0.0.0 https://www.cwtv.com
+0.0.0.0 https://www.degreedeodorant.com
+0.0.0.0 https://www.dell.com
+0.0.0.0 https://www.devolverdigital.com
+0.0.0.0 https://www.dhl.com
+0.0.0.0 https://www.directv.com
+0.0.0.0 https://www.discord.com
+0.0.0.0 https://www.disney.com
+0.0.0.0 https://www.docusign.com
+0.0.0.0 https://www.dogpile.com
+0.0.0.0 https://www.dollarshaveclub.com
+0.0.0.0 https://www.doordash.com
+0.0.0.0 https://www.doritos.com
+0.0.0.0 https://www.dribbble.com
+0.0.0.0 https://www.dropbox.com
+0.0.0.0 https://www.duolingo.com
+0.0.0.0 https://www.edition.cnn.com
+0.0.0.0 https://www.eonline.com
+0.0.0.0 https://www.music.apple.com
