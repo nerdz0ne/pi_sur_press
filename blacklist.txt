@@ -1,0 +1,166 @@
+#boykotted blacklist companies
+
+#23andme:
+*.23andme.com
+#72andSunny:
+*.72andsunny.com
+#A16z:
+*.a16z.com
+#AMD:
+*.amd.com
+#AT&T:
+*.att.com
+#AWS:
+*.aws.amazon.com
+#AXE:
+*.axe.com
+#AbbVie:
+*.abbvie.com
+#Abbey Road Studios:
+*.abbeyroad.com
+#Activision Blizzard:
+*.activisionblizzard.com
+#Adidas:
+*.adidas.com
+#Airbnb:
+*.airbnb.com
+#Alaska Airlines:
+*.alaskaair.com
+#Amazon:
+*.amazon.com
+#American Airlines:
+*.aa.comhomePage.do
+#American Apparel:
+*.americanapparel.com
+#American Express:
+*.americanexpress.com
+#Ancestry:
+*.ancestry.com
+#Apple Music:
+*.music.apple.com
+#Armani:
+*.armani.com
+#Asics:
+*.asics.com
+#Astro Gaming:
+*.astrogaming.com
+#Atlantic Records:
+*.atlanticrecords.com
+#BMW:
+*.bmw.com
+#BP:
+*.bp.com
+#Bandcamp:
+*.bandcamp.com
+#Bank of America:
+*.bankofamerica.com
+#Barclays Bank:
+*.barclays.co.uk
+#Barnes & Noble:
+*.barnesandnoble.com
+#Bayer:
+*.bayer.com
+#Ben & Jerry’s:
+*.benjerry.com
+#Bergdorf Goodman:
+*.bergdorfgoodman.com
+#Bethesda:
+*.bethesda.net
+#Billboard:
+*.billboard.com
+#Blizzard:
+*.blizzard.com
+#Boost Mobile:
+*.boostmobile.com
+#Braintree:
+*.braintreepayments.com
+#Bratz:
+*.bratz.com
+#Bumble:
+*.bumble.com
+#Bungie:
+*.bungie.net
+#Burberry:
+*.burberry.com
+#Burger King:
+*.bk.com
+#Burt’s Bees:
+*.burtsbees.com
+#CNN:
+*.edition.cnn.com
+#CORSAIR:
+*.corsair.com
+#CVS:
+*.cvs.com
+#CW:
+*.cwtv.com
+#Cadillac:
+*.cadillac.com
+#Call of Duty:
+*.callofduty.com
+#Canada Goose:
+*.canadagoose.com
+#Capcom:
+*.capcom.com
+#Capitol Records:
+*.capitolrecords.com
+#Cartoon Network:
+*.cartoonnetwork.com
+#Chick-fil-A:
+*.chick-fil-a.com
+#Chipotle:
+*.chipotle.com
+#Chips Ahoy:
+*.chipsahoy.com
+#Cisco:
+*.cisco.com
+#Citigroup:
+*.citigroup.com
+#Citrix Systems:
+*.citrix.com
+#Coca Cola:
+*.coca-cola.com
+#Colourpop Cosmetics:
+*.colourpop.com
+#Conde Nast:
+*.condenast.com
+#Converse:
+*.converse.com
+#Creative Commons:
+*.creativecommons.org
+#Criterion Collection:
+*.criterion.com
+#Crunchyroll:
+*.crunchyroll.com
+#DHL Express:
+*.dhl.com
+#DIRECTV:
+*.directv.com
+#Degree:
+*.degreedeodorant.com
+#Dell:
+*.dell.com
+#Devolver Digital:
+*.devolverdigital.com
+#Discord:
+*.discord.com
+#Disney:
+*.disney.com
+#Docusign:
+*.docusign.com
+#DogPile:
+*.dogpile.com
+#Dollar Shave Club:
+*.dollarshaveclub.com
+#DoorDash:
+*.doordash.com
+#Doritos:
+*.doritos.com
+#Doulingo:
+*.duolingo.com
+#Dribbble:
+*.dribbble.com
+#Dropbox:
+*.dropbox.com
+#E! News:
+*.eonline.com
