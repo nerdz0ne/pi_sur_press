@@ -97,6 +97,7 @@
 0.0.0.0 dash.bitwig.com
 0.0.0.0 ddmf.eu
 0.0.0.0 dev1.ipm.corel.public.corel.net
+0.0.0.0 djswivel.com
 0.0.0.0 dlcf.positivegrid.com
 0.0.0.0 docs.raxco.com
 0.0.0.0 dotec-audio.com
