@@ -1,4 +1,6 @@
-# pi-hole Media Pulverizer
+# pi-hole Media Pulverizer 
+# Filterlist 
+# Blocklist
 
 This is a small approach that helps you to flee away from the center of insanity...
 
