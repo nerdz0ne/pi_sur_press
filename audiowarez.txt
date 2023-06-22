@@ -1,7 +1,3 @@
-0.0.0.0 157.56.8.159
-0.0.0.0 173.231.151.131
-0.0.0.0 217.160.0.171
-0.0.0.0 217.160.0.45
 0.0.0.0 303clones.com # AudioRealism
 0.0.0.0 3dns-1.adobe.com
 0.0.0.0 3dns-2.adobe.com
@@ -13,13 +9,20 @@
 0.0.0.0 64.13.192.110
 0.0.0.0 69.167.144.18
 0.0.0.0 74.86.5.247
+0.0.0.0 89.161.254.97  d16group.pl
 0.0.0.0 Tone2.co.uk
+0.0.0.0 Tone2.co.uk
+0.0.0.0 Tone2.co.uk # Tone2
 0.0.0.0 Tone2.co.uk # Tone2
 0.0.0.0 Tone2.co.uk localhost
 0.0.0.0 Tone2.com
+0.0.0.0 Tone2.com
+0.0.0.0 Tone2.com # Tone2
 0.0.0.0 Tone2.com # Tone2
 0.0.0.0 Tone2.com localhost
 0.0.0.0 Tone2.net
+0.0.0.0 Tone2.net
+0.0.0.0 Tone2.net # Tone2
 0.0.0.0 Tone2.net # Tone2
 0.0.0.0 Tone2.net localhost
 0.0.0.0 abas.hofa.de
@@ -29,6 +32,7 @@
 0.0.0.0 ableton.de localhost
 0.0.0.0 abyssmedia.com
 0.0.0.0 abyssmedia.com localhost
+0.0.0.0 accentize.com
 0.0.0.0 account.acronis.com
 0.0.0.0 account.acronis.com # Acronis
 0.0.0.0 account.deltasoundlabs.com
@@ -37,6 +41,7 @@
 0.0.0.0 account.positivegrid.com # positivegrid
 0.0.0.0 accounts.us1.gigya.com
 0.0.0.0 accounts.us1.gigya.com # Pioneer
+0.0.0.0 accusonus.api-us1.com
 0.0.0.0 accusonus.api-us1.com
 0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sea.adobe.de
@@ -55,6 +60,7 @@
 0.0.0.0 activation.acronis.com # Acronis
 0.0.0.0 activation.cloud.techsmith.com
 0.0.0.0 activation.cyberlink.com
+0.0.0.0 activation.cyberlink.com # Cyberlink
 0.0.0.0 activation.easeus.com
 0.0.0.0 activation.easeus.com # EaseUS
 0.0.0.0 adobe-dns-1.adobe.com
@@ -92,19 +98,28 @@
 0.0.0.0 auth.cycling74.com
 0.0.0.0 auth64.cycling74.com
 0.0.0.0 bandicam.com
+0.0.0.0 bandicam.com
+0.0.0.0 bandicam.com # Bandicam
 0.0.0.0 bandicam.com # Bandicam
 0.0.0.0 bandisoft.com
+0.0.0.0 bandisoft.com
+0.0.0.0 bandisoft.com # Bandicam
 0.0.0.0 bandisoft.com # Bandicam
 0.0.0.0 beatskillz-prod.us-west-1.elasticbeanstalk.com
 0.0.0.0 beta.raxco.com
 0.0.0.0 bias1.positivegrid.com
 0.0.0.0 bias1.positivegrid.com # positivegrid
+0.0.0.0 bitsumactivationserver.com
+0.0.0.0 bitwig.com
 0.0.0.0 bitwig.com
 0.0.0.0 bitwig.com  localhost
+0.0.0.0 bleass.com
+0.0.0.0 bleass.com # BLEASS
 0.0.0.0 bozdigitallabs.com
 0.0.0.0 cableguys.com
 0.0.0.0 camtasiatudi.techsmith.com
 0.0.0.0 cap.cyberlink.com
+0.0.0.0 cap.cyberlink.com # Cyberlink
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cc-api-data.adobe.io # Adobe
@@ -112,6 +127,7 @@
 0.0.0.0 ccleaner.piriform.com # Piriform
 0.0.0.0 cert.bandicam.com
 0.0.0.0 cert.bandicam.com # Bandicam
+0.0.0.0 check4updates.com
 0.0.0.0 cloud.kuvo.com
 0.0.0.0 cloud.kuvo.com # Pioneer
 0.0.0.0 cloudflare.com
@@ -138,6 +154,12 @@
 0.0.0.0 ec2-52-70-136-170.compute-1.amazonaws.com
 0.0.0.0 ec2-54-70-136-156.us-west-2.compute.amazonaws.com
 0.0.0.0 elephantafiles.com
+0.0.0.0 elephantafiles.com
+0.0.0.0 elephantafiles.com # R2R fakers
+0.0.0.0 elephantafiles.net
+0.0.0.0 elephantafiles.net # R2R fakers
+0.0.0.0 elephantafiles.org
+0.0.0.0 elephantafiles.org # R2R fakers
 0.0.0.0 entitlements.steinberg.net # Steinberg
 0.0.0.0 ereg.adobe.com
 0.0.0.0 ereg.adobe.de
@@ -149,6 +171,8 @@
 0.0.0.0 ereg.wip4.adobe.com
 0.0.0.0 expatriate.goodhertz.com
 0.0.0.0 expatriate.goodhertz.com # Goodhertz
+0.0.0.0 fabfilter.com
+0.0.0.0 fabfilter.com # FabFilter
 0.0.0.0 focusrite.count.ly
 0.0.0.0 focusrite.count.ly # Focusrite
 0.0.0.0 foodstamps.blacksaltaudio.com
@@ -163,22 +187,26 @@
 0.0.0.0 goodhertz.com
 0.0.0.0 goodhertz.com # Goodhertz
 0.0.0.0 gudaaudio.com
+0.0.0.0 high-logic.com
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 hlrcv.stage.adobe.com
 0.0.0.0 hlrcv.stage.adobe.com # Adobe
 0.0.0.0 hofa-shop.com
 0.0.0.0 hofa-shop.com abas.hofa.de
-0.0.0.0 https://support.image-line.com # Image-Line
-0.0.0.0 https://www.image-line.com # Image-Line
 0.0.0.0 ic.adobe.io
 0.0.0.0 ic.adobe.io # Adobe
 0.0.0.0 id.serato.com # Serato
 0.0.0.0 ids.rvslabs.io
 0.0.0.0 ids.rvslabs.io # Roland
+0.0.0.0 ikstore.com
+0.0.0.0 ikstore.com # IK Multimedia
+0.0.0.0 image-line.com
 0.0.0.0 ipm.corel.com
 0.0.0.0 iws.corel.com
 0.0.0.0 izotope.com
 0.0.0.0 juce.com
+0.0.0.0 juce.com
+0.0.0.0 juce.com # Juce
 0.0.0.0 juce.com # Juce
 0.0.0.0 khaelis.com
 0.0.0.0 license-api.ccleaner.com
@@ -209,11 +237,14 @@
 0.0.0.0 macplatform.wondershare.com
 0.0.0.0 mc.corel.com
 0.0.0.0 meldaproduction.com
+0.0.0.0 meldaproduction.com
+0.0.0.0 meldaproduction.com # MeldaProduction
 0.0.0.0 my.wondershare.com
 0.0.0.0 na1r.services.adobe.com
 0.0.0.0 na1r.services.adobe.com # Adobe
 0.0.0.0 native-instruments.com
 0.0.0.0 native-instruments.de
+0.0.0.0 netlimiter.com
 0.0.0.0 netlimiter.com
 0.0.0.0 ns1.acronis.com # Acronis
 0.0.0.0 ns2.acronis.com # Acronis
@@ -230,11 +261,15 @@
 0.0.0.0 output-looper-json-api.herokuapp.com # Output
 0.0.0.0 output.com
 0.0.0.0 overloud.com
+0.0.0.0 overloud.com
+0.0.0.0 overloud.com # Overloud
 0.0.0.0 overloud.com # Overloud
 0.0.0.0 packs.bitwig.com
 0.0.0.0 pg-api-staging.herokuapp.com # positivegrid
 0.0.0.0 pg-tonecloud-webapp.herokuapp.com
 0.0.0.0 pg-tonecloud-webapp.herokuapp.com # positivegrid
+0.0.0.0 pitchinnovations.com
+0.0.0.0 pitchinnovations.com # Pitch Innovations
 0.0.0.0 platform.wondershare.com
 0.0.0.0 plugin-alliance.com
 0.0.0.0 pluginboutique.com
@@ -253,9 +288,14 @@
 0.0.0.0 prod.adobegenuine.com # Adobe
 0.0.0.0 pulsarmodular.com
 0.0.0.0 pulsarmodular.com # Pulsar Modular
+0.0.0.0 quikquak.com # QuikQuak
 0.0.0.0 r2rdownload.com
+0.0.0.0 r2rdownload.com # R2R fakers
 0.0.0.0 r2rdownload.net
+0.0.0.0 r2rdownload.net # R2R fakers
 0.0.0.0 r2rdownload.org
+0.0.0.0 r2rdownload.org # R2R fakers
+0.0.0.0 raxco.com
 0.0.0.0 raxco.com
 0.0.0.0 rb-share.kuvo.com # Pioneer
 0.0.0.0 register.waves.com
@@ -273,6 +313,8 @@
 0.0.0.0 slimware.com
 0.0.0.0 slyfidigital.com
 0.0.0.0 soniccharge.com
+0.0.0.0 sononym.net # Sononym
+0.0.0.0 soundradix.com # SoundRadix
 0.0.0.0 ssl.bandisoft.com
 0.0.0.0 ssl.bandisoft.com # Bandicam
 0.0.0.0 stagecraft-prod.us-west-1.elasticbeanstalk.com
@@ -281,16 +323,24 @@
 0.0.0.0 store.tokyodawn.net
 0.0.0.0 sugar-bytes.de
 0.0.0.0 support.image-line.com
+0.0.0.0 support.image-line.com # Image-Line
 0.0.0.0 support.vengeance-sound.com
+0.0.0.0 support.vengeance-sound.com # Vengeance
 0.0.0.0 support.vengeance-sound.com # Vengeance
 0.0.0.0 synapse-audio.com
 0.0.0.0 synapse-audio.com    localhost
 0.0.0.0 syntorial.com
+0.0.0.0 syntorial.com # Syntorial
 0.0.0.0 tal-software.com
+0.0.0.0 techsmith.com
 0.0.0.0 tokyodawn.net
 0.0.0.0 tone2.co.uk
+0.0.0.0 tone2.co.uk
+0.0.0.0 tone2.com
 0.0.0.0 tone2.com
 0.0.0.0 tone2.net
+0.0.0.0 tone2.net
+0.0.0.0 toneboosters.com # ToneBoosters
 0.0.0.0 tonecloud-staging.herokuapp.com # positivegrid
 0.0.0.0 tonecloud.positivegrid.com
 0.0.0.0 tonecloud.positivegrid.com # positivegrid
@@ -301,7 +351,9 @@
 0.0.0.0 txc.ikmultimedia.com
 0.0.0.0 txc.ikmultimedia.com # IK Multimedia
 0.0.0.0 u-he.com
+0.0.0.0 u-he.com # u-he
 0.0.0.0 u-he.de
+0.0.0.0 u-he.de # u-he
 0.0.0.0 update.raxco.com
 0.0.0.0 update3.raxco.com
 0.0.0.0 updater.techsmith.com
@@ -313,6 +365,7 @@
 0.0.0.0 userarea.d16.pl
 0.0.0.0 userarea.d16.pl # D16
 0.0.0.0 vengeance-sound.com
+0.0.0.0 vengeance-sound.com # Vengeance
 0.0.0.0 virsyn.com
 0.0.0.0 virsyn.de
 0.0.0.0 virtual.gudaaudio.com
@@ -323,6 +376,7 @@
 0.0.0.0 vox1b.nuedge.net # Sonic Charge
 0.0.0.0 voxengo.com
 0.0.0.0 vps-avenger.com
+0.0.0.0 vps-avenger.com # Vengeance
 0.0.0.0 waves.com
 0.0.0.0 web-api-tih.acronis.com
 0.0.0.0 web-api-tih.acronis.com # Acronis
@@ -366,6 +420,7 @@
 0.0.0.0 www.ikstore.com
 0.0.0.0 www.ikstore.com # IK Multimedia
 0.0.0.0 www.image-line.com
+0.0.0.0 www.image-line.com # Image-Line
 0.0.0.0 www.juce.com
 0.0.0.0 www.juce.com # Juce
 0.0.0.0 www.meldaproduction.com
@@ -411,5 +466,11 @@
 0.0.0.0 www.xferrecordz.com
 0.0.0.0 www.xferrecordz.com # XferRecords
 0.0.0.0 wyday.com
-0.0.0.1 activation.cyberlink.com # Cyberlink
-0.0.0.1 cap.cyberlink.com # Cyberlink
+0.0.0.0 wyday.com # DJ Swivel
+0.0.0.0 xferrecords.com # XferRecords
+0.0.0.0 xferrecordz.com # XferRecords
+157.56.8.159 phonehome
+173.231.151.131 phonehome
+217.160.0.171 phonehome
+217.160.0.45 phonehome
+89.161.254.97 phonehome #d16group.pl
