@@ -469,8 +469,8 @@
 0.0.0.0 wyday.com # DJ Swivel
 0.0.0.0 xferrecords.com # XferRecords
 0.0.0.0 xferrecordz.com # XferRecords
-157.56.8.159 phonehome
-173.231.151.131 phonehome
-217.160.0.171 phonehome
-217.160.0.45 phonehome
-89.161.254.97 phonehome #d16group.pl
+0.0.0.0 157.56.8.159 #phonehome
+0.0.0.0 173.231.151.131 #phonehome
+0.0.0.0 217.160.0.171 #phonehome
+0.0.0.0 217.160.0.45 #phonehome
+0.0.0.0 89.161.254.97 #phonehomed16group.pl
