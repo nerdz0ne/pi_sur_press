@@ -1,4 +1,4 @@
-0.0.0.0 #cdn-ffc.oobesaas.adobe.com/*
+0.0.0.0 cdn-ffc.oobesaas.adobe.com
 0.0.0.0 3dns-3.adobe.com
 0.0.0.0 3dns-2.adobe.com
 0.0.0.0 3dns-1.adobe.com
@@ -392,8 +392,8 @@
 0.0.0.0 www.wip2.adobe.com
 0.0.0.0 www.wip3.adobe.com
 0.0.0.0 www.wip4.adobe.com
-0.0.0.0 wwwimages.adobe.com
-0.0.0.0 wwwimages2.adobe.com
+0.0.0.0 www.images.adobe.com
+0.0.0.0 www.images2.adobe.com
 0.0.0.0 xd-cdn.adobecces.com
 0.0.0.0 xd.adobe.com
 0.0.0.0 xdce.adobe.io
