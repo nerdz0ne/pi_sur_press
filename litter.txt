@@ -203,7 +203,6 @@
 0.0.0.0 belltower.news
 0.0.0.0 belvilla.com
 0.0.0.0 bento.de
-0.0.0.0 bento.de/
 0.0.0.0 beobachter.ch
 0.0.0.0 beobachtertv.ch
 0.0.0.0 berliner-morgenpost.de
@@ -1213,7 +1212,6 @@
 0.0.0.0 www.belltower.news
 0.0.0.0 www.belvilla.com
 0.0.0.0 www.bento.de
-0.0.0.0 www.bento.de/
 0.0.0.0 www.beobachter.ch
 0.0.0.0 www.beobachtertv.ch
 0.0.0.0 www.berliner-morgenpost.de
