@@ -1,5 +1,4 @@
 0.0.0.0 cdn-ffc.oobesaas.adobe.com
-
 0.0.0.0 3dns-3.adobe.com
 0.0.0.0 3dns-2.adobe.com
 0.0.0.0 3dns-1.adobe.com
