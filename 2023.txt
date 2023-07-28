@@ -449,11 +449,9 @@
 0.0.0.0 www.forpro.org
 0.0.0.0 www.fr.de
 0.0.0.0 www.freeopenarms.org
-0.0.0.0 www.github.com/imbstt/impf-progress-bot
 0.0.0.0 www.healthfeedback.org
 0.0.0.0 www.heroku.com
 0.0.0.0 www.hsh-dresden.de
-0.0.0.0 www.imbstt.github.io/impf-progress-bot
 0.0.0.0 www.impfdashboard.de
 0.0.0.0 www.infomigrants.net
 0.0.0.0 www.jungewelt.de
