@@ -1,478 +1,238 @@
-0.0.0.0 180grad.org
-0.0.0.0 afaction.info
-0.0.0.0 agkrefeld.org
-0.0.0.0 aitrus.info
-0.0.0.0 aktionsnetzwerk.de
-0.0.0.0 allerweltshaus.de
-0.0.0.0 allgaeu-rechtsaussen.de
-0.0.0.0 anarchismus.at
-0.0.0.0 anarchismus.de
-0.0.0.0 anarchistbookfair.net
-0.0.0.0 anatradivaucanson.it
-0.0.0.0 antifanews.de
-0.0.0.0 argument.de
-0.0.0.0 arranca.de
-0.0.0.0 askonline.ch
-0.0.0.0 atlantik-verlag.de
-0.0.0.0 attac-koeln.de
-0.0.0.0 aufruhr.squat.net
-0.0.0.0 autistici.org
-0.0.0.0 autofrei.de
-0.0.0.0 backup-nrw.org
-0.0.0.0 bamm.de
-0.0.0.0 bieleflow.de
-0.0.0.0 buko.info
-0.0.0.0 bundestag.de
-0.0.0.0 bwp-koeln.de
-0.0.0.0 chefduzen.de
-0.0.0.0 contrainfo.espiv.net
-0.0.0.0 contraste.org
-0.0.0.0 corpwatch.org
-0.0.0.0 criticaradical.org
-0.0.0.0 de.indymedia.org
-0.0.0.0 de.yahoo.com
-0.0.0.0 decolonize-weimar.org
-0.0.0.0 dfg-vk.de
-0.0.0.0 dgb-bwt.de
-0.0.0.0 digitalistan.de
-0.0.0.0 drugscouts.de
-0.0.0.0 emafrie.de
-0.0.0.0 etuxx.com
-0.0.0.0 exit-online.org
-0.0.0.0 exitinenglish.com
-0.0.0.0 extinctionrebellion.de
-0.0.0.0 facebook.com
-0.0.0.0 firstdraftnews.org
-0.0.0.0 forbes.com
-0.0.0.0 frauenrechte.de
-0.0.0.0 frauenstadtarchiv.de
-0.0.0.0 freilassung.de
-0.0.0.0 gaypunk.de
-0.0.0.0 gigi-online.de
-0.0.0.0 graswurzel.net
-0.0.0.0 gruene-hilfe.de
-0.0.0.0 h-ref.de
-0.0.0.0 hamburgrecords.com
-0.0.0.0 hanf-initiative.de
-0.0.0.0 hermine-termine.net
-0.0.0.0 homme-moderne.org
-0.0.0.0 horlemann.net
-0.0.0.0 infoladen.de
-0.0.0.0 infoladen.net
-0.0.0.0 irgendwoindeutschland.org
-0.0.0.0 iz3w.org
-0.0.0.0 jena.fau.org
-0.0.0.0 jes-bundesverband.de
-0.0.0.0 jg-stadtmitte.de
-0.0.0.0 jungdemokratinnen.de
-0.0.0.0 kalinka-m.org
-0.0.0.0 kanak-attak.de
-0.0.0.0 kanalb.org
-0.0.0.0 kipppunkt-kollektiv.de
-0.0.0.0 kmii-koeln.de
-0.0.0.0 koelnglobal.de
-0.0.0.0 kombinat-fortschritt.com
-0.0.0.0 konicz.info
-0.0.0.0 krisis.org
-0.0.0.0 kritisch-lesen.de
-0.0.0.0 kuhle-wampe.de
-0.0.0.0 la-bora.de
-0.0.0.0 latscher.in
-0.0.0.0 left-action.de
-0.0.0.0 leftvision.de
-0.0.0.0 leibi.de
-0.0.0.0 leo-koeln.org
-0.0.0.0 libcom.org
-0.0.0.0 logicmag.io
-0.0.0.0 lz.de
-0.0.0.0 magdelstube.de
-0.0.0.0 marxforschung.de
-0.0.0.0 maschinenraum.tk
-0.0.0.0 memri.de
-0.0.0.0 merve.de
-0.0.0.0 mimikama.org
-0.0.0.0 mobb-jena.de
-0.0.0.0 ms-alternativ.de
-0.0.0.0 naturfreundejugend-berlin.de
-0.0.0.0 nd-aktuell.de
-0.0.0.0 neustadt-ticker.de
-0.0.0.0 news.yahoo.com
-0.0.0.0 nikostsouris.wordpress.com
-0.0.0.0 nrhz.de
-0.0.0.0 nsu-watch.info
-0.0.0.0 oekumenisches-netz.de
-0.0.0.0 offenearbeiterfurt.de
-0.0.0.0 paperball.news
-0.0.0.0 plotter.infoladen.de
-0.0.0.0 polylog.org
-0.0.0.0 projektwerkstatt.de
-0.0.0.0 propublica.org
-0.0.0.0 puk.de
-0.0.0.0 qsdf.org
-0.0.0.0 queeres-zentrum-erfurt.de
-0.0.0.0 queergestellt.de
-0.0.0.0 quintessenz.at
-0.0.0.0 ramonamarsi.de
-0.0.0.0 randbild.photoshelter.com
-0.0.0.0 redroxx.de
-0.0.0.0 sabotnik.infoladen.net
-0.0.0.0 sachsen.nsu-watch.info
-0.0.0.0 schmetterling-verlag.de
-0.0.0.0 soli-antifa-ost.org
-0.0.0.0 stadtrevue.de
-0.0.0.0 sterneck.net
-0.0.0.0 streifzuege.org
-0.0.0.0 syndikatkoeln.blogspot.com
-0.0.0.0 terz.org
-0.0.0.0 thur.de
-0.0.0.0 transversal.at
-0.0.0.0 trend.infopartisan.net
-0.0.0.0 tte-buecherei.de
-0.0.0.0 turi2.de
-0.0.0.0 umwaelzung.de
-0.0.0.0 umwaelzung.info
-0.0.0.0 unrast-verlag.de
-0.0.0.0 verbrecherei.de
-0.0.0.0 vvn-bda-leipzig.de
-0.0.0.0 wadi-online.de
-0.0.0.0 wadi-online.org
-0.0.0.0 wastun.co
-0.0.0.0 werhatdergibt.org
-0.0.0.0 whk.de
-0.0.0.0 CounterPunch.org
-0.0.0.0 actionnetwork.org
-0.0.0.0 allgood.de
-0.0.0.0 anarchistnews.org
-0.0.0.0 antifa-berlin.info
-0.0.0.0 antilopengang.de
-0.0.0.0 asylstrikeberlin.wordpress.com
-0.0.0.0 blogs.dw.com
-0.0.0.0 boingboing.net
-0.0.0.0 idavox.com
-0.0.0.0 intlantifadefence.wordpress.com
-0.0.0.0 jmsc.hku.hk
-0.0.0.0 krasserstoff.com
-0.0.0.0 krautreporter.de
-0.0.0.0 kurbelkiste.de
-0.0.0.0 mammuth-music.de
-0.0.0.0 orf.at
-0.0.0.0 praxistipps.focus.de
-0.0.0.0 revolutionbildung.de
-0.0.0.0 shrx-music.com
-0.0.0.0 silvanaimam.com
-0.0.0.0 steadynews.de
-0.0.0.0 stopfalsebalance.de
-0.0.0.0 suedpolstation.feierwerk.de
-0.0.0.0 threewayfight.blogspot.com
-0.0.0.0 twit.tv
-0.0.0.0 unicornriot.ninja
-0.0.0.0 viktoria-kino.de
-0.0.0.0 ardaudiothek.de
-0.0.0.0 blogrebellen.de
-0.0.0.0 businessinsider.de
-0.0.0.0 datingsweetsugardaddy.com
-0.0.0.0 deutschlandfunkkultur.de
-0.0.0.0 edge.org
-0.0.0.0 fritz.de
-0.0.0.0 irie-revoltes.com
-0.0.0.0 irierevoltes-shop.de
-0.0.0.0 jahcoustix-music.com
-0.0.0.0 jetzt.de
-0.0.0.0 jungundnaiv.de
-0.0.0.0 komm-passion.de
-0.0.0.0 kulturrat.de
-0.0.0.0 latimes.com
-0.0.0.0 newsweek.com
-0.0.0.0 novarock.at
-0.0.0.0 poetryfoundation.org
-0.0.0.0 politicon.com
-0.0.0.0 ruhr24.de
-0.0.0.0 twit.tv
-0.0.0.0 urbantreemusic.de
-0.0.0.0 vina-rock.com
-0.0.0.0 watson.ch
-0.0.0.0 www.CounterPunch.org
-0.0.0.0 www.actionnetwork.org
-0.0.0.0 www.allgood.de
-0.0.0.0 www.anarchistnews.org
-0.0.0.0 www.antifa-berlin.info
-0.0.0.0 www.antilopengang.de
-0.0.0.0 www.asylstrikeberlin.wordpress.com
-0.0.0.0 www.blogs.dw.com
-0.0.0.0 www.boingboing.net
-0.0.0.0 www.idavox.com
-0.0.0.0 www.intlantifadefence.wordpress.com
-0.0.0.0 www.jmsc.hku.hk
-0.0.0.0 www.krasserstoff.com
-0.0.0.0 www.krautreporter.de
-0.0.0.0 www.kurbelkiste.de
-0.0.0.0 www.mammuth-music.de
-0.0.0.0 www.orf.at
-0.0.0.0 www.praxistipps.focus.de
-0.0.0.0 www.revolutionbildung.de
-0.0.0.0 www.shrx-music.com
-0.0.0.0 www.silvanaimam.com
-0.0.0.0 www.steadynews.de
-0.0.0.0 www.stopfalsebalance.de
-0.0.0.0 www.suedpolstation.feierwerk.de
-0.0.0.0 www.threewayfight.blogspot.com
-0.0.0.0 www.twit.tv
-0.0.0.0 www.unicornriot.ninja
-0.0.0.0 www.viktoria-kino.de
-0.0.0.0 www.ardaudiothek.de
-0.0.0.0 www.blogrebellen.de
-0.0.0.0 www.businessinsider.de
-0.0.0.0 www.datingsweetsugardaddy.com
-0.0.0.0 www.deutschlandfunkkultur.de
-0.0.0.0 www.edge.org
-0.0.0.0 www.fritz.de
-0.0.0.0 www.irie-revoltes.com
-0.0.0.0 www.irierevoltes-shop.de
-0.0.0.0 www.jahcoustix-music.com
-0.0.0.0 www.jetzt.de
-0.0.0.0 www.jungundnaiv.de
-0.0.0.0 www.komm-passion.de
-0.0.0.0 www.kulturrat.de
-0.0.0.0 www.latimes.com
-0.0.0.0 www.newsweek.com
-0.0.0.0 www.novarock.at
-0.0.0.0 www.poetryfoundation.org
-0.0.0.0 www.politicon.com
-0.0.0.0 www.ruhr24.de
-0.0.0.0 www.twit.tv
-0.0.0.0 www.urbantreemusic.de
-0.0.0.0 www.vina-rock.com
-0.0.0.0 www.watson.ch
-0.0.0.0 wiesenthal.com
-0.0.0.0 www.180grad.org
-0.0.0.0 www.afaction.info
-0.0.0.0 www.agkrefeld.org
-0.0.0.0 www.aitrus.info
-0.0.0.0 www.aktionsnetzwerk.de
-0.0.0.0 www.allerweltshaus.de
-0.0.0.0 www.allgaeu-rechtsaussen.de
-0.0.0.0 www.anarchismus.at
-0.0.0.0 www.anarchismus.de
-0.0.0.0 www.anarchistbookfair.net
-0.0.0.0 www.anatradivaucanson.it
-0.0.0.0 www.antifanews.de
-0.0.0.0 www.argument.de
-0.0.0.0 www.arranca.de
-0.0.0.0 www.askonline.ch
-0.0.0.0 www.atlantik-verlag.de
-0.0.0.0 www.attac-koeln.de
-0.0.0.0 www.aufruhr.squat.net
-0.0.0.0 www.autistici.org
-0.0.0.0 www.autofrei.de
-0.0.0.0 www.backup-nrw.org
-0.0.0.0 www.bamm.de
-0.0.0.0 www.bieleflow.de
-0.0.0.0 www.buko.info
-0.0.0.0 www.bundestag.de
-0.0.0.0 www.bwp-koeln.de
-0.0.0.0 www.chefduzen.de
-0.0.0.0 www.contrainfo.espiv.net
-0.0.0.0 www.contraste.org
-0.0.0.0 www.corpwatch.org
-0.0.0.0 www.criticaradical.org
-0.0.0.0 www.de.indymedia.org
-0.0.0.0 www.de.yahoo.com
-0.0.0.0 www.decolonize-weimar.org
-0.0.0.0 www.dfg-vk.de
-0.0.0.0 www.dgb-bwt.de
-0.0.0.0 www.digitalistan.de
-0.0.0.0 www.drugscouts.de
-0.0.0.0 www.emafrie.de
-0.0.0.0 www.etuxx.com
-0.0.0.0 www.exit-online.org
-0.0.0.0 www.exitinenglish.com
-0.0.0.0 www.extinctionrebellion.de
-0.0.0.0 www.facebook.com
-0.0.0.0 www.firstdraftnews.org
-0.0.0.0 www.forbes.com
-0.0.0.0 www.frauenrechte.de
-0.0.0.0 www.frauenstadtarchiv.de
-0.0.0.0 www.freilassung.de
-0.0.0.0 www.gaypunk.de
-0.0.0.0 www.gigi-online.de
-0.0.0.0 www.graswurzel.net
-0.0.0.0 www.gruene-hilfe.de
-0.0.0.0 www.h-ref.de
-0.0.0.0 www.hamburgrecords.com
-0.0.0.0 www.hanf-initiative.de
-0.0.0.0 www.hermine-termine.net
-0.0.0.0 www.homme-moderne.org
-0.0.0.0 www.horlemann.net
-0.0.0.0 www.infoladen.de
-0.0.0.0 www.infoladen.net
-0.0.0.0 www.irgendwoindeutschland.org
-0.0.0.0 www.iz3w.org
-0.0.0.0 www.jena.fau.org
-0.0.0.0 www.jes-bundesverband.de
-0.0.0.0 www.jg-stadtmitte.de
-0.0.0.0 www.jungdemokratinnen.de
-0.0.0.0 www.kalinka-m.org
-0.0.0.0 www.kanak-attak.de
-0.0.0.0 www.kanalb.org
-0.0.0.0 www.kipppunkt-kollektiv.de
-0.0.0.0 www.kmii-koeln.de
-0.0.0.0 www.koelnglobal.de
-0.0.0.0 www.kombinat-fortschritt.com
-0.0.0.0 www.konicz.info
-0.0.0.0 www.krisis.org
-0.0.0.0 www.kritisch-lesen.de
-0.0.0.0 www.kuhle-wampe.de
-0.0.0.0 www.la-bora.de
-0.0.0.0 www.latscher.in
-0.0.0.0 www.left-action.de
-0.0.0.0 www.leftvision.de
-0.0.0.0 www.leibi.de
-0.0.0.0 www.leo-koeln.org
-0.0.0.0 www.libcom.org
-0.0.0.0 www.logicmag.io
-0.0.0.0 www.lz.de
-0.0.0.0 www.magdelstube.de
-0.0.0.0 www.marxforschung.de
-0.0.0.0 www.maschinenraum.tk
-0.0.0.0 www.memri.de
-0.0.0.0 www.merve.de
-0.0.0.0 www.mimikama.org
-0.0.0.0 www.mobb-jena.de
-0.0.0.0 www.ms-alternativ.de
-0.0.0.0 www.naturfreundejugend-berlin.de
-0.0.0.0 www.nd-aktuell.de
-0.0.0.0 www.neustadt-ticker.de
-0.0.0.0 www.news.yahoo.com
-0.0.0.0 www.nikostsouris.wordpress.com
-0.0.0.0 www.nrhz.de
-0.0.0.0 www.nsu-watch.info
-0.0.0.0 www.oekumenisches-netz.de
-0.0.0.0 www.offenearbeiterfurt.de
-0.0.0.0 www.paperball.news
-0.0.0.0 www.plotter.infoladen.de
-0.0.0.0 www.polylog.org
-0.0.0.0 www.projektwerkstatt.de
-0.0.0.0 www.propublica.org
-0.0.0.0 www.puk.de
-0.0.0.0 www.qsdf.org
-0.0.0.0 www.queeres-zentrum-erfurt.de
-0.0.0.0 www.queergestellt.de
-0.0.0.0 www.quintessenz.at
-0.0.0.0 www.ramonamarsi.de
-0.0.0.0 www.randbild.photoshelter.com
-0.0.0.0 www.redroxx.de
-0.0.0.0 www.sabotnik.infoladen.net
-0.0.0.0 www.sachsen.nsu-watch.info
-0.0.0.0 www.schmetterling-verlag.de
-0.0.0.0 www.soli-antifa-ost.org
-0.0.0.0 www.stadtrevue.de
-0.0.0.0 www.sterneck.net
-0.0.0.0 www.streifzuege.org
-0.0.0.0 www.syndikatkoeln.blogspot.com
-0.0.0.0 www.terz.org
-0.0.0.0 www.thur.de
-0.0.0.0 www.transversal.at
-0.0.0.0 www.trend.infopartisan.net
-0.0.0.0 www.tte-buecherei.de
-0.0.0.0 www.turi2.de
-0.0.0.0 www.umwaelzung.de
-0.0.0.0 www.umwaelzung.info
-0.0.0.0 www.unrast-verlag.de
-0.0.0.0 www.verbrecherei.de
-0.0.0.0 www.vvn-bda-leipzig.de
-0.0.0.0 www.wadi-online.de
-0.0.0.0 www.wadi-online.org
-0.0.0.0 www.wastun.co
-0.0.0.0 www.werhatdergibt.org
-0.0.0.0 www.whk.de
-0.0.0.0 www.wiesenthal.com
-0.0.0.0 www.zag-berlin.de
-0.0.0.0 www.zuklampen.de
-0.0.0.0 zag-berlin.de
-0.0.0.0 zuklampen.de
-0.0.0.0 abcnews.go.com
-0.0.0.0 aerohisto.blogspot.com
-0.0.0.0 alltageinesfotoproduzenten.de
-0.0.0.0 apnews.com
-0.0.0.0 armin-laschet.de
-0.0.0.0 atlanticpacific.org.uk
-0.0.0.0 audiolith.net
-0.0.0.0 civilfleet.org
-0.0.0.0 das-nettz.de
-0.0.0.0 dresden-postkolonial.de
-0.0.0.0 dunyacollective.org
-0.0.0.0 europemustact.org
-0.0.0.0 factcheck.org
-0.0.0.0 femstreiknbg.home.blog
-0.0.0.0 forpro.org
-0.0.0.0 fr.de
-0.0.0.0 freeopenarms.org
-0.0.0.0 healthfeedback.org
-0.0.0.0 heroku.com
-0.0.0.0 hsh-dresden.de
-0.0.0.0 impfdashboard.de
-0.0.0.0 infomigrants.net
-0.0.0.0 jungewelt.de
-0.0.0.0 kulturbuero-sachsen.de
-0.0.0.0 mimikama.org
-0.0.0.0 moveit-festival.de
-0.0.0.0 naus-dresden.org
-0.0.0.0 nypost.com
-0.0.0.0 pravda.com.ua
-0.0.0.0 reuters.com
-0.0.0.0 robertkneschke.de
-0.0.0.0 rotesdresden.net
-0.0.0.0 saechsischer-fluechtlingsrat.de
-0.0.0.0 schweigemarsch-stoppen.de
-0.0.0.0 sciencebasedmedicine.org
-0.0.0.0 sea-watch.org
-0.0.0.0 sh-dresden.de
-0.0.0.0 true-rebel-store.com
-0.0.0.0 umsganze.org
-0.0.0.0 welcome-united.org
-0.0.0.0 wired.com
-0.0.0.0 wsj.com
-0.0.0.0 www.abcnews.go.com
-0.0.0.0 www.aerohisto.blogspot.com
-0.0.0.0 www.alltageinesfotoproduzenten.de
-0.0.0.0 www.apnews.com
-0.0.0.0 www.armin-laschet.de
-0.0.0.0 www.atlanticpacific.org.uk
-0.0.0.0 www.audiolith.net
-0.0.0.0 www.civilfleet.org
-0.0.0.0 www.das-nettz.de
-0.0.0.0 www.dresden-postkolonial.de
-0.0.0.0 www.dunyacollective.org
-0.0.0.0 www.europemustact.org
-0.0.0.0 www.factcheck.org
-0.0.0.0 www.femstreiknbg.home.blog
-0.0.0.0 www.forpro.org
-0.0.0.0 www.fr.de
-0.0.0.0 www.freeopenarms.org
-0.0.0.0 www.healthfeedback.org
-0.0.0.0 www.heroku.com
-0.0.0.0 www.hsh-dresden.de
-0.0.0.0 www.impfdashboard.de
-0.0.0.0 www.infomigrants.net
-0.0.0.0 www.jungewelt.de
-0.0.0.0 www.kulturbuero-sachsen.de
-0.0.0.0 www.mimikama.org
-0.0.0.0 www.moveit-festival.de
-0.0.0.0 www.naus-dresden.org
-0.0.0.0 www.nypost.com
-0.0.0.0 www.pravda.com.ua
-0.0.0.0 www.reuters.com
-0.0.0.0 www.robertkneschke.de
-0.0.0.0 www.rotesdresden.net
-0.0.0.0 www.saechsischer-fluechtlingsrat.de
-0.0.0.0 www.schweigemarsch-stoppen.de
-0.0.0.0 www.sciencebasedmedicine.org
-0.0.0.0 www.sea-watch.org
-0.0.0.0 www.sh-dresden.de
-0.0.0.0 www.true-rebel-store.com
-0.0.0.0 www.umsganze.org
-0.0.0.0 www.welcome-united.org
-0.0.0.0 www.wired.com
-0.0.0.0 www.wsj.com
-0.0.0.0 www.zentralkino.de
-0.0.0.0 zentralkino.de
+#osint
+||180grad.org^
+||CounterPunch.org^
+||abcnews.go.com^
+||actionnetwork.org^
+||aerohisto.blogspot.com^
+||afaction.info^
+||agkrefeld.org^
+||aitrus.info^
+||aktionsnetzwerk.de^
+||allerweltshaus.de^
+||allgaeu-rechtsaussen.de^
+||allgood.de^
+||alltageinesfotoproduzenten.de^
+||anarchismus.at^
+||anarchismus.de^
+||anarchistbookfair.net^
+||anarchistnews.org^
+||anatradivaucanson.it^
+||antifa-berlin.info^
+||antifanews.de^
+||antilopengang.de^
+||apnews.com^
+||ardaudiothek.de^
+||argument.de^
+||armin-laschet.de^
+||arranca.de^
+||askonline.ch^
+||asylstrikeberlin.wordpress.com^
+||atlanticpacific.org.uk^
+||atlantik-verlag.de^
+||attac-koeln.de^
+||audiolith.net^
+||aufruhr.squat.net^
+||autistici.org^
+||autofrei.de^
+||backup-nrw.org^
+||bamm.de^
+||bieleflow.de^
+||blogrebellen.de^
+||blogs.dw.com^
+||boingboing.net^
+||buko.info^
+||bundestag.de^
+||businessinsider.de^
+||bwp-koeln.de^
+||chefduzen.de^
+||civilfleet.org^
+||contrainfo.espiv.net^
+||contraste.org^
+||corpwatch.org^
+||criticaradical.org^
+||das-nettz.de^
+||datingsweetsugardaddy.com^
+||de.indymedia.org^
+||de.yahoo.com^
+||decolonize-weimar.org^
+||deutschlandfunkkultur.de^
+||dfg-vk.de^
+||dgb-bwt.de^
+||digitalistan.de^
+||dresden-postkolonial.de^
+||drugscouts.de^
+||dunyacollective.org^
+||edge.org^
+||emafrie.de^
+||etuxx.com^
+||europemustact.org^
+||exit-online.org^
+||exitinenglish.com^
+||extinctionrebellion.de^
+||facebook.com^
+||factcheck.org^
+||femstreiknbg.home.blog^
+||firstdraftnews.org^
+||forbes.com^
+||forpro.org^
+||fr.de^
+||frauenrechte.de^
+||frauenstadtarchiv.de^
+||freeopenarms.org^
+||freilassung.de^
+||fritz.de^
+||gaypunk.de^
+||gigi-online.de^
+||graswurzel.net^
+||gruene-hilfe.de^
+||h-ref.de^
+||hamburgrecords.com^
+||hanf-initiative.de^
+||healthfeedback.org^
+||hermine-termine.net^
+||heroku.com^
+||homme-moderne.org^
+||horlemann.net^
+||hsh-dresden.de^
+||idavox.com^
+||impfdashboard.de^
+||infoladen.de^
+||infoladen.net^
+||infomigrants.net^
+||intlantifadefence.wordpress.com^
+||irgendwoindeutschland.org^
+||irie-revoltes.com^
+||irierevoltes-shop.de^
+||iz3w.org^
+||jahcoustix-music.com^
+||jena.fau.org^
+||jes-bundesverband.de^
+||jetzt.de^
+||jg-stadtmitte.de^
+||jmsc.hku.hk^
+||jungdemokratinnen.de^
+||jungewelt.de^
+||jungundnaiv.de^
+||kalinka-m.org^
+||kanak-attak.de^
+||kanalb.org^
+||kipppunkt-kollektiv.de^
+||kmii-koeln.de^
+||koelnglobal.de^
+||kombinat-fortschritt.com^
+||komm-passion.de^
+||konicz.info^
+||krasserstoff.com^
+||krautreporter.de^
+||krisis.org^
+||kritisch-lesen.de^
+||kuhle-wampe.de^
+||kulturbuero-sachsen.de^
+||kulturrat.de^
+||kurbelkiste.de^
+||la-bora.de^
+||latimes.com^
+||latscher.in^
+||left-action.de^
+||leftvision.de^
+||leibi.de^
+||leo-koeln.org^
+||libcom.org^
+||logicmag.io^
+||lz.de^
+||magdelstube.de^
+||mammuth-music.de^
+||marxforschung.de^
+||maschinenraum.tk^
+||memri.de^
+||merve.de^
+||mimikama.org^
+||mobb-jena.de^
+||moveit-festival.de^
+||ms-alternativ.de^
+||naturfreundejugend-berlin.de^
+||naus-dresden.org^
+||nd-aktuell.de^
+||neustadt-ticker.de^
+||news.yahoo.com^
+||newsweek.com^
+||nikostsouris.wordpress.com^
+||novarock.at^
+||nrhz.de^
+||nsu-watch.info^
+||nypost.com^
+||oekumenisches-netz.de^
+||offenearbeiterfurt.de^
+||orf.at^
+||paperball.news^
+||plotter.infoladen.de^
+||poetryfoundation.org^
+||politicon.com^
+||polylog.org^
+||pravda.com.ua^
+||praxistipps.focus.de^
+||projektwerkstatt.de^
+||propublica.org^
+||puk.de^
+||qsdf.org^
+||queeres-zentrum-erfurt.de^
+||queergestellt.de^
+||quintessenz.at^
+||ramonamarsi.de^
+||randbild.photoshelter.com^
+||redroxx.de^
+||reuters.com^
+||revolutionbildung.de^
+||robertkneschke.de^
+||rotesdresden.net^
+||ruhr24.de^
+||sabotnik.infoladen.net^
+||sachsen.nsu-watch.info^
+||saechsischer-fluechtlingsrat.de^
+||schmetterling-verlag.de^
+||schweigemarsch-stoppen.de^
+||sciencebasedmedicine.org^
+||sea-watch.org^
+||sh-dresden.de^
+||shrx-music.com^
+||silvanaimam.com^
+||soli-antifa-ost.org^
+||stadtrevue.de^
+||steadynews.de^
+||sterneck.net^
+||stopfalsebalance.de^
+||streifzuege.org^
+||suedpolstation.feierwerk.de^
+||syndikatkoeln.blogspot.com^
+||terz.org^
+||threewayfight.blogspot.com^
+||thur.de^
+||transversal.at^
+||trend.infopartisan.net^
+||true-rebel-store.com^
+||tte-buecherei.de^
+||turi2.de^
+||twit.tv^
+||umsganze.org^
+||umwaelzung.de^
+||umwaelzung.info^
+||unicornriot.ninja^
+||unrast-verlag.de^
+||urbantreemusic.de^
+||verbrecherei.de^
+||viktoria-kino.de^
+||vina-rock.com^
+||vvn-bda-leipzig.de^
+||wadi-online.de^
+||wadi-online.org^
+||wastun.co^
+||watson.ch^
+||welcome-united.org^
+||werhatdergibt.org^
+||whk.de^
+||wiesenthal.com^
+||wired.com^
+||wsj.com^
+||zag-berlin.de^
+||zentralkino.de^
+||zuklampen.de^
