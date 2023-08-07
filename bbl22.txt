@@ -205,7 +205,6 @@
 ||belltower.news^
 ||belvilla.com^
 ||bento.de^
-||bento.de^
 ||beobachter.ch^
 ||beobachtertv.ch^
 ||berliner-morgenpost.de^
