@@ -1192,8 +1192,8 @@
 ||wunderweib.de^
 ||wz.de^
 ||x-berg.de^
-||xn--linksfraktion-baden-wrttemberg-pfd.de^
-||xn--untergrund-blttle-2qb.ch^
+||linksfraktion-baden-wrttemberg-pfd.de^
+||untergrund-blttle-2qb.ch^
 ||yad2.co.il^
 ||yoc.de^
 ||younggloballeaders.org^
