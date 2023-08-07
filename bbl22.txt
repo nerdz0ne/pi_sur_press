@@ -204,7 +204,7 @@
 ||bellingcat.com^
 ||belltower.news^
 ||belvilla.com^
-||bento.de/^
+||bento.de^
 ||bento.de^
 ||beobachter.ch^
 ||beobachtertv.ch^
@@ -796,7 +796,6 @@
 ||rf-news.de^
 ||rga.de^
 ||rhein-mainer.de^
-||rhein-zeitung.d^
 ||rhein-zeitung.de^
 ||rheinneckarblog.de^
 ||rheinpfalz.de^
