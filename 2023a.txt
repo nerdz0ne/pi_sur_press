@@ -1,574 +1,573 @@
-0.0.0.0 1rx.io
-0.0.0.0 2cnt.net
-0.0.0.0 3lift.com
-0.0.0.0 5rocks.io
-0.0.0.0 88-f.net
-0.0.0.0 ad-tech.nbcuni.com
-0.0.0.0 addthis.com
-0.0.0.0 addthis.com
-0.0.0.0 addthisedge.com
-0.0.0.0 adeventtracker.spotify.com
-0.0.0.0 adhigh.net
-0.0.0.0 adincube.com
-0.0.0.0 adj.st
-0.0.0.0 adjust.com
-0.0.0.0 adjust.io
-0.0.0.0 adkmob.com
-0.0.0.0 adlightning.com
-0.0.0.0 admantx.com
-0.0.0.0 adobedtm.com
-0.0.0.0 ads-cloud.rovio.com
-0.0.0.0 ads-fa.cdn.spotify.com
-0.0.0.0 ads-fa.spotify.com
-0.0.0.0 ads-nyj-nfl.yinzcam.com
-0.0.0.0 ads-resources-legacy.waze.com
-0.0.0.0 ads-resources.waze.com
-0.0.0.0 ads-trk.vidible.tv
-0.0.0.0 ads-twitter.com
-0.0.0.0 ads.ak.facebook.com
-0.0.0.0 ads.internal.unity3d.com
-0.0.0.0 ads.prd.ie.internal.unity3d.com
-0.0.0.0 ads.tapdaq.com.cdn.cloudflare.net
-0.0.0.0 ads.twitter.com
-0.0.0.0 ads.yahoo.com
-0.0.0.0 adsafeprotected.com
-0.0.0.0 adsassets.waze.com
-0.0.0.0 adsbynimbus.com
-0.0.0.0 adserver.pandora.com
-0.0.0.0 adserver.snapads.com
-0.0.0.0 adserver.yahoo.com
-0.0.0.0 adservice.google.com
-0.0.0.0 adswizz.com
-0.0.0.0 adthrive.com
-0.0.0.0 adtrack1.midasplayer.com
-0.0.0.0 advil.waze.com
-0.0.0.0 aerserv.com
-0.0.0.0 agentanalytics.com
-0.0.0.0 agkn.com
-0.0.0.0 airbrake.io
-0.0.0.0 alb.reddit.com
-0.0.0.0 alexametrics.com
-0.0.0.0 amazon-adsystem.amazon.com
-0.0.0.0 amp-error-reporting.appspot.com
-0.0.0.0 amplitude.com
-0.0.0.0 analytic.rollout.io
-0.0.0.0 analytics-tracker.thescore.com
-0.0.0.0 analytics.bsgwireless.com
-0.0.0.0 analytics.edgekey.net
-0.0.0.0 analytics.edgesuite.net
-0.0.0.0 analytics.hardlightgames.com
-0.0.0.0 analytics.kaltura.com
-0.0.0.0 analytics.mobile.walmart.com
-0.0.0.0 analytics.nike.com
-0.0.0.0 analytics.plex.tv
-0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 analytics.robinhood.com
-0.0.0.0 analytics.spotify.com
-0.0.0.0 analytics.thescore.com
-0.0.0.0 analytics.us.algolia.com
-0.0.0.0 analytics.xcal.tv
-0.0.0.0 analytics.yahoo.com
-0.0.0.0 apidn.net
-0.0.0.0 app-analytics.snapchat.com
-0.0.0.0 app-measurement.com
-0.0.0.0 appboy-images.com
-0.0.0.0 appboy.com
-0.0.0.0 appdynamics.com
-0.0.0.0 applifier.info
-0.0.0.0 applift.com
-0.0.0.0 applvn.com
-0.0.0.0 appmetrica.yandex.com
-0.0.0.0 appnext.com
-0.0.0.0 appnext.hs.llnwd.net
-0.0.0.0 appsee.com
-0.0.0.0 appserver-ap.com
-0.0.0.0 appsflyer.com
-0.0.0.0 apptentive.com
-0.0.0.0 apptimize.com
-0.0.0.0 apsalar.com
-0.0.0.0 apxlv.com
-0.0.0.0 aspen.ngtv.io
-0.0.0.0 atemda.com
-0.0.0.0 atom-data.io
-0.0.0.0 b.yahoo.com
-0.0.0.0 bango.combango.org
-0.0.0.0 bango.net
-0.0.0.0 bazaarvoice.com
-0.0.0.0 beacon.shazam.com
-0.0.0.0 beacon.shzcld.com
-0.0.0.0 beacons.gvt12.com
-0.0.0.0 betrad.com
-0.0.0.0 bfmio.com
-0.0.0.0 bkrtx.com
-0.0.0.0 bluekai.com
-0.0.0.0 bn5x.net
-0.0.0.0 bnc.lt
-0.0.0.0 bounceexchange.com
-0.0.0.0 branch.io
-0.0.0.0 braze.com
-0.0.0.0 braze.eu
-0.0.0.0 bronto.com
-0.0.0.0 bttn.io
-0.0.0.0 bugfender.com
-0.0.0.0 buglife.com
-0.0.0.0 bugsense.com
-0.0.0.0 bugsnag.com
-0.0.0.0 burstly.com
-0.0.0.0 c3tag.com
-0.0.0.0 campaign-tracker.us-west-2.prod.expedia.com
-0.0.0.0 campaign.adobe.com
-0.0.0.0 carnivalmobile.com
-0.0.0.0 casalemedia.com.edgekey.net
-0.0.0.0 cdn.ravenjs.com
-0.0.0.0 channeladvisor.com
-0.0.0.0 chartboost.com
-0.0.0.0 chatra.io
-0.0.0.0 ci360.sas.com
-0.0.0.0 cintnetworks.com
-0.0.0.0 clearbit.com
-0.0.0.0 clicks.beap.bc.yahoo.com
-0.0.0.0 clicktale.net
-0.0.0.0 client-event-reporter-production-854057631.us-west-2.elb.amazonaws.com
-0.0.0.0 client-event-reporter.twitch.tv
-0.0.0.0 cogocast.net
-0.0.0.0 coin-hive.com
-0.0.0.0 coinhive.com
-0.0.0.0 comscore.com
-0.0.0.0 comscoreresearch.com
-0.0.0.0 concert.io
-0.0.0.0 concertads-configs.vox-cdn.com
-0.0.0.0 conductrics.com
-0.0.0.0 connectionassist.com
-0.0.0.0 consensu.org
-0.0.0.0 constant.co
-0.0.0.0 contributor.google.com
-0.0.0.0 converge-digital.com
-0.0.0.0 conviva.com
-0.0.0.0 cookielaw.org
-0.0.0.0 count.ly
-0.0.0.0 cpamatik.com
-0.0.0.0 crashdump.spotify.com
-0.0.0.0 crashlytics.com
-0.0.0.0 crazyegg.com
-0.0.0.0 creative.ak.facebook.com
-0.0.0.0 criteo.net
-0.0.0.0 crittercism.com
-0.0.0.0 cross-promo.mwx.ext.mobilityware.com
-0.0.0.0 crosspromo.voodoo.io
-0.0.0.0 crsspxl.com
-0.0.0.0 crwdcntrl.net
-0.0.0.0 cryptocompare.com
-0.0.0.0 cstat.apple.com
-0.0.0.0 cuebiq.com
-0.0.0.0 datamixer-pa.googleapis.com
-0.0.0.0 dc-1.net
-0.0.0.0 decibelinsight.net
-0.0.0.0 demdex.net
-0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 device9.com
-0.0.0.0 dfw-beacon.mobile.walmart.com
-0.0.0.0 digitalexperience.ibm.com
-0.0.0.0 disqusads.com
-0.0.0.0 dl-debug.dropbox.com
-0.0.0.0 dotomi.weighted.com
-0.0.0.0 dotomi.weighted.com.akadns.net
-0.0.0.0 doubleverify.com
-0.0.0.0 drift.com
-0.0.0.0 driftt.com
-0.0.0.0 dxc.dxi-na1.saas.broadcom.com
-0.0.0.0 dynatrace-managed.com
-0.0.0.0 dyntrk.com
-0.0.0.0 dzc-metrics.mzstatic.com
-0.0.0.0 e.reddit.com
-0.0.0.0 eccmp.com
-0.0.0.0 edvfwlacluo.com
-0.0.0.0 elb-aws-va-visualiq-39389596.us-east-1.elb.amazonaws.com
-0.0.0.0 emb-api.com
-0.0.0.0 emxdgt.com
-0.0.0.0 ensighten.com
-0.0.0.0 eum-appdynamics.com
-0.0.0.0 events.mapbox.com
-0.0.0.0 everesttech.net
-0.0.0.0 evidon.com
-0.0.0.0 exacttargetapis.com
-0.0.0.0 exelator.com
-0.0.0.0 exposebox.com
-0.0.0.0 extend.tv
-0.0.0.0 extole.io
-0.0.0.0 eyeblaster.akadns.net
-0.0.0.0 eyeota.net
-0.0.0.0 fastly-analytics.com
-0.0.0.0 fastly-insights.com
-0.0.0.0 fastlyanalytics.map.fastly.net
-0.0.0.0 flashtalking.com
-0.0.0.0 flightrecorder.co
-0.0.0.0 flix360.com
-0.0.0.0 flixcar.com
-0.0.0.0 flixfacts.com
-0.0.0.0 flurry.com
-0.0.0.0 flurry.gycs.b.yahoodns.net
-0.0.0.0 fn-pz.com
-0.0.0.0 footmarks.com
-0.0.0.0 foresee.com
-0.0.0.0 foreseeresults.com
-0.0.0.0 freegeoip.net
-0.0.0.0 freewheel.com
-0.0.0.0 freewheel.tv
-0.0.0.0 fullstory.com
-0.0.0.0 fundingchoicesmessages.google.com
-0.0.0.0 fusepowered.com
-0.0.0.0 fwmrm.net
-0.0.0.0 gameanalytics.com
-0.0.0.0 gemini.yahoo.com
-0.0.0.0 geolocation.onetrust.com
-0.0.0.0 getblueshift.com
-0.0.0.0 getexceptional.com
-0.0.0.0 getsentry.net
-0.0.0.0 gimbal.com
-0.0.0.0 glassboxcloud.com
-0.0.0.0 go-mpulse.net
-0.0.0.0 google-analytics.com
-0.0.0.0 googleadapis.l.google.com
-0.0.0.0 googleadservices.com
-0.0.0.0 googlesyndication.com
-0.0.0.0 googletagmanager.com
-0.0.0.0 googletagservices.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 gscontxt.net
-0.0.0.0 gstaticadssl.l.google.com
-0.0.0.0 helpshift.com
-0.0.0.0 heyzap.com
-0.0.0.0 hlserve.com
-0.0.0.0 hockeyapp.net
-0.0.0.0 hotjar.com
-0.0.0.0 hs-analytics.net
-0.0.0.0 hs-growth-metrics.com
-0.0.0.0 hs-scripts.com
-0.0.0.0 hw-ads.datpiff.com
-0.0.0.0 iadc.qwapi.com
-0.0.0.0 iadsdk.apple.com
-0.0.0.0 id1.cn
-0.0.0.0 igodigital.com
-0.0.0.0 imasdk.googleapis.com
-0.0.0.0 improving.duckduckgo.com
-0.0.0.0 imrworldwide.com
-0.0.0.0 imrworldwide.net
-0.0.0.0 indexww.com
-0.0.0.0 infonline.de
-0.0.0.0 ingameads.gameloft.com
-0.0.0.0 inmobi.com
-0.0.0.0 innovid.com
-0.0.0.0 insightexpressai.com
-0.0.0.0 inspectlet.com
-0.0.0.0 instabug.com
-0.0.0.0 intelematics.com
-0.0.0.0 intercom.com
-0.0.0.0 intercom.io
-0.0.0.0 internal-pixel-use101-lighttpd-elb-1202564112.us-east-1.elb.amazonaws.com
-0.0.0.0 ioam.de
-0.0.0.0 ios.nccp.netflix.com
-0.0.0.0 iponweb.net
-0.0.0.0 iterable.com
-0.0.0.0 jacappsdata.com
-0.0.0.0 jumptap.com
-0.0.0.0 kampyle.com
-0.0.0.0 keywee.co
-0.0.0.0 kiip.me
-0.0.0.0 kissmetrics.com
-0.0.0.0 kochava.com
-0.0.0.0 kontagent.net
-0.0.0.0 krxd.net
-0.0.0.0 launchdarkly.com
-0.0.0.0 layer.com
-0.0.0.0 leanplum.com
-0.0.0.0 li9jiy.net
-0.0.0.0 liveclicker.net
-0.0.0.0 livesegmentservice.com
-0.0.0.0 lkqd.net
-0.0.0.0 localytics.com
-0.0.0.0 log-va.tiktoktv.com
-0.0.0.0 log.getdropbox.com
-0.0.0.0 log.gns.go.com
-0.0.0.0 log.go.com
-0.0.0.0 log.pinterest.com
-0.0.0.0 log.spotify.com
-0.0.0.0 log.zoom.us
-0.0.0.0 logentries.com
-0.0.0.0 logging.citrixonline.com
-0.0.0.0 logging.groupon.com
-0.0.0.0 loggly.com
-0.0.0.0 logrocket.com
-0.0.0.0 logs.dashlane.com
-0.0.0.0 logs.petcube.com
-0.0.0.0 logs.roku.com
-0.0.0.0 luckyorange.com
-0.0.0.0 luckyorange.net
-0.0.0.0 lyr8.net
-0.0.0.0 mads.amazon.com
-0.0.0.0 makerlow.com
-0.0.0.0 mantisadnetwork.com
-0.0.0.0 mantodea-production-1204681484.us-east-1.elb.amazonaws.com
-0.0.0.0 marketingcloudapis.com
-0.0.0.0 marketingsolutions.yahoo.com
-0.0.0.0 marketo.com
-0.0.0.0 maxads.io
-0.0.0.0 maxymiser.net
-0.0.0.0 mc.yandex.ru
-0.0.0.0 measuread.com
-0.0.0.0 mediavoice.com
-0.0.0.0 metrics.aetn.com
-0.0.0.0 metrics.brightcove.com
-0.0.0.0 metrics.claspws.tv
-0.0.0.0 metrics.cnn.com
-0.0.0.0 metrics.cvshealth.com
-0.0.0.0 metrics.fe.apple-dns.net
-0.0.0.0 metrics.foxnews.com
-0.0.0.0 metrics.icloud.com
-0.0.0.0 metrics.nfl.com
-0.0.0.0 metrics.tbliab.net
-0.0.0.0 metrics.washingtonpost.com
-0.0.0.0 metricscollector.lp.xcal.tv
-0.0.0.0 mfadsrvr.com
-0.0.0.0 mixpanel.com
-0.0.0.0 ml314.com
-0.0.0.0 mmstat.com
-0.0.0.0 moatads.com.edgekey.net
-0.0.0.0 moatpixel.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
-0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
-0.0.0.0 mobileapptracking.com
-0.0.0.0 mobilenetworkscoring-pa.googleapis.com
-0.0.0.0 monetate.net
-0.0.0.0 mopub.com
-0.0.0.0 mopub.pub
-0.0.0.0 mouseflow.com
-0.0.0.0 mparticle.com
-0.0.0.0 msmetrics.ws.sonos.com
-0.0.0.0 mtrcs.samba.tv
-0.0.0.0 mxpnl.com
-0.0.0.0 mxptint.net
-0.0.0.0 mytrkz.com
-0.0.0.0 myvisualiq.net
-0.0.0.0 narrative.io
-0.0.0.0 newrelic.com
-0.0.0.0 ngads.internal.unity3d.com
-0.0.0.0 nielsencollections.com
-0.0.0.0 nile.works
-0.0.0.0 ninthdecimal.com
-0.0.0.0 notify.bugsnag.com
-0.0.0.0 npttech.com
-0.0.0.0 nr-data.net
-0.0.0.0 ogury.com
-0.0.0.0 ogury.io
-0.0.0.0 omnivirt.com
-0.0.0.0 omtrdc.net
-0.0.0.0 omtrdca.net
-0.0.0.0 onelink.me
-0.0.0.0 onscroll.com
-0.0.0.0 ooyala.com
-0.0.0.0 ooyala.com.akadns.net
-0.0.0.0 openx.net
-0.0.0.0 ophan.co.uk
-0.0.0.0 ophan.theguardian.com
-0.0.0.0 optimizely.com
-0.0.0.0 owneriq.net
-0.0.0.0 pagead-googlehosted.l.google.com
-0.0.0.0 parsely.com
-0.0.0.0 pendo.io
-0.0.0.0 perf.hsforms.com
-0.0.0.0 perfectmarket.com
-0.0.0.0 perimeterx.net
-0.0.0.0 permutive.com
-0.0.0.0 pippio.com
-0.0.0.0 pitashi.io
-0.0.0.0 pixel.facebook.com
-0.0.0.0 pixel.quantserve.net
-0.0.0.0 pixel.wp.com
-0.0.0.0 placer.io
-0.0.0.0 playtomic.com
-0.0.0.0 polarcdn-terrax.com
-0.0.0.0 proper.io
-0.0.0.0 pubnative.net
-0.0.0.0 qq.com
-0.0.0.0 qualaroo.com
-0.0.0.0 qualtrics.com
-0.0.0.0 quantcount.com
-0.0.0.0 quantummetric.com
-0.0.0.0 qwapi.com
-0.0.0.0 radar.io
-0.0.0.0 rezync.com
-0.0.0.0 rfihub.com
-0.0.0.0 rfihub.com.akadns.net
-0.0.0.0 roosterfirework.com
-0.0.0.0 rover.io
-0.0.0.0 row-advil.waze.com
-0.0.0.0 roximity.com
-0.0.0.0 rubiconproject.net
-0.0.0.0 rubiconproject.net.akadns.net
-0.0.0.0 rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com
-0.0.0.0 s.gycs.b.yahoodns.net
-0.0.0.0 safedk.com
-0.0.0.0 sail-horizon.com
-0.0.0.0 sail-personalize.com
-0.0.0.0 sail-track.com
-0.0.0.0 salemove.com
-0.0.0.0 samplicio.us
-0.0.0.0 sanalytics.disneyplus.com
-0.0.0.0 sanalytics.tbs.com
-0.0.0.0 sanalytics.tntdrama.com
-0.0.0.0 sanalytics.verizon.com
-0.0.0.0 sc-analytics.appspot.com
-0.0.0.0 secure.footprint.net
-0.0.0.0 securemetrics.apple.com
-0.0.0.0 segment.com
-0.0.0.0 segment.io
-0.0.0.0 sellpoint.net
-0.0.0.0 sellpoints.com
-0.0.0.0 sellpoints.map.fastly.net
-0.0.0.0 sentry-cdn.com
-0.0.0.0 sentry.io
-0.0.0.0 service.cmp.oath.com
-0.0.0.0 services.brightline.tv
-0.0.0.0 serving-sys.com
-0.0.0.0 servogram.io
-0.0.0.0 sessioncam.com
-0.0.0.0 sharethis.com
-0.0.0.0 sharethrough.com
-0.0.0.0 simpleanalytics.io
-0.0.0.0 simplereach.com
-0.0.0.0 singular.com
-0.0.0.0 singular.net
-0.0.0.0 sitescout.com
-0.0.0.0 slyceapp.com
-0.0.0.0 smartlook.com
-0.0.0.0 smetric.hilton.com
-0.0.0.0 smetrics.bestbuy.com
-0.0.0.0 smetrics.cnn.com
-0.0.0.0 smetrics.costco.com
-0.0.0.0 smetrics.delta.com
-0.0.0.0 smetrics.foxnews.com
-0.0.0.0 smetrics.marriott.com
-0.0.0.0 smetrics.mastercard.com
-0.0.0.0 smetrics.nfl.com
-0.0.0.0 smetrics.people.com
-0.0.0.0 smetrics.redbox.com
-0.0.0.0 socdm.com
-0.0.0.0 sojern.com
-0.0.0.0 solocpm.com
-0.0.0.0 sonobi.com
-0.0.0.0 soom.la
-0.0.0.0 sovrn.com
-0.0.0.0 spade.twitch.tv
-0.0.0.0 splkmobile.com
-0.0.0.0 spotx.tv
-0.0.0.0 ssix.io
-0.0.0.0 ssl-google-analytics.l.google.com
-0.0.0.0 startappexchange.com
-0.0.0.0 startappservice.com
-0.0.0.0 stathat.com
-0.0.0.0 stats.glb.paypal.com
-0.0.0.0 stats.kaltura.com
-0.0.0.0 stats.pandora.com
-0.0.0.0 stats.paypal.com
-0.0.0.0 stats.transitapp.com
-0.0.0.0 stats.ulysses.app
-0.0.0.0 stats.wp.com
-0.0.0.0 stickyadstv.com
-0.0.0.0 stickyadstv.com.akadns.net
-0.0.0.0 summerhamster.com
-0.0.0.0 sumologic.com
-0.0.0.0 supercell.net
-0.0.0.0 supersonic.com
-0.0.0.0 supersonicads-a.akamaihd.net
-0.0.0.0 supersonicads.com
-0.0.0.0 sw88.go.com
-0.0.0.0 swirl.com
-0.0.0.0 swoop.com
-0.0.0.0 swpcld.com
-0.0.0.0 swpsvc.com
-0.0.0.0 swrve.com
-0.0.0.0 taboola.map.fastly.net
-0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
-0.0.0.0 tapdaq.com
-0.0.0.0 tapjoy.com
-0.0.0.0 taplytics.com
-0.0.0.0 tapresearch.com
-0.0.0.0 tapstream.com
-0.0.0.0 teads.tv
-0.0.0.0 tealeaf.ibmcloud.com
-0.0.0.0 tealiumiq.com
-0.0.0.0 telemetry.dropbox.com
-0.0.0.0 telemetry.microsoft.com
-0.0.0.0 telemetry.mozilla.org
-0.0.0.0 telemetry.mozilla.org
-0.0.0.0 telemetry.soundcloud.com
-0.0.0.0 tenjin.io
-0.0.0.0 tentacles.smartocto.com
-0.0.0.0 thebrighttag.com
-0.0.0.0 tinypass.com
-0.0.0.0 tiqcdn.com
-0.0.0.0 tkbo.com
-0.0.0.0 trac.us
-0.0.0.0 track.cj.akadns.net
-0.0.0.0 track.hubspot.com
-0.0.0.0 track.wattpad.com
-0.0.0.0 tracking.nextdoor.com
-0.0.0.0 trackjs.com
-0.0.0.0 traffic.club
-0.0.0.0 treasuredata.com
-0.0.0.0 triplelift.com
-0.0.0.0 trk.pinterest.com
-0.0.0.0 trk.vidible.tv
-0.0.0.0 tru.am
-0.0.0.0 truoptik.com
-0.0.0.0 trustarc.com
-0.0.0.0 truste.com
-0.0.0.0 trustx.org
-0.0.0.0 trvl-px.com
-0.0.0.0 tune.com
-0.0.0.0 turn.com
-0.0.0.0 turn.com.akadns.net
-0.0.0.0 tvsquared.com
-0.0.0.0 umeng.com
-0.0.0.0 umengcloud.com
-0.0.0.0 unagi-na.amazon.com
-0.0.0.0 unityads.com
-0.0.0.0 unityads.unity3d.com
-0.0.0.0 unityads.us
-0.0.0.0 upsight-api.com
-0.0.0.0 urbanairship.com
-0.0.0.0 us2-events-1-427560769.us-west-2.elb.amazonaws.com
-0.0.0.0 usbla.net
-0.0.0.0 usebutton.com
-0.0.0.0 usergrid.com
-0.0.0.0 userreplay.net
-0.0.0.0 uservoice.com
-0.0.0.0 venues.waze.com
-0.0.0.0 viglink.com
-0.0.0.0 vilynx.com
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 vrvm.com
-0.0.0.0 vungle.com
-0.0.0.0 vwo.com
-0.0.0.0 w55c.net
-0.0.0.0 walkme.com
-0.0.0.0 weborama.com
-0.0.0.0 webtrends.com
-0.0.0.0 wisepops.com
-0.0.0.0 wootric.com
-0.0.0.0 wsimg.com
-0.0.0.0 wsp.mgid.com
-0.0.0.0 www-googletagmanager.l.google.com
-0.0.0.0 wzrkt.com
-0.0.0.0 xdrig.com
-0.0.0.0 xtify.com
-0.0.0.0 yap.yahoo.com
-0.0.0.0 yieldmo.com
-0.0.0.0 yieldoptimizer.com
-0.0.0.0 youboranqs01.com
-0.0.0.0 zendesk.com
-0.0.0.0 zergnet.com
-0.0.0.0 zineone.com
-0.0.0.0 zobj.net
-0.0.0.0 zqtk.net
+#update to abp format
+||1rx.io^
+||2cnt.net^
+||3lift.com^
+||5rocks.io^
+||88-f.net^
+||ad-tech.nbcuni.com^
+||addthis.com^
+||addthisedge.com^
+||adeventtracker.spotify.com^
+||adhigh.net^
+||adincube.com^
+||adj.st^
+||adjust.com^
+||adjust.io^
+||adkmob.com^
+||adlightning.com^
+||admantx.com^
+||adobedtm.com^
+||ads-cloud.rovio.com^
+||ads-fa.cdn.spotify.com^
+||ads-fa.spotify.com^
+||ads-nyj-nfl.yinzcam.com^
+||ads-resources-legacy.waze.com^
+||ads-resources.waze.com^
+||ads-trk.vidible.tv^
+||ads-twitter.com^
+||ads.ak.facebook.com^
+||ads.internal.unity3d.com^
+||ads.prd.ie.internal.unity3d.com^
+||ads.tapdaq.com.cdn.cloudflare.net^
+||ads.twitter.com^
+||ads.yahoo.com^
+||adsafeprotected.com^
+||adsassets.waze.com^
+||adsbynimbus.com^
+||adserver.pandora.com^
+||adserver.snapads.com^
+||adserver.yahoo.com^
+||adservice.google.com^
+||adswizz.com^
+||adthrive.com^
+||adtrack1.midasplayer.com^
+||advil.waze.com^
+||aerserv.com^
+||agentanalytics.com^
+||agkn.com^
+||airbrake.io^
+||alb.reddit.com^
+||alexametrics.com^
+||amazon-adsystem.amazon.com^
+||amp-error-reporting.appspot.com^
+||amplitude.com^
+||analytic.rollout.io^
+||analytics-tracker.thescore.com^
+||analytics.bsgwireless.com^
+||analytics.edgekey.net^
+||analytics.edgesuite.net^
+||analytics.hardlightgames.com^
+||analytics.kaltura.com^
+||analytics.mobile.walmart.com^
+||analytics.nike.com^
+||analytics.plex.tv^
+||analytics.query.yahoo.com^
+||analytics.robinhood.com^
+||analytics.spotify.com^
+||analytics.thescore.com^
+||analytics.us.algolia.com^
+||analytics.xcal.tv^
+||analytics.yahoo.com^
+||apidn.net^
+||app-analytics.snapchat.com^
+||app-measurement.com^
+||appboy-images.com^
+||appboy.com^
+||appdynamics.com^
+||applifier.info^
+||applift.com^
+||applvn.com^
+||appmetrica.yandex.com^
+||appnext.com^
+||appnext.hs.llnwd.net^
+||appsee.com^
+||appserver-ap.com^
+||appsflyer.com^
+||apptentive.com^
+||apptimize.com^
+||apsalar.com^
+||apxlv.com^
+||aspen.ngtv.io^
+||atemda.com^
+||atom-data.io^
+||b.yahoo.com^
+||bango.combango.org^
+||bango.net^
+||bazaarvoice.com^
+||beacon.shazam.com^
+||beacon.shzcld.com^
+||beacons.gvt12.com^
+||betrad.com^
+||bfmio.com^
+||bkrtx.com^
+||bluekai.com^
+||bn5x.net^
+||bnc.lt^
+||bounceexchange.com^
+||branch.io^
+||braze.com^
+||braze.eu^
+||bronto.com^
+||bttn.io^
+||bugfender.com^
+||buglife.com^
+||bugsense.com^
+||bugsnag.com^
+||burstly.com^
+||c3tag.com^
+||campaign-tracker.us-west-2.prod.expedia.com^
+||campaign.adobe.com^
+||carnivalmobile.com^
+||casalemedia.com.edgekey.net^
+||cdn.ravenjs.com^
+||channeladvisor.com^
+||chartboost.com^
+||chatra.io^
+||ci360.sas.com^
+||cintnetworks.com^
+||clearbit.com^
+||clicks.beap.bc.yahoo.com^
+||clicktale.net^
+||client-event-reporter-production-854057631.us-west-2.elb.amazonaws.com^
+||client-event-reporter.twitch.tv^
+||cogocast.net^
+||coin-hive.com^
+||coinhive.com^
+||comscore.com^
+||comscoreresearch.com^
+||concert.io^
+||concertads-configs.vox-cdn.com^
+||conductrics.com^
+||connectionassist.com^
+||consensu.org^
+||constant.co^
+||contributor.google.com^
+||converge-digital.com^
+||conviva.com^
+||cookielaw.org^
+||count.ly^
+||cpamatik.com^
+||crashdump.spotify.com^
+||crashlytics.com^
+||crazyegg.com^
+||creative.ak.facebook.com^
+||criteo.net^
+||crittercism.com^
+||cross-promo.mwx.ext.mobilityware.com^
+||crosspromo.voodoo.io^
+||crsspxl.com^
+||crwdcntrl.net^
+||cryptocompare.com^
+||cstat.apple.com^
+||cuebiq.com^
+||datamixer-pa.googleapis.com^
+||dc-1.net^
+||decibelinsight.net^
+||demdex.net^
+||device-metrics-us-2.amazon.com^
+||device-metrics-us.amazon.com^
+||device9.com^
+||dfw-beacon.mobile.walmart.com^
+||digitalexperience.ibm.com^
+||disqusads.com^
+||dl-debug.dropbox.com^
+||dotomi.weighted.com^
+||dotomi.weighted.com.akadns.net^
+||doubleverify.com^
+||drift.com^
+||driftt.com^
+||dxc.dxi-na1.saas.broadcom.com^
+||dynatrace-managed.com^
+||dyntrk.com^
+||dzc-metrics.mzstatic.com^
+||e.reddit.com^
+||eccmp.com^
+||edvfwlacluo.com^
+||elb-aws-va-visualiq-39389596.us-east-1.elb.amazonaws.com^
+||emb-api.com^
+||emxdgt.com^
+||ensighten.com^
+||eum-appdynamics.com^
+||events.mapbox.com^
+||everesttech.net^
+||evidon.com^
+||exacttargetapis.com^
+||exelator.com^
+||exposebox.com^
+||extend.tv^
+||extole.io^
+||eyeblaster.akadns.net^
+||eyeota.net^
+||fastly-analytics.com^
+||fastly-insights.com^
+||fastlyanalytics.map.fastly.net^
+||flashtalking.com^
+||flightrecorder.co^
+||flix360.com^
+||flixcar.com^
+||flixfacts.com^
+||flurry.com^
+||flurry.gycs.b.yahoodns.net^
+||fn-pz.com^
+||footmarks.com^
+||foresee.com^
+||foreseeresults.com^
+||freegeoip.net^
+||freewheel.com^
+||freewheel.tv^
+||fullstory.com^
+||fundingchoicesmessages.google.com^
+||fusepowered.com^
+||fwmrm.net^
+||gameanalytics.com^
+||gemini.yahoo.com^
+||geolocation.onetrust.com^
+||getblueshift.com^
+||getexceptional.com^
+||getsentry.net^
+||gimbal.com^
+||glassboxcloud.com^
+||go-mpulse.net^
+||google-analytics.com^
+||googleadapis.l.google.com^
+||googleadservices.com^
+||googlesyndication.com^
+||googletagmanager.com^
+||googletagservices.com^
+||graph.facebook.com^
+||gscontxt.net^
+||gstaticadssl.l.google.com^
+||helpshift.com^
+||heyzap.com^
+||hlserve.com^
+||hockeyapp.net^
+||hotjar.com^
+||hs-analytics.net^
+||hs-growth-metrics.com^
+||hs-scripts.com^
+||hw-ads.datpiff.com^
+||iadc.qwapi.com^
+||iadsdk.apple.com^
+||id1.cn^
+||igodigital.com^
+||imasdk.googleapis.com^
+||improving.duckduckgo.com^
+||imrworldwide.com^
+||imrworldwide.net^
+||indexww.com^
+||infonline.de^
+||ingameads.gameloft.com^
+||inmobi.com^
+||innovid.com^
+||insightexpressai.com^
+||inspectlet.com^
+||instabug.com^
+||intelematics.com^
+||intercom.com^
+||intercom.io^
+||internal-pixel-use101-lighttpd-elb-1202564112.us-east-1.elb.amazonaws.com^
+||ioam.de^
+||ios.nccp.netflix.com^
+||iponweb.net^
+||iterable.com^
+||jacappsdata.com^
+||jumptap.com^
+||kampyle.com^
+||keywee.co^
+||kiip.me^
+||kissmetrics.com^
+||kochava.com^
+||kontagent.net^
+||krxd.net^
+||launchdarkly.com^
+||layer.com^
+||leanplum.com^
+||li9jiy.net^
+||liveclicker.net^
+||livesegmentservice.com^
+||lkqd.net^
+||localytics.com^
+||log-va.tiktoktv.com^
+||log.getdropbox.com^
+||log.gns.go.com^
+||log.go.com^
+||log.pinterest.com^
+||log.spotify.com^
+||log.zoom.us^
+||logentries.com^
+||logging.citrixonline.com^
+||logging.groupon.com^
+||loggly.com^
+||logrocket.com^
+||logs.dashlane.com^
+||logs.petcube.com^
+||logs.roku.com^
+||luckyorange.com^
+||luckyorange.net^
+||lyr8.net^
+||mads.amazon.com^
+||makerlow.com^
+||mantisadnetwork.com^
+||mantodea-production-1204681484.us-east-1.elb.amazonaws.com^
+||marketingcloudapis.com^
+||marketingsolutions.yahoo.com^
+||marketo.com^
+||maxads.io^
+||maxymiser.net^
+||mc.yandex.ru^
+||measuread.com^
+||mediavoice.com^
+||metrics.aetn.com^
+||metrics.brightcove.com^
+||metrics.claspws.tv^
+||metrics.cnn.com^
+||metrics.cvshealth.com^
+||metrics.fe.apple-dns.net^
+||metrics.foxnews.com^
+||metrics.icloud.com^
+||metrics.nfl.com^
+||metrics.tbliab.net^
+||metrics.washingtonpost.com^
+||metricscollector.lp.xcal.tv^
+||mfadsrvr.com^
+||mixpanel.com^
+||ml314.com^
+||mmstat.com^
+||moatads.com.edgekey.net^
+||moatpixel.com^
+||mobile.pipe.aria.microsoft.com^
+||mobileanalytics.us-east-1.amazonaws.com^
+||mobileapptracking.com^
+||mobilenetworkscoring-pa.googleapis.com^
+||monetate.net^
+||mopub.com^
+||mopub.pub^
+||mouseflow.com^
+||mparticle.com^
+||msmetrics.ws.sonos.com^
+||mtrcs.samba.tv^
+||mxpnl.com^
+||mxptint.net^
+||mytrkz.com^
+||myvisualiq.net^
+||narrative.io^
+||newrelic.com^
+||ngads.internal.unity3d.com^
+||nielsencollections.com^
+||nile.works^
+||ninthdecimal.com^
+||notify.bugsnag.com^
+||npttech.com^
+||nr-data.net^
+||ogury.com^
+||ogury.io^
+||omnivirt.com^
+||omtrdc.net^
+||omtrdca.net^
+||onelink.me^
+||onscroll.com^
+||ooyala.com^
+||ooyala.com.akadns.net^
+||openx.net^
+||ophan.co.uk^
+||ophan.theguardian.com^
+||optimizely.com^
+||owneriq.net^
+||pagead-googlehosted.l.google.com^
+||parsely.com^
+||pendo.io^
+||perf.hsforms.com^
+||perfectmarket.com^
+||perimeterx.net^
+||permutive.com^
+||pippio.com^
+||pitashi.io^
+||pixel.facebook.com^
+||pixel.quantserve.net^
+||pixel.wp.com^
+||placer.io^
+||playtomic.com^
+||polarcdn-terrax.com^
+||proper.io^
+||pubnative.net^
+||qq.com^
+||qualaroo.com^
+||qualtrics.com^
+||quantcount.com^
+||quantummetric.com^
+||qwapi.com^
+||radar.io^
+||rezync.com^
+||rfihub.com^
+||rfihub.com.akadns.net^
+||roosterfirework.com^
+||rover.io^
+||row-advil.waze.com^
+||roximity.com^
+||rubiconproject.net^
+||rubiconproject.net.akadns.net^
+||rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com^
+||s.gycs.b.yahoodns.net^
+||safedk.com^
+||sail-horizon.com^
+||sail-personalize.com^
+||sail-track.com^
+||salemove.com^
+||samplicio.us^
+||sanalytics.disneyplus.com^
+||sanalytics.tbs.com^
+||sanalytics.tntdrama.com^
+||sanalytics.verizon.com^
+||sc-analytics.appspot.com^
+||secure.footprint.net^
+||securemetrics.apple.com^
+||segment.com^
+||segment.io^
+||sellpoint.net^
+||sellpoints.com^
+||sellpoints.map.fastly.net^
+||sentry-cdn.com^
+||sentry.io^
+||service.cmp.oath.com^
+||services.brightline.tv^
+||serving-sys.com^
+||servogram.io^
+||sessioncam.com^
+||sharethis.com^
+||sharethrough.com^
+||simpleanalytics.io^
+||simplereach.com^
+||singular.com^
+||singular.net^
+||sitescout.com^
+||slyceapp.com^
+||smartlook.com^
+||smetric.hilton.com^
+||smetrics.bestbuy.com^
+||smetrics.cnn.com^
+||smetrics.costco.com^
+||smetrics.delta.com^
+||smetrics.foxnews.com^
+||smetrics.marriott.com^
+||smetrics.mastercard.com^
+||smetrics.nfl.com^
+||smetrics.people.com^
+||smetrics.redbox.com^
+||socdm.com^
+||sojern.com^
+||solocpm.com^
+||sonobi.com^
+||soom.la^
+||sovrn.com^
+||spade.twitch.tv^
+||splkmobile.com^
+||spotx.tv^
+||ssix.io^
+||ssl-google-analytics.l.google.com^
+||startappexchange.com^
+||startappservice.com^
+||stathat.com^
+||stats.glb.paypal.com^
+||stats.kaltura.com^
+||stats.pandora.com^
+||stats.paypal.com^
+||stats.transitapp.com^
+||stats.ulysses.app^
+||stats.wp.com^
+||stickyadstv.com^
+||stickyadstv.com.akadns.net^
+||summerhamster.com^
+||sumologic.com^
+||supercell.net^
+||supersonic.com^
+||supersonicads-a.akamaihd.net^
+||supersonicads.com^
+||sw88.go.com^
+||swirl.com^
+||swoop.com^
+||swpcld.com^
+||swpsvc.com^
+||swrve.com^
+||taboola.map.fastly.net^
+||tapdaq-adverts.global.ssl.fastly.net^
+||tapdaq.com^
+||tapjoy.com^
+||taplytics.com^
+||tapresearch.com^
+||tapstream.com^
+||teads.tv^
+||tealeaf.ibmcloud.com^
+||tealiumiq.com^
+||telemetry.dropbox.com^
+||telemetry.microsoft.com^
+||telemetry.mozilla.org^
+||telemetry.soundcloud.com^
+||tenjin.io^
+||tentacles.smartocto.com^
+||thebrighttag.com^
+||tinypass.com^
+||tiqcdn.com^
+||tkbo.com^
+||trac.us^
+||track.cj.akadns.net^
+||track.hubspot.com^
+||track.wattpad.com^
+||tracking.nextdoor.com^
+||trackjs.com^
+||traffic.club^
+||treasuredata.com^
+||triplelift.com^
+||trk.pinterest.com^
+||trk.vidible.tv^
+||tru.am^
+||truoptik.com^
+||trustarc.com^
+||truste.com^
+||trustx.org^
+||trvl-px.com^
+||tune.com^
+||turn.com^
+||turn.com.akadns.net^
+||tvsquared.com^
+||umeng.com^
+||umengcloud.com^
+||unagi-na.amazon.com^
+||unityads.com^
+||unityads.unity3d.com^
+||unityads.us^
+||upsight-api.com^
+||urbanairship.com^
+||us2-events-1-427560769.us-west-2.elb.amazonaws.com^
+||usbla.net^
+||usebutton.com^
+||usergrid.com^
+||userreplay.net^
+||uservoice.com^
+||venues.waze.com^
+||viglink.com^
+||vilynx.com^
+||vortex.data.microsoft.com^
+||vrvm.com^
+||vungle.com^
+||vwo.com^
+||w55c.net^
+||walkme.com^
+||weborama.com^
+||webtrends.com^
+||wisepops.com^
+||wootric.com^
+||wsimg.com^
+||wsp.mgid.com^
+||www-googletagmanager.l.google.com^
+||wzrkt.com^
+||xdrig.com^
+||xtify.com^
+||yap.yahoo.com^
+||yieldmo.com^
+||yieldoptimizer.com^
+||youboranqs01.com^
+||zendesk.com^
+||zergnet.com^
+||zineone.com^
+||zobj.net^
+||zqtk.net^
