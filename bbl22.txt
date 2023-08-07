@@ -1,1979 +1,1042 @@
-0.0.0.0 www.0x0a.li
-0.0.0.0 www.100-prozent-sozial.de
-0.0.0.0 www.29rooms.com
-0.0.0.0 www.3sat.de
-0.0.0.0 www.a-laden.org
-0.0.0.0 www.a2s.copyriot.com
-0.0.0.0 www.aachener-friedenspreis.de
-0.0.0.0 www.aachener-zeitung.de
-0.0.0.0 www.abendblatt.de
-0.0.0.0 www.abo.welt.de
-0.0.0.0 www.aboservice.welt.de
-0.0.0.0 www.aboservice2.welt.de
-0.0.0.0 www.aboservice3.welt.de
-0.0.0.0 www.abriss-berlin.de
-0.0.0.0 www.abschiebehaft.de
-0.0.0.0 www.abschiebehaftkontaktgruppe.de
-0.0.0.0 www.adb-sachsen.de
-0.0.0.0 www.addn.me
-0.0.0.0 www.adf-berlin.de
-0.0.0.0 www.adl.ae
-0.0.0.0 www.adl.aero
-0.0.0.0 www.adl.ai
-0.0.0.0 www.adl.app
-0.0.0.0 www.adl.art
-0.0.0.0 www.adl.asia
-0.0.0.0 www.adl.at
-0.0.0.0 www.adl.az
-0.0.0.0 www.adl.be
-0.0.0.0 www.adl.bh
-0.0.0.0 www.adl.buzz
-0.0.0.0 www.adl.by
-0.0.0.0 www.adl.ca
-0.0.0.0 www.adl.care
-0.0.0.0 www.adl.catholic.edu.au
-0.0.0.0 www.adl.cc
-0.0.0.0 www.adl.center
-0.0.0.0 www.adl.ch
-0.0.0.0 www.adl.city
-0.0.0.0 www.adl.cl
-0.0.0.0 www.adl.cloud
-0.0.0.0 www.adl.cn
-0.0.0.0 www.adl.co
-0.0.0.0 www.adl.co.at
-0.0.0.0 www.adl.co.hu
-0.0.0.0 www.adl.co.id
-0.0.0.0 www.adl.co.il
-0.0.0.0 www.adl.co.in
-0.0.0.0 www.adl.co.jp
-0.0.0.0 www.adl.co.ke
-0.0.0.0 www.adl.co.kr
-0.0.0.0 www.adl.co.nz
-0.0.0.0 www.adl.co.th
-0.0.0.0 www.adl.co.uk
-0.0.0.0 www.adl.co.za
-0.0.0.0 www.adl.coffee
-0.0.0.0 www.adl.com
-0.0.0.0 www.adl.com
-0.0.0.0 www.adl.com.ar
-0.0.0.0 www.adl.com.au
-0.0.0.0 www.adl.com.bo
-0.0.0.0 www.adl.com.br
-0.0.0.0 www.adl.com.cn
-0.0.0.0 www.adl.com.co
-0.0.0.0 www.adl.com.ec
-0.0.0.0 www.adl.com.mx
-0.0.0.0 www.adl.com.my
-0.0.0.0 www.adl.com.np
-0.0.0.0 www.adl.com.pk
-0.0.0.0 www.adl.com.pt
-0.0.0.0 www.adl.com.py
-0.0.0.0 www.adl.org
-0.0.0.0 www.aerztezeitung.de
-0.0.0.0 www.afd-watch-hamburg.org
-0.0.0.0 www.afeefa.de
-0.0.0.0 www.afrinic.net
-0.0.0.0 www.afrique-europe-interact.net
-0.0.0.0 www.afropa.org
-0.0.0.0 www.ag-asylsuchende.de
-0.0.0.0 www.ag.kritis.info
-0.0.0.0 www.ainfos.ca
-0.0.0.0 www.aipac.org
-0.0.0.0 www.ak-gewerkschafter.de
-0.0.0.0 www.aktion-mensch.de
-0.0.0.0 www.aktion.welt.de
-0.0.0.0 www.aktionbleiberecht.de
-0.0.0.0 www.al-zh.ch
-0.0.0.0 www.alarmphone.org
-0.0.0.0 www.altinamedia.com
-0.0.0.0 www.amadeu-antonio-stiftung.de
-0.0.0.0 www.amiado.com
-0.0.0.0 www.amiadogroup.com
-0.0.0.0 www.amnesty-sachsen.de
-0.0.0.0 www.amp-iframe.welt.de
-0.0.0.0 www.amp.welt.de
-0.0.0.0 www.anarchie.de
-0.0.0.0 www.anarchopedia.org
-0.0.0.0 www.anarkismo.net
-0.0.0.0 www.angebote-stage.welt.de
-0.0.0.0 www.angebote.welt.de
-0.0.0.0 www.anonews.co
-0.0.0.0 www.antagonistischeassoziation.copyriot.com
-0.0.0.0 www.antenne.de
-0.0.0.0 www.antenne1.de
-0.0.0.0 www.antifa.cz
-0.0.0.0 www.antifa.de
-0.0.0.0 www.antifainfoblatt.de
-0.0.0.0 www.antihate.ca
-0.0.0.0 www.antikapitalistische-linke.de
-0.0.0.0 www.antira-kompass.info
-0.0.0.0 www.antira.info
-0.0.0.0 www.antispe.org
-0.0.0.0 www.antville.org
-0.0.0.0 www.appc.welt.de
-0.0.0.0 www.arbeit-zukunft.de
-0.0.0.0 www.arbeiterfotografie.com
-0.0.0.0 www.arbeitermacht.de
-0.0.0.0 www.arbeiterpolitik.de
-0.0.0.0 www.archivtiger.de
-0.0.0.0 www.arcor.de
-0.0.0.0 www.ardmediathek.de
-0.0.0.0 www.arendt-art.de
-0.0.0.0 www.artcollector-magazin.de
-0.0.0.0 www.arte.tv
-0.0.0.0 www.artinvestor.de
-0.0.0.0 www.as-konzerneinkauf.de
-0.0.0.0 www.asv-ag.com
-0.0.0.0 www.asv.de
-0.0.0.0 www.asventure.com
-0.0.0.0 www.asylumineurope.org
-0.0.0.0 www.attac.de
-0.0.0.0 www.attenzione.kulturhaus-pirna.de
-0.0.0.0 www.audioscript.net
-0.0.0.0 www.audiovideofotobild.de
-0.0.0.0 www.aufbau.org
-0.0.0.0 www.aufeminin.com
-0.0.0.0 www.aufstehen-gegen-rassismus.de
-0.0.0.0 www.auslaenderrat.de
-0.0.0.0 www.auto-bild.ro
-0.0.0.0 www.auto-swiat.pl
-0.0.0.0 www.auto-wirtschaft.ch
-0.0.0.0 www.auto.cz
-0.0.0.0 www.autobild.com.mx
-0.0.0.0 www.autobild.de
-0.0.0.0 www.autobild.es
-0.0.0.0 www.autobild.fi
-0.0.0.0 www.autobild.ge
-0.0.0.0 www.autobild.gr
-0.0.0.0 www.autobild.hu
-0.0.0.0 www.autobild.in
-0.0.0.0 www.autobild.lt
-0.0.0.0 www.autobild.si
-0.0.0.0 www.autobild.tv
-0.0.0.0 www.autobild.ua
-0.0.0.0 www.autobildallrad.de
-0.0.0.0 www.autobildindonesia.com
-0.0.0.0 www.autoexpress.co.uk
-0.0.0.0 www.autohaus24.de
-0.0.0.0 www.autojournal.fr
-0.0.0.0 www.autoleht.ee
-0.0.0.0 www.autoplus.fr
-0.0.0.0 www.autoshow.com.tr
-0.0.0.0 www.autotip.auto.cz
-0.0.0.0 www.autoundwirtschaft.at
-0.0.0.0 www.autoweek.nl
-0.0.0.0 www.avfbild.de
-0.0.0.0 www.awc-eg.de
-0.0.0.0 www.axel-springer-ag.com
-0.0.0.0 www.axel-springer-akademie.de
-0.0.0.0 www.axel-springer-verlag.com
-0.0.0.0 www.axel-springer.com
-0.0.0.0 www.axel-springer.de
-0.0.0.0 www.axelspringer-ag.com
-0.0.0.0 www.axelspringer-syndication.de
-0.0.0.0 www.axelspringer.de
-0.0.0.0 www.axelspringer.fr
-0.0.0.0 www.axelspringer.hu
-0.0.0.0 www.axelspringer.pl
-0.0.0.0 www.axelspringerag.com
-0.0.0.0 www.az.com.na
-0.0.0.0 www.azconni.de
-0.0.0.0 www.azet.sk
-0.0.0.0 www.badische-zeitung.de
-0.0.0.0 www.badisches-tagblatt.de
-0.0.0.0 www.bak-shalom.de
-0.0.0.0 www.bams.de
-0.0.0.0 www.basta-bs.ch
-0.0.0.0 www.bbc.com
-0.0.0.0 www.bbv-mediengruppe.de
-0.0.0.0 www.bbv-net.de
-0.0.0.0 www.beate-klarsfeld.de
-0.0.0.0 www.belgieninfo.net
-0.0.0.0 www.bellingcat.com
-0.0.0.0 www.belltower.news
-0.0.0.0 www.belvilla.com
-0.0.0.0 www.bento.de
-0.0.0.0 www.bento.de/
-0.0.0.0 www.beobachter.ch
-0.0.0.0 www.beobachtertv.ch
-0.0.0.0 www.berliner-morgenpost.de
-0.0.0.0 www.berliner-zeitung.de
-0.0.0.0 www.besserewelt.info
-0.0.0.0 www.bewegung.in
-0.0.0.0 www.bewegungsmelder.org
-0.0.0.0 www.beyondeurope.net
-0.0.0.0 www.bigleaguepolitics.com
-0.0.0.0 www.bilanz-magazin.de
-0.0.0.0 www.bild.de
-0.0.0.0 www.bildblog.de
-0.0.0.0 www.bildet-laeden.de
-0.0.0.0 www.black-mosquito.org
-0.0.0.0 www.blackblogs.org
-0.0.0.0 www.bleiberechtsbuero.de
-0.0.0.0 www.blic.rs
-0.0.0.0 www.blikk.hu
-0.0.0.0 www.blocktogether.org
-0.0.0.0 www.blog-der-republik.de
-0.0.0.0 www.blog.zeit.de
-0.0.0.0 www.blogbar.de
-0.0.0.0 www.blogsome.com
-0.0.0.0 www.blogsport.de
-0.0.0.0 www.bmsfr.de
-0.0.0.0 www.bo.de
-0.0.0.0 www.boeckler.de
-0.0.0.0 www.boncourage.de
-0.0.0.0 www.bonial.com
-0.0.0.0 www.borderline-europe.de
-0.0.0.0 www.bpb.de
-0.0.0.0 www.br.de
-0.0.0.0 www.brasilienmagazin.net
-0.0.0.0 www.braunschweiger-zeitung.de
-0.0.0.0 www.brigitte.de
-0.0.0.0 www.buchkomplizen.de
-0.0.0.0 www.buecher.de
-0.0.0.0 www.burks.de
-0.0.0.0 www.butterland.org
-0.0.0.0 www.buzzfeednews.com
-0.0.0.0 www.bz-berlin.de
-0.0.0.0 www.bz.de
-0.0.0.0 www.campact.de
-0.0.0.0 www.carava.net
-0.0.0.0 www.carwale.com
-0.0.0.0 www.casamundo.com
-0.0.0.0 www.ccc.de
-0.0.0.0 www.chip.de
-0.0.0.0 www.chronikle.org
-0.0.0.0 www.cicero.de
-0.0.0.0 www.city-journal.org
-0.0.0.0 www.clara-zetkin-frauenpreis.de
-0.0.0.0 www.codepink.org
-0.0.0.0 www.colorofchange.org
-0.0.0.0 www.come-on.de
-0.0.0.0 www.communityrack.org
-0.0.0.0 www.computerbild.de
-0.0.0.0 www.computerbildspiele.de
-0.0.0.0 www.conne-island.de
-0.0.0.0 www.copyriot.com
-0.0.0.0 www.copyriot.net
-0.0.0.0 www.copyriot.org
-0.0.0.0 www.cosmic-law.com
-0.0.0.0 www.curved.de
-0.0.0.0 www.dailydot.com
-0.0.0.0 www.das-muss-drin-sein.de
-0.0.0.0 www.das-parlament.de
-0.0.0.0 www.dasmussdrinsein.de
-0.0.0.0 www.deliberationdaily.de
-0.0.0.0 www.demvolkedienen.org
-0.0.0.0 www.der-audio-verlag.de
-0.0.0.0 www.der-postillon.com
-0.0.0.0 www.der-rechte-rand.de
-0.0.0.0 www.derfunke.de
-0.0.0.0 www.destatis.de
-0.0.0.0 www.deutsch.radio.cz
-0.0.0.0 www.deutsche-mittelstands-nachrichten.de
-0.0.0.0 www.deutschland-lagerland.de
-0.0.0.0 www.deutschlandfunk.de
-0.0.0.0 www.die-ergos.de
-0.0.0.0 www.die-glocke.de
-0.0.0.0 www.die-linke-im-bundestag.de
-0.0.0.0 www.die-linke-kommunal.de
-0.0.0.0 www.die-linke-spen.de
-0.0.0.0 www.die-linke-spende.de
-0.0.0.0 www.die-linke-spenden.de
-0.0.0.0 www.die-linke.bayern
-0.0.0.0 www.die-linke.de
-0.0.0.0 www.die-linke.email
-0.0.0.0 www.die-linke.eu
-0.0.0.0 www.die-linke.info
-0.0.0.0 www.die-linke.name
-0.0.0.0 www.die-linke.net
-0.0.0.0 www.die-tagespost.de
-0.0.0.0 www.dielinke-kommunal.de
-0.0.0.0 www.dielinke.berlin
-0.0.0.0 www.dielinke.church
-0.0.0.0 www.dielinke.eu
-0.0.0.0 www.dielinke.party
-0.0.0.0 www.dielunte.de
-0.0.0.0 www.dienstraum.com
-0.0.0.0 www.diepresse.com
-0.0.0.0 www.diewelt.de
-0.0.0.0 www.digitale-linke.de
-0.0.0.0 www.digitallinks.de
-0.0.0.0 www.diraction-merch.org
-0.0.0.0 www.diraction.com
-0.0.0.0 www.diraction.de
-0.0.0.0 www.diraction.es
-0.0.0.0 www.diraction.global
-0.0.0.0 www.diraction.it
-0.0.0.0 www.diraction.net
-0.0.0.0 www.diraction.nl
-0.0.0.0 www.diraction.nu
-0.0.0.0 www.diraction.org
-0.0.0.0 www.diraction.org
-0.0.0.0 www.diraction.ru
-0.0.0.0 www.diractionbus.world
-0.0.0.0 www.diractions.com
-0.0.0.0 www.diractionscapital.com
-0.0.0.0 www.direkteaktion.org
-0.0.0.0 www.diskus.copyriot.com
-0.0.0.0 www.diva.copyriot.com
-0.0.0.0 www.dkp.de
-0.0.0.0 www.dresden-nazifrei.com
-0.0.0.0 www.dresden-postkolonial.de
-0.0.0.0 www.dudweiler-blog.de
-0.0.0.0 www.dw.com
-0.0.0.0 www.dzienniksport.pl
-0.0.0.0 www.echo-online.de
-0.0.0.0 www.econlib.org
-0.0.0.0 www.edition.cnn.com
-0.0.0.0 www.eigenleben.copyriot.com
-0.0.0.0 www.ein-herz-fuer-kinder.com
-0.0.0.0 www.ein-herz-fuer-kinder.de
-0.0.0.0 www.einfach-kochen.de
-0.0.0.0 www.eingeschlossen-ausgeschlossen.de
-0.0.0.0 www.ejpress.org
-0.0.0.0 www.eldiario.net
-0.0.0.0 www.eldinamo.cl
-0.0.0.0 www.elespectador.com
-0.0.0.0 www.enlacezapatista.ezln.org.mx
-0.0.0.0 www.esershop24.de
-0.0.0.0 www.esslinger-zeitung.de
-0.0.0.0 www.europa-nur-solidarisch.de
-0.0.0.0 www.europaeische-linke.de
-0.0.0.0 www.europaeische-linke.eu
-0.0.0.0 www.europaeische-linke.org
-0.0.0.0 www.european-left.org
-0.0.0.0 www.europeanvoice.com
-0.0.0.0 www.exit-deutschland.de
-0.0.0.0 www.express.de
-0.0.0.0 www.extra-hamburg.com
-0.0.0.0 www.fakt.pl
-0.0.0.0 www.falkvinge.net
-0.0.0.0 www.fateback.com
-0.0.0.0 www.fau.org
-0.0.0.0 www.faz.media
-0.0.0.0 www.fdik.org
-0.0.0.0 www.fdj.de
-0.0.0.0 www.feindbeguenstigung.de
-0.0.0.0 www.fem.com
-0.0.0.0 www.ffh.de
-0.0.0.0 www.ffm-online.org
-0.0.0.0 www.ffn.de
-0.0.0.0 www.finanz.ru
-0.0.0.0 www.finanzen.ch
-0.0.0.0 www.finanzen.net
-0.0.0.0 www.fluechtlingsrat-bayern.de
-0.0.0.0 www.fluechtlingsrat-berlin.de
-0.0.0.0 www.forbes.pl
-0.0.0.0 www.forbes.ru
-0.0.0.0 www.forumromanum.de
-0.0.0.0 www.free.de
-0.0.0.0 www.freepress.net
-0.0.0.0 www.freiheit-durch-sozialismus.de
-0.0.0.0 www.freitag.de
-0.0.0.0 www.friedenspartei.de
-0.0.0.0 www.frikoberlin.de
-0.0.0.0 www.frontexplode.eu
-0.0.0.0 www.fu-berlin.de
-0.0.0.0 www.fueralle.org
-0.0.0.0 www.fussball-gegen-nazis.de
-0.0.0.0 www.ganske.de
-0.0.0.0 www.gegen-kapital-und-nation.org
-0.0.0.0 www.gegenabschiebehaft.de
-0.0.0.0 www.gegenantiromaismus.org
-0.0.0.0 www.gegendiestroemung.net
-0.0.0.0 www.gegenstandpunkt.com
-0.0.0.0 www.geo.ru
-0.0.0.0 www.geolenok.ru
-0.0.0.0 www.gerede-dresden.de
-0.0.0.0 www.german-foreign-policy.com
-0.0.0.0 www.gesund.bund.de
-0.0.0.0 www.gewerkschafter-waehlen-links.de
-0.0.0.0 www.gewerkschafterinnen-waehlen-links.de
-0.0.0.0 www.ghettokids.org
-0.0.0.0 www.gizmodo.com
-0.0.0.0 www.glamouronline.hu
-0.0.0.0 www.glokal.org
-0.0.0.0 www.gofeminin.de
-0.0.0.0 www.gothamist.com
-0.0.0.0 www.gottunddiewelt.net
-0.0.0.0 www.graeberfeld.copyriot.com
-0.0.0.0 www.granma.cu
-0.0.0.0 www.graswurzel.tv
-0.0.0.0 www.griechenland.net
-0.0.0.0 www.gruenderszene.de
-0.0.0.0 www.gruene-bundestag.de
-0.0.0.0 www.gruppe-polar.org
-0.0.0.0 www.guj.de
-0.0.0.0 www.guterrat.de
-0.0.0.0 www.gutmenschen.party
-0.0.0.0 www.h-wie-hering.de
-0.0.0.0 www.haaretz.com
-0.0.0.0 www.hagalil.com
-0.0.0.0 www.hamburg-extra.com
-0.0.0.0 www.hamburg.de
-0.0.0.0 www.hamburgextra.com
-0.0.0.0 www.hamburgsuche.com
-0.0.0.0 www.handelszeitung.ch
-0.0.0.0 www.hanfmuseum.de
-0.0.0.0 www.hanfparade.de
-0.0.0.0 www.harenberg.de
-0.0.0.0 www.hartziv-muss-weg.de
-0.0.0.0 www.haz.de
-0.0.0.0 www.heidelberg24.de
-0.0.0.0 www.helle-panke.de
-0.0.0.0 www.hellwegeranzeiger.de
-0.0.0.0 www.help.copyriot.com
-0.0.0.0 www.hier-ist-die-linke.de
-0.0.0.0 www.hier-und-in-europa.de
-0.0.0.0 www.hieristdielinke.de
-0.0.0.0 www.hierundineuropa.de
-0.0.0.0 www.horizont.net
-0.0.0.0 www.hpage.com
-0.0.0.0 www.hubber.me
-0.0.0.0 www.huffpost.com
-0.0.0.0 www.hyperevolution.org
-0.0.0.0 www.ida-dresden.de
-0.0.0.0 www.idash.org
-0.0.0.0 www.idealo.de
-0.0.0.0 www.idowa.de
-0.0.0.0 www.ifo.de
-0.0.0.0 www.ikiosk.de
-0.0.0.0 www.immergruen-medien.de
-0.0.0.0 www.immonet.de
-0.0.0.0 www.immowelt.de
-0.0.0.0 www.impact-records.de
-0.0.0.0 www.independent.co.uk
-0.0.0.0 www.indybay.org
-0.0.0.0 www.indymedia.org
-0.0.0.0 www.infopartisan.net
-0.0.0.0 www.inforiot.de
-0.0.0.0 www.infosperber.ch
-0.0.0.0 www.infranken.de
-0.0.0.0 www.inprekorr.de
-0.0.0.0 www.input-aktuell.de
-0.0.0.0 www.internationale-rosa-luxemburg-gesellschaft.de
-0.0.0.0 www.internationalmediasales.net
-0.0.0.0 www.interventionistische-linke.org
-0.0.0.0 www.invid-project.eu
-0.0.0.0 www.isdonline.de
-0.0.0.0 www.isw-muenchen.de
-0.0.0.0 www.itsallpolitics.com
-0.0.0.0 www.itservice-herzog.de
-0.0.0.0 www.ivi.copyriot.com
-0.0.0.0 www.iz-dresden.org
-0.0.0.0 www.jacobinmag.com
-0.0.0.0 www.jewishcurrents.org
-0.0.0.0 www.jns.org
-0.0.0.0 www.jobsite.co.uk
-0.0.0.0 www.jogspace.net
-0.0.0.0 www.journal.lu
-0.0.0.0 www.jpost.com
-0.0.0.0 www.jugendhaus-rosswein.de
-0.0.0.0 www.jungle.world
-0.0.0.0 www.jw.org
-0.0.0.0 www.jwz.org
-0.0.0.0 www.karl-liebknecht-haus.de
-0.0.0.0 www.karl-liebknecht.de
-0.0.0.0 www.kaufda.de
-0.0.0.0 www.kaz-online.de
-0.0.0.0 www.kbh-mauerplatz.de
-0.0.0.0 www.keine-stimme-den-nazis.org
-0.0.0.0 www.kfsr.info
-0.0.0.0 www.kiezschreiber.blogspot.com
-0.0.0.0 www.kinderbauernhofberlin.de
-0.0.0.0 www.kirchenasyl.de
-0.0.0.0 www.klassegegenklasse.org
-0.0.0.0 www.kn-online.de
-0.0.0.0 www.komputerswiat.pl
-0.0.0.0 www.konkret-magazin.de
-0.0.0.0 www.kontext-tv.de
-0.0.0.0 www.kosmotique.org
-0.0.0.0 www.kossawa.de
-0.0.0.0 www.kotaku.com
-0.0.0.0 www.kreiszeitung.de
-0.0.0.0 www.kreta-dresden.org
-0.0.0.0 www.kreta-film.net
-0.0.0.0 www.kreuzberg-info.de
-0.0.0.0 www.kritische-koepfe-waehlen-links.de
-0.0.0.0 www.kts-freiburg.org
-0.0.0.0 www.kulturbuero-sachsen.de
-0.0.0.0 www.kulturelle-linke.de
-0.0.0.0 www.kulturkritik.net
-0.0.0.0 www.kurier.de
-0.0.0.0 www.labandavaga.org
-0.0.0.0 www.labanquesuisse.ch
-0.0.0.0 www.labournet.de
-0.0.0.0 www.lacentrale.fr
-0.0.0.0 www.ladenzeile.de
-0.0.0.0 www.ladyfest-ffm.copyriot.com
-0.0.0.0 www.landeszeitung.de
-0.0.0.0 www.lateinamerika-nachrichten.de
-0.0.0.0 www.laubegast-ist-bunt.de
-0.0.0.0 www.lefigaro.fr
-0.0.0.0 www.left-stickers.com
-0.0.0.0 www.leipzigerinnen.de
-0.0.0.0 www.lemonde.fr
-0.0.0.0 www.libelle-leipzig.de
-0.0.0.0 www.lifehacker.com
-0.0.0.0 www.ligatus.be
-0.0.0.0 www.ligatus.de
-0.0.0.0 www.ligatus.fr
-0.0.0.0 www.link.springer.com
-0.0.0.0 www.linke-buecher.de
-0.0.0.0 www.linke-t-shirts.de
-0.0.0.0 www.linke-verkehrswende.de
-0.0.0.0 www.linke-woche-der-zukunft.de
-0.0.0.0 www.linkewochederzukunft.de
-0.0.0.0 www.linkezeitung.de
-0.0.0.0 www.links-aktiv.de
-0.0.0.0 www.linksaktiv.de
-0.0.0.0 www.linksfraktion-baden-wuerttemberg.de
-0.0.0.0 www.linksfraktion-bayern.de
-0.0.0.0 www.linksfraktion.de
-0.0.0.0 www.linksfraktionbayern.de
-0.0.0.0 www.linksjugend-sachsen.de
-0.0.0.0 www.linksjugend-solid.de
-0.0.0.0 www.linkspartei.de
-0.0.0.0 www.linkswende.org
-0.0.0.0 www.litlounge.tv
-0.0.0.0 www.livestrong.com
-0.0.0.0 www.ln-online.de
-0.0.0.0 www.lohmuehle-berlin.de
-0.0.0.0 www.lonny.com
-0.0.0.0 www.lostineu.eu
-0.0.0.0 www.lotta-magazin.de
-0.0.0.0 www.lowerclassmag.com
-0.0.0.0 www.lr-online.de
-0.0.0.0 www.lukacs-gesellschaft.de
-0.0.0.0 www.lvz.de
-0.0.0.0 www.lwdz.de
-0.0.0.0 www.mads.de
-0.0.0.0 www.maenner.media
-0.0.0.0 www.main-echo.de
-0.0.0.0 www.mainpost.de
-0.0.0.0 www.makronom.de
-0.0.0.0 www.mallorcazeitung.es
-0.0.0.0 www.manager-magazin.de
-0.0.0.0 www.manifest-verlag.de
-0.0.0.0 www.manifeste-euroafricain.org
-0.0.0.0 www.mao-projekt.de
-0.0.0.0 www.marginalrevolution.com
-0.0.0.0 www.marx-forum.de
-0.0.0.0 www.marx21.de
-0.0.0.0 www.marxists.de
-0.0.0.0 www.maz-online.de
-0.0.0.0 www.mazandmore.de
-0.0.0.0 www.mdr.de
-0.0.0.0 www.media-impact.net
-0.0.0.0 www.media-impact.org
-0.0.0.0 www.mediapart.fr
-0.0.0.0 www.mediapilot.de
-0.0.0.0 www.mediawiki.org
-0.0.0.0 www.medinetz-dresden.org
-0.0.0.0 www.meinestadt.de
-0.0.0.0 www.meinprospekt.de
-0.0.0.0 www.meta.copyriot.com
-0.0.0.0 www.metal-hammer.de
-0.0.0.0 www.mez-berlin.de
-0.0.0.0 www.mhi.com.hk
-0.0.0.0 www.mhichina.com
-0.0.0.0 www.miete-bezahlbar.de
-0.0.0.0 www.migranten-waehlen-links.de
-0.0.0.0 www.migrantinnen-waehlen-links.de
-0.0.0.0 www.migreurop.org
-0.0.0.0 www.minuskel.de
-0.0.0.0 www.mittelbayerische.de
-0.0.0.0 www.mlpd.de
-0.0.0.0 www.mobaction.de
-0.0.0.0 www.monde-diplomatique.de
-0.0.0.0 www.monputeaux.com
-0.0.0.0 www.mopo.de
-0.0.0.0 www.morgenpost.de
-0.0.0.0 www.morgenweb.de
-0.0.0.0 www.motherjones.com
-0.0.0.0 www.motorsport-total.com
-0.0.0.0 www.moz.de
-0.0.0.0 www.ms-versenken.org
-0.0.0.0 www.munzinger.de
-0.0.0.0 www.musik-sammler.de
-0.0.0.0 www.musikexpress.de
-0.0.0.0 www.myblog.de
-0.0.0.0 www.mylittleparis.fr
-0.0.0.0 www.mz-web.de
-0.0.0.0 www.n24.at
-0.0.0.0 www.n24.de
-0.0.0.0 www.naacp.org
-0.0.0.0 www.nadir.org
-0.0.0.0 www.nakedcapitalism.com
-0.0.0.0 www.nazis-raus-aus-dem-internet.de
-0.0.0.0 www.nbcnews.com
-0.0.0.0 www.ndr.de
-0.0.0.0 www.nemesis.marxists.org
-0.0.0.0 www.net-news-global.net
-0.0.0.0 www.netzpolitik.org
-0.0.0.0 www.netzwerk-360-grad.org
-0.0.0.0 www.netzwerk-naunhof.org
-0.0.0.0 www.netzwerk-selbsthilfe.de
-0.0.0.0 www.neue-einheit.com
-0.0.0.0 www.neuegegenwart.de
-0.0.0.0 www.neuepresse.de
-0.0.0.0 www.neuewut.de
-0.0.0.0 www.neulandrebellen.de
-0.0.0.0 www.neusprech.org
-0.0.0.0 www.newsstand.de
-0.0.0.0 www.newsweek.pl
-0.0.0.0 www.newyorck.net
-0.0.0.0 www.newyorker.com
-0.0.0.0 www.ngo-online.de
-0.0.0.0 www.niederrheinzeitung.de
-0.0.0.0 www.nin.co.rs
-0.0.0.0 www.noblogs.org
-0.0.0.0 www.noborder.org
-0.0.0.0 www.non.copyriot.com
-0.0.0.0 www.nordbayern.de
-0.0.0.0 www.nordkurier.de
-0.0.0.0 www.nos.nl
-0.0.0.0 www.nostate.net
-0.0.0.0 www.notraces.net
-0.0.0.0 www.npr.org
-0.0.0.0 www.nrc.nl
-0.0.0.0 www.nrz.de
-0.0.0.0 www.ntz.de
-0.0.0.0 www.nw.de
-0.0.0.0 www.nwzonline.de
-0.0.0.0 www.nytimes.com
-0.0.0.0 www.nzz.ch
-0.0.0.0 www.obermain.de
-0.0.0.0 www.occupyberlin.de
-0.0.0.0 www.oekotest.de
-0.0.0.0 www.offen-siv.net
-0.0.0.0 www.ohost.de
-0.0.0.0 www.ok-magazine.ru
-0.0.0.0 www.olygraph.info
-0.0.0.0 www.onesolutionrevolution.de
-0.0.0.0 www.onet.pl
-0.0.0.0 www.onmeda.de
-0.0.0.0 www.openpetition.de
-0.0.0.0 www.opor-streetwar.com
-0.0.0.0 www.ostsee-zeitung.de
-0.0.0.0 www.ox-fanzine.de
-0.0.0.0 www.oz-online.de
-0.0.0.0 www.ozy.com
-0.0.0.0 www.pacificpundit.com
-0.0.0.0 www.panafrikanismusforum.net
-0.0.0.0 www.parsimony.net
-0.0.0.0 www.parstoday.com
-0.0.0.0 www.partei-die-linke.de
-0.0.0.0 www.parteiderarbeit.at
-0.0.0.0 www.partyguide.ch
-0.0.0.0 www.pda.ch
-0.0.0.0 www.pds-online.de
-0.0.0.0 www.pedestrian.tv
-0.0.0.0 www.pedestriangroup.com.au
-0.0.0.0 www.perlentaucher.de
-0.0.0.0 www.perspektive-online.net
-0.0.0.0 www.perutz.copyriot.com
-0.0.0.0 www.petra.de
-0.0.0.0 www.peykeiran.com
-0.0.0.0 www.pflegenotstand-stoppen.de
-0.0.0.0 www.pflegenotstandstoppen.de
-0.0.0.0 www.pinkkoshernostra.org
-0.0.0.0 www.pinkstinks.de
-0.0.0.0 www.piqd.de
-0.0.0.0 www.planet-melmac.de
-0.0.0.0 www.playpc.pl
-0.0.0.0 www.plus.tagesspiegel.de
-0.0.0.0 www.pme.ch
-0.0.0.0 www.pnn.de
-0.0.0.0 www.polen-heute.de
-0.0.0.0 www.polidia.de
-0.0.0.0 www.politico.com
-0.0.0.0 www.politico.eu
-0.0.0.0 www.politifact.com
-0.0.0.0 www.polygraph.info
-0.0.0.0 www.potemkin-zeitschrift.de
-0.0.0.0 www.prager-fruehling-magazin.de
-0.0.0.0 www.prenzlauerberg-nachrichten.de
-0.0.0.0 www.presse-report.de
-0.0.0.0 www.pressenza.com
-0.0.0.0 www.prinz.de
-0.0.0.0 www.prisma.de
-0.0.0.0 www.prismamedia.com
-0.0.0.0 www.proasyl.de
-0.0.0.0 www.profession.hu
-0.0.0.0 www.project-youcheck.com
-0.0.0.0 www.prokla.de
-0.0.0.0 www.proletarische-plattform.org
-0.0.0.0 www.prp-hamburg.org
-0.0.0.0 www.prpchannel.com
-0.0.0.0 www.psiram.com
-0.0.0.0 www.public-ip.org
-0.0.0.0 www.pz-news.de
-0.0.0.0 www.r-mediabase.eu
-0.0.0.0 www.raa-berlin.de
-0.0.0.0 www.raa-sachsen.de
-0.0.0.0 www.radiohamburg.de
-0.0.0.0 www.radionrw.de
-0.0.0.0 www.radioprimaton.de
-0.0.0.0 www.rand.org
-0.0.0.0 www.rasdonovan.com
-0.0.0.0 www.ratiomatrix.net
-0.0.0.0 www.rebellmarkt.blogger.de
-0.0.0.0 www.recherchenblog.ch
-0.0.0.0 www.rechtaufstadt.net
-0.0.0.0 www.rechtesland.de
-0.0.0.0 www.red-skins.de
-0.0.0.0 www.redglobe.de
-0.0.0.0 www.redside.tk
-0.0.0.0 www.refinery29.com
-0.0.0.0 www.reichtum-und-religion.de
-0.0.0.0 www.reportagen.de
-0.0.0.0 www.revista-online.info
-0.0.0.0 www.revolutionaere-aktion.org
-0.0.0.0 www.rf-news.de
-0.0.0.0 www.rga.de
-0.0.0.0 www.rhein-mainer.de
-0.0.0.0 www.rhein-zeitung.de
-0.0.0.0 www.rheinneckarblog.de
-0.0.0.0 www.rheinpfalz.de
-0.0.0.0 www.rhiz.wien
-0.0.0.0 www.rightlivelihoodaward.org
-0.0.0.0 www.riolyrics.de
-0.0.0.0 www.rki.de
-0.0.0.0 www.rnz.de
-0.0.0.0 www.roarmag.org
-0.0.0.0 www.rockefellerfoundation.org
-0.0.0.0 www.rollingstone.de
-0.0.0.0 www.roma-center.de
-0.0.0.0 www.romea.cz
-0.0.0.0 www.rosa-luxemburg-saal.de
-0.0.0.0 www.rosalux.de
-0.0.0.0 www.rot-blau.com
-0.0.0.0 www.rotdorn.org
-0.0.0.0 www.rote-hilfe.de
-0.0.0.0 www.rote-ruhr-uni.com
-0.0.0.0 www.rotenburger-rundschau.de
-0.0.0.0 www.roter-aufbau.de
-0.0.0.0 www.roter-shop.de
-0.0.0.0 www.roter-stern-leipzig.de
-0.0.0.0 www.rotermorgen.eu
-0.0.0.0 www.rotershop.de
-0.0.0.0 www.rotfuchs.net
-0.0.0.0 www.rp-online.de
-0.0.0.0 www.rrreiche.de
-0.0.0.0 www.rs2.de
-0.0.0.0 www.ruhrbarone.de
-0.0.0.0 www.rundschau-online.de
-0.0.0.0 www.saechsischer-fluechtlingsrat.de
-0.0.0.0 www.salonkolumnisten.com
-0.0.0.0 www.salzsau-panorama.de
-0.0.0.0 www.sanoma.com
-0.0.0.0 www.saz-aktuell.com
-0.0.0.0 www.scharf-links.de
-0.0.0.0 www.schattenblick.de
-0.0.0.0 www.scheune.org
-0.0.0.0 www.schmok.blogsport.eu
-0.0.0.0 www.schwaebische.de
-0.0.0.0 www.schweizerbank.ch
-0.0.0.0 www.schweizerversicherung.ch
-0.0.0.0 www.secarts.org
-0.0.0.0 www.seebruecke-hamburg.de
-0.0.0.0 www.seloger.com
-0.0.0.0 www.senselab.org
-0.0.0.0 www.shz.de
-0.0.0.0 www.siegener-zeitung.de
-0.0.0.0 www.siegessaeule.de
-0.0.0.0 www.sinistra-europea.eu
-0.0.0.0 www.sinistra.copyriot.com
-0.0.0.0 www.slate.com
-0.0.0.0 www.slp.at
-0.0.0.0 www.smartdroid.de
-0.0.0.0 www.snopes.com
-0.0.0.0 www.solidaritaet.info
-0.0.0.0 www.sonnenstaatland.com
-0.0.0.0 www.sopos.org
-0.0.0.0 www.sormas-oegd.de
-0.0.0.0 www.soziale-opposition.de
-0.0.0.0 www.sozialismus.de
-0.0.0.0 www.sozialismus.net
-0.0.0.0 www.sozialisten.de
-0.0.0.0 www.sozialistinnen.de
-0.0.0.0 www.sozialistische-klassiker.org
-0.0.0.0 www.spacequadrat.de
-0.0.0.0 www.spex.de
-0.0.0.0 www.spiegelgruppe.de
-0.0.0.0 www.spohr-publishers.de
-0.0.0.0 www.sportauto.fr
-0.0.0.0 www.sportbild.de
-0.0.0.0 www.sports.pl
-0.0.0.0 www.spreeblick.com
-0.0.0.0 www.spunk.org
-0.0.0.0 www.squat.net
-0.0.0.0 www.stadtanzeiger-ortenau.de
-0.0.0.0 www.steinhaus-bautzen.de
-0.0.0.0 www.stepstone.de
-0.0.0.0 www.stern.de
-0.0.0.0 www.stiftung-bridge.de
-0.0.0.0 www.stiftung-do.org
-0.0.0.0 www.stimme.de
-0.0.0.0 www.strassenfeger.org
-0.0.0.0 www.studentenwerk-dresden.de
-0.0.0.0 www.students.at
-0.0.0.0 www.students.ch
-0.0.0.0 www.students.de
-0.0.0.0 www.studieren-ohne-grenzen.org
-0.0.0.0 www.stura.tu-dresden.de
-0.0.0.0 www.stuttgarter-nachrichten.de
-0.0.0.0 www.stuttgarter-zeitung.de
-0.0.0.0 www.stylebistro.com
-0.0.0.0 www.stylebook.de
-0.0.0.0 www.sueddeutsche.de
-0.0.0.0 www.suedkurier.de
-0.0.0.0 www.super-illu.de
-0.0.0.0 www.supergiro.de
-0.0.0.0 www.swp-berlin.org
-0.0.0.0 www.swp.de
-0.0.0.0 www.swp.org.uk
-0.0.0.0 www.syndikat.copyriot.com
-0.0.0.0 www.systemausfall.org
-0.0.0.0 www.systemli.org
-0.0.0.0 www.tacheles-sozialhilfe.de
-0.0.0.0 www.tagebuch.at
-0.0.0.0 www.tagesanzeiger.ch
-0.0.0.0 www.tagespost-speyer.de
-0.0.0.0 www.tagesspiegel.de
-0.0.0.0 www.taz.de
-0.0.0.0 www.teckbote.de
-0.0.0.0 www.tele.ch
-0.0.0.0 www.territory.de
-0.0.0.0 www.textlog.de
-0.0.0.0 www.thecaravan.org
-0.0.0.0 www.thedigitalfwd.com
-0.0.0.0 www.theguardian.com
-0.0.0.0 www.theintercept.com
-0.0.0.0 www.thejc.com
-0.0.0.0 www.themarysue.com
-0.0.0.0 www.themediaco.com.au
-0.0.0.0 www.thevoiceforum.org
-0.0.0.0 www.timesofisrael.com
-0.0.0.0 www.tip-berlin.de
-0.0.0.0 www.tolerantes-sachsen.de
-0.0.0.0 www.tommyhaus.org
-0.0.0.0 www.top-berlin.net
-0.0.0.0 www.totaljobs.com
-0.0.0.0 www.transfermarkt.de
-0.0.0.0 www.transfermarkt.tv
-0.0.0.0 www.travelbook.de
-0.0.0.0 www.treibhaus-doebeln.de
-0.0.0.0 www.triller-online.de
-0.0.0.0 www.true-rebel-store.com
-0.0.0.0 www.tt.com
-0.0.0.0 www.ttip-stoppen.de
-0.0.0.0 www.tuuwi.de
-0.0.0.0 www.tvinfo.de
-0.0.0.0 www.tvrhet.hu
-0.0.0.0 www.tvstar.ch
-0.0.0.0 www.twoday.net
-0.0.0.0 www.tyt.com
-0.0.0.0 www.uli-ludwig.de
-0.0.0.0 www.umbruch-bildarchiv.de
-0.0.0.0 www.umsganze.org
-0.0.0.0 www.umverteilen.de
-0.0.0.0 www.umzugsauktion.de
-0.0.0.0 www.unherd.com
-0.0.0.0 www.uni-hamburg.de
-0.0.0.0 www.unsere-zeit.de
-0.0.0.0 www.untergrund-blttle-2qb.ch
-0.0.0.0 www.unwritten-future.org
-0.0.0.0 www.unz.de
-0.0.0.0 www.urban-classics.net
-0.0.0.0 www.us-onlineshop.com
-0.0.0.0 www.useless-streetwear.de
-0.0.0.0 www.usgang.ch
-0.0.0.0 www.veganladen.de
-0.0.0.0 www.verband-brg.de
-0.0.0.0 www.verfassungsschutz.de
-0.0.0.0 www.verstaatlichen.jetzt
-0.0.0.0 www.vienna.at
-0.0.0.0 www.volksstimme.de
-0.0.0.0 www.volksverpetzer.de
-0.0.0.0 www.vox.com
-0.0.0.0 www.vsa-verlag.de
-0.0.0.0 www.vvn-bda.de
-0.0.0.0 www.vwd.com
-0.0.0.0 www.w2eu.info
-0.0.0.0 www.wagenburg.org
-0.0.0.0 www.wams.de
-0.0.0.0 www.warnung-der-bevoelkerung.de
-0.0.0.0 www.wartenaufheimat.de
-0.0.0.0 www.watchthemed.net
-0.0.0.0 www.waz.de
-0.0.0.0 www.welt-am-sonntag.de
-0.0.0.0 www.welt.de
-0.0.0.0 www.welt.de
-0.0.0.0 www.welt.net
-0.0.0.0 www.weltbesten.de
-0.0.0.0 www.weltn24.de
-0.0.0.0 www.weltonline.de
-0.0.0.0 www.weser-kurier.de
-0.0.0.0 www.westendverlag.de
-0.0.0.0 www.weverify.eu
-0.0.0.0 www.wildcat-de
-0.0.0.0 www.willkommen-im-hochland.de
-0.0.0.0 www.willkommen-in-loebtau.de
-0.0.0.0 www.wir-falken.de
-0.0.0.0 www.wir-waehlen-links.de
-0.0.0.0 www.wirfrauen.de
-0.0.0.0 www.wirwaehlenlinks.de
-0.0.0.0 www.wissenschaft-im-dialog.de
-0.0.0.0 www.wiwo.de
-0.0.0.0 www.wkb.blogsport.de
-0.0.0.0 www.wn.de
-0.0.0.0 www.wn24.at
-0.0.0.0 www.wobblies.org
-0.0.0.0 www.women-in-exile.net
-0.0.0.0 www.wz.de
-0.0.0.0 www.x-berg.de
-0.0.0.0 www.xn--linksfraktion-baden-wrttemberg-pfd.de
-0.0.0.0 www.xn--untergrund-blttle-2qb.ch
-0.0.0.0 www.yad2.co.il
-0.0.0.0 www.yoc.de
-0.0.0.0 www.zak.de
-0.0.0.0 www.zambon.net
-0.0.0.0 www.zanox.de
-0.0.0.0 www.zimbio.com
-0.0.0.0 www.zitty.de
-0.0.0.0 www.zona-antifascista.org
-0.0.0.0 www.zufallsshirt.de
-0.0.0.0 www.zusammenleben-willkommen.de
-0.0.0.0 www.zvw.de
-0.0.0.0 www.zweitehand.de
-0.0.0.0 0x0a.li
-0.0.0.0 100-prozent-sozial.de
-0.0.0.0 29rooms.com
-0.0.0.0 3sat.de
-0.0.0.0 a-laden.org
-0.0.0.0 a2s.copyriot.com
-0.0.0.0 aachener-friedenspreis.de
-0.0.0.0 aachener-zeitung.de
-0.0.0.0 abendblatt.de
-0.0.0.0 abo.welt.de
-0.0.0.0 aboservice.welt.de
-0.0.0.0 aboservice2.welt.de
-0.0.0.0 aboservice3.welt.de
-0.0.0.0 abriss-berlin.de
-0.0.0.0 abschiebehaft.de
-0.0.0.0 abschiebehaftkontaktgruppe.de
-0.0.0.0 adb-sachsen.de
-0.0.0.0 addn.me
-0.0.0.0 adf-berlin.de
-0.0.0.0 adl.ae
-0.0.0.0 adl.aero
-0.0.0.0 adl.ai
-0.0.0.0 adl.app
-0.0.0.0 adl.art
-0.0.0.0 adl.asia
-0.0.0.0 adl.at
-0.0.0.0 adl.az
-0.0.0.0 adl.be
-0.0.0.0 adl.bh
-0.0.0.0 adl.buzz
-0.0.0.0 adl.by
-0.0.0.0 adl.ca
-0.0.0.0 adl.care
-0.0.0.0 adl.catholic.edu.au
-0.0.0.0 adl.cc
-0.0.0.0 adl.center
-0.0.0.0 adl.ch
-0.0.0.0 adl.city
-0.0.0.0 adl.cl
-0.0.0.0 adl.cloud
-0.0.0.0 adl.cn
-0.0.0.0 adl.co
-0.0.0.0 adl.co.at
-0.0.0.0 adl.co.hu
-0.0.0.0 adl.co.id
-0.0.0.0 adl.co.il
-0.0.0.0 adl.co.in
-0.0.0.0 adl.co.jp
-0.0.0.0 adl.co.ke
-0.0.0.0 adl.co.kr
-0.0.0.0 adl.co.nz
-0.0.0.0 adl.co.th
-0.0.0.0 adl.co.uk
-0.0.0.0 adl.co.za
-0.0.0.0 adl.coffee
-0.0.0.0 adl.com
-0.0.0.0 adl.com.ar
-0.0.0.0 adl.com.au
-0.0.0.0 adl.com.bo
-0.0.0.0 adl.com.br
-0.0.0.0 adl.com.cn
-0.0.0.0 adl.com.co
-0.0.0.0 adl.com.ec
-0.0.0.0 adl.com.mx
-0.0.0.0 adl.com.my
-0.0.0.0 adl.com.np
-0.0.0.0 adl.com.pk
-0.0.0.0 adl.com.pt
-0.0.0.0 adl.com.py
-0.0.0.0 adl.org
-0.0.0.0 advancementproject.org
-0.0.0.0 aerztezeitung.de
-0.0.0.0 afd-watch-hamburg.org
-0.0.0.0 afeefa.de
-0.0.0.0 afrinic.net
-0.0.0.0 afrique-europe-interact.net
-0.0.0.0 afropa.org
-0.0.0.0 ag-asylsuchende.de
-0.0.0.0 ag.kritis.info
-0.0.0.0 ainfos.ca
-0.0.0.0 aipac.org
-0.0.0.0 ak-gewerkschafter.de
-0.0.0.0 aktion-mensch.de
-0.0.0.0 aktion.welt.de
-0.0.0.0 aktionbleiberecht.de
-0.0.0.0 al-zh.ch
-0.0.0.0 alarmphone.org
-0.0.0.0 alhaq.org
-0.0.0.0 altinamedia.com
-0.0.0.0 amadeu-antonio-stiftung.de
-0.0.0.0 americanimmigrationcouncil.org
-0.0.0.0 americasvoice.org
-0.0.0.0 amiado.com
-0.0.0.0 amiadogroup.com
-0.0.0.0 amnesty-sachsen.de
-0.0.0.0 amp-iframe.welt.de
-0.0.0.0 amp.welt.de
-0.0.0.0 anarchie.de
-0.0.0.0 anarchopedia.org
-0.0.0.0 anarkismo.net
-0.0.0.0 angebote-stage.welt.de
-0.0.0.0 angebote.welt.de
-0.0.0.0 anonews.co
-0.0.0.0 antagonistischeassoziation.copyriot.com
-0.0.0.0 antenne.de
-0.0.0.0 antenne1.de
-0.0.0.0 antifa.biz
-0.0.0.0 antifa.cz
-0.0.0.0 antifa.de
-0.0.0.0 antifa.info
-0.0.0.0 antifademo.tk
-0.0.0.0 antifainfoblatt.de
-0.0.0.0 antihate.ca
-0.0.0.0 antikapitalistische-linke.de
-0.0.0.0 antira-kompass.info
-0.0.0.0 antira.info
-0.0.0.0 antispe.org
-0.0.0.0 antville.org
-0.0.0.0 apabiz.de
-0.0.0.0 appc.welt.de
-0.0.0.0 arbeit-zukunft.de
-0.0.0.0 arbeiterfotografie.com
-0.0.0.0 arbeitermacht.de
-0.0.0.0 arbeiterpolitik.de
-0.0.0.0 archivtiger.de
-0.0.0.0 arcor.de
-0.0.0.0 ardmediathek.de
-0.0.0.0 arendt-art.de
-0.0.0.0 artcollector-magazin.de
-0.0.0.0 arte.tv
-0.0.0.0 artinvestor.de
-0.0.0.0 as-konzerneinkauf.de
-0.0.0.0 asv-ag.com
-0.0.0.0 asv.de
-0.0.0.0 asventure.com
-0.0.0.0 asylumineurope.org
-0.0.0.0 attac.de
-0.0.0.0 attenzione.kulturhaus-pirna.de
-0.0.0.0 audioscript.net
-0.0.0.0 audiovideofotobild.de
-0.0.0.0 aufbau.org
-0.0.0.0 aufeminin.com
-0.0.0.0 aufstehen-gegen-rassismus.de
-0.0.0.0 auslaenderrat.de
-0.0.0.0 auto-bild.ro
-0.0.0.0 auto-swiat.pl
-0.0.0.0 auto-wirtschaft.ch
-0.0.0.0 auto.cz
-0.0.0.0 autobild.com.mx
-0.0.0.0 autobild.de
-0.0.0.0 autobild.es
-0.0.0.0 autobild.fi
-0.0.0.0 autobild.ge
-0.0.0.0 autobild.gr
-0.0.0.0 autobild.hu
-0.0.0.0 autobild.in
-0.0.0.0 autobild.lt
-0.0.0.0 autobild.si
-0.0.0.0 autobild.tv
-0.0.0.0 autobild.ua
-0.0.0.0 autobildallrad.de
-0.0.0.0 autobildindonesia.com
-0.0.0.0 autoexpress.co.uk
-0.0.0.0 autohaus24.de
-0.0.0.0 autojournal.fr
-0.0.0.0 autoleht.ee
-0.0.0.0 autonom.biz
-0.0.0.0 autoplus.fr
-0.0.0.0 autoshow.com.tr
-0.0.0.0 autotip.auto.cz
-0.0.0.0 autoundwirtschaft.at
-0.0.0.0 autoweek.nl
-0.0.0.0 avfbild.de
-0.0.0.0 awc-eg.de
-0.0.0.0 axel-springer-ag.com
-0.0.0.0 axel-springer-akademie.de
-0.0.0.0 axel-springer-verlag.com
-0.0.0.0 axel-springer.com
-0.0.0.0 axel-springer.de
-0.0.0.0 axelspringer-ag.com
-0.0.0.0 axelspringer-syndication.de
-0.0.0.0 axelspringer.de
-0.0.0.0 axelspringer.fr
-0.0.0.0 axelspringer.hu
-0.0.0.0 axelspringer.pl
-0.0.0.0 axelspringerag.com
-0.0.0.0 az.com.na
-0.0.0.0 azconni.de
-0.0.0.0 azet.sk
-0.0.0.0 badische-zeitung.de
-0.0.0.0 badisches-tagblatt.de
-0.0.0.0 bak-shalom.de
-0.0.0.0 bams.de
-0.0.0.0 bantrybay.de
-0.0.0.0 basta-bs.ch
-0.0.0.0 bauermedia.com
-0.0.0.0 bbc.com
-0.0.0.0 bbv-mediengruppe.de
-0.0.0.0 bbv-net.de
-0.0.0.0 beate-klarsfeld.de
-0.0.0.0 belgieninfo.net
-0.0.0.0 bellingcat.com
-0.0.0.0 belltower.news
-0.0.0.0 belvilla.com
-0.0.0.0 bento.de
-0.0.0.0 bento.de/
-0.0.0.0 beobachter.ch
-0.0.0.0 beobachtertv.ch
-0.0.0.0 berliner-morgenpost.de
-0.0.0.0 berliner-zeitung.de
-0.0.0.0 besserewelt.info
-0.0.0.0 bestcheck.de
-0.0.0.0 bewegung.in
-0.0.0.0 bewegungsmelder.org
-0.0.0.0 beyondeurope.net
-0.0.0.0 bigleaguepolitics.com
-0.0.0.0 bilanz-magazin.de
-0.0.0.0 bild.de
-0.0.0.0 bildblog.de
-0.0.0.0 bildet-laeden.de
-0.0.0.0 black-mosquito.org
-0.0.0.0 blackblogs.org
-0.0.0.0 blacklivesmatter.com
-0.0.0.0 bleiberechtsbuero.de
-0.0.0.0 blic.rs
-0.0.0.0 blikk.hu
-0.0.0.0 blocktogether.org
-0.0.0.0 blog-der-republik.de
-0.0.0.0 blog.zeit.de
-0.0.0.0 blogbar.de
-0.0.0.0 blogsome.com
-0.0.0.0 blogsport.de
-0.0.0.0 bmsfr.de
-0.0.0.0 bo.de
-0.0.0.0 boeckler.de
-0.0.0.0 boncourage.de
-0.0.0.0 bonial.com
-0.0.0.0 borderline-europe.de
-0.0.0.0 bpb.de
-0.0.0.0 br.de
-0.0.0.0 brasilienmagazin.net
-0.0.0.0 braunschweiger-zeitung.de
-0.0.0.0 brigitte.de
-0.0.0.0 buchkomplizen.de
-0.0.0.0 buecher.de
-0.0.0.0 burda-forward.de
-0.0.0.0 burda.com
-0.0.0.0 burks.de
-0.0.0.0 butterland.org
-0.0.0.0 buzzfeed.com
-0.0.0.0 buzzfeednews.com
-0.0.0.0 bz-berlin.de
-0.0.0.0 bz.de
-0.0.0.0 campact.de
-0.0.0.0 carava.net
-0.0.0.0 carwale.com
-0.0.0.0 casamundo.com
-0.0.0.0 ccc.de
-0.0.0.0 cdu.de
-0.0.0.0 chip.de
-0.0.0.0 chronikle.org
-0.0.0.0 cicero.de
-0.0.0.0 city-journal.org
-0.0.0.0 clara-zetkin-frauenpreis.de
-0.0.0.0 codepink.org
-0.0.0.0 colorofchange.org
-0.0.0.0 come-on.de
-0.0.0.0 communityrack.org
-0.0.0.0 computerbild.de
-0.0.0.0 computerbildspiele.de
-0.0.0.0 computeruniverse.net
-0.0.0.0 conne-island.de
-0.0.0.0 copyriot.com
-0.0.0.0 copyriot.net
-0.0.0.0 copyriot.org
-0.0.0.0 correctiv.org
-0.0.0.0 cosmic-law.com
-0.0.0.0 csu.de
-0.0.0.0 curved.de
-0.0.0.0 dailydot.com
-0.0.0.0 das-muss-drin-sein.de
-0.0.0.0 das-parlament.de
-0.0.0.0 dasmussdrinsein.de
-0.0.0.0 deliberationdaily.de
-0.0.0.0 demvolkedienen.org
-0.0.0.0 der-audio-verlag.de
-0.0.0.0 der-postillon.com
-0.0.0.0 der-rechte-rand.de
-0.0.0.0 derfunke.de
-0.0.0.0 derwesten.de
-0.0.0.0 destatis.de
-0.0.0.0 deutsch.radio.cz
-0.0.0.0 deutsche-mittelstands-nachrichten.de
-0.0.0.0 deutschland-lagerland.de
-0.0.0.0 deutschlandfunk.de
-0.0.0.0 die-ergos.de
-0.0.0.0 die-glocke.de
-0.0.0.0 die-linke-im-bundestag.de
-0.0.0.0 die-linke-kommunal.de
-0.0.0.0 die-linke-spen.de
-0.0.0.0 die-linke-spende.de
-0.0.0.0 die-linke-spenden.de
-0.0.0.0 die-linke.bayern
-0.0.0.0 die-linke.de
-0.0.0.0 die-linke.email
-0.0.0.0 die-linke.eu
-0.0.0.0 die-linke.info
-0.0.0.0 die-linke.name
-0.0.0.0 die-linke.net
-0.0.0.0 die-tagespost.de
-0.0.0.0 dielinke-kommunal.de
-0.0.0.0 dielinke.berlin
-0.0.0.0 dielinke.church
-0.0.0.0 dielinke.eu
-0.0.0.0 dielinke.party
-0.0.0.0 dielunte.de
-0.0.0.0 dienstraum.com
-0.0.0.0 diepresse.com
-0.0.0.0 diewelt.de
-0.0.0.0 digitale-linke.de
-0.0.0.0 digitallinks.de
-0.0.0.0 diraction-merch.org
-0.0.0.0 diraction.com
-0.0.0.0 diraction.de
-0.0.0.0 diraction.es
-0.0.0.0 diraction.global
-0.0.0.0 diraction.it
-0.0.0.0 diraction.net
-0.0.0.0 diraction.nl
-0.0.0.0 diraction.nu
-0.0.0.0 diraction.org
-0.0.0.0 diraction.ru
-0.0.0.0 diractionbus.world
-0.0.0.0 diractions.com
-0.0.0.0 diractionscapital.com
-0.0.0.0 direkteaktion.org
-0.0.0.0 diskus.copyriot.com
-0.0.0.0 diss-duisburg.de
-0.0.0.0 diva.copyriot.com
-0.0.0.0 dkp.de
-0.0.0.0 dresden-nazifrei.com
-0.0.0.0 dresden-postkolonial.de
-0.0.0.0 dudweiler-blog.de
-0.0.0.0 dw.com
-0.0.0.0 dzienniksport.pl
-0.0.0.0 echo-online.de
-0.0.0.0 econlib.org
-0.0.0.0 edition.cnn.com
-0.0.0.0 eigenleben.copyriot.com
-0.0.0.0 ein-herz-fuer-kinder.com
-0.0.0.0 ein-herz-fuer-kinder.de
-0.0.0.0 einfach-kochen.de
-0.0.0.0 eingeschlossen-ausgeschlossen.de
-0.0.0.0 ejpress.org
-0.0.0.0 eldiario.net
-0.0.0.0 eldinamo.cl
-0.0.0.0 elespectador.com
-0.0.0.0 endstation-rechts.de
-0.0.0.0 enlacezapatista.ezln.org.mx
-0.0.0.0 esershop24.de
-0.0.0.0 esslinger-zeitung.de
-0.0.0.0 europa-nur-solidarisch.de
-0.0.0.0 europaeische-linke.de
-0.0.0.0 europaeische-linke.eu
-0.0.0.0 europaeische-linke.org
-0.0.0.0 european-left.org
-0.0.0.0 europeanvoice.com
-0.0.0.0 exit-deutschland.de
-0.0.0.0 express.de
-0.0.0.0 extra-hamburg.com
-0.0.0.0 fakt.pl
-0.0.0.0 falkvinge.net
-0.0.0.0 fateback.com
-0.0.0.0 fau.org
-0.0.0.0 faz.media
-0.0.0.0 fdik.org
-0.0.0.0 fdj.de
-0.0.0.0 feindbeguenstigung.de
-0.0.0.0 fem.com
-0.0.0.0 ffh.de
-0.0.0.0 ffm-online.org
-0.0.0.0 ffn.de
-0.0.0.0 filmpool-entertainment.de
-0.0.0.0 finanz.ru
-0.0.0.0 finanzen.ch
-0.0.0.0 finanzen.net
-0.0.0.0 fluechtlingsrat-bayern.de
-0.0.0.0 fluechtlingsrat-berlin.de
-0.0.0.0 forbes.pl
-0.0.0.0 forbes.ru
-0.0.0.0 forumromanum.de
-0.0.0.0 fr.de
-0.0.0.0 free.de
-0.0.0.0 freemensworld.de
-0.0.0.0 freepress.net
-0.0.0.0 freiheit-durch-sozialismus.de
-0.0.0.0 freitag.de
-0.0.0.0 friedenspartei.de
-0.0.0.0 frikoberlin.de
-0.0.0.0 frontexplode.eu
-0.0.0.0 fu-berlin.de
-0.0.0.0 fueralle.org
-0.0.0.0 funk.net
-0.0.0.0 fussball-gegen-nazis.de
-0.0.0.0 ganske.de
-0.0.0.0 gegen-kapital-und-nation.org
-0.0.0.0 gegenabschiebehaft.de
-0.0.0.0 gegenantiromaismus.org
-0.0.0.0 gegendiestroemung.net
-0.0.0.0 gegenstandpunkt.com
-0.0.0.0 geo.ru
-0.0.0.0 geolenok.ru
-0.0.0.0 gerede-dresden.de
-0.0.0.0 german-foreign-policy.com
-0.0.0.0 gesund.bund.de
-0.0.0.0 gewerkschafter-waehlen-links.de
-0.0.0.0 gewerkschafterinnen-waehlen-links.de
-0.0.0.0 ghettokids.org
-0.0.0.0 gizmodo.com
-0.0.0.0 glamouronline.hu
-0.0.0.0 glokal.org
-0.0.0.0 gofeminin.de
-0.0.0.0 gothamist.com
-0.0.0.0 gottunddiewelt.net
-0.0.0.0 graeberfeld.copyriot.com
-0.0.0.0 granma.cu
-0.0.0.0 graswurzel.tv
-0.0.0.0 griechenland.net
-0.0.0.0 gruenderszene.de
-0.0.0.0 gruene-bundestag.de
-0.0.0.0 gruene.de
-0.0.0.0 gruppe-polar.org
-0.0.0.0 guj.de
-0.0.0.0 guter-rat-abo.de
-0.0.0.0 guter-rat.de
-0.0.0.0 guterrat.de
-0.0.0.0 gutmenschen.party
-0.0.0.0 h-wie-hering.de
-0.0.0.0 haaretz.com
-0.0.0.0 hagalil.com
-0.0.0.0 hamburg-extra.com
-0.0.0.0 hamburg.de
-0.0.0.0 hamburgextra.com
-0.0.0.0 hamburgsuche.com
-0.0.0.0 handelszeitung.ch
-0.0.0.0 hanfmuseum.de
-0.0.0.0 hanfparade.de
-0.0.0.0 harenberg.de
-0.0.0.0 hartziv-muss-weg.de
-0.0.0.0 haz.de
-0.0.0.0 heidelberg24.de
-0.0.0.0 heise.de
-0.0.0.0 helle-panke.de
-0.0.0.0 hellwegeranzeiger.de
-0.0.0.0 help.copyriot.com
-0.0.0.0 hier-ist-die-linke.de
-0.0.0.0 hier-und-in-europa.de
-0.0.0.0 hieristdielinke.de
-0.0.0.0 hierundineuropa.de
-0.0.0.0 horizont.net
-0.0.0.0 hpage.com
-0.0.0.0 hubber.me
-0.0.0.0 huffpost.com
-0.0.0.0 hyperevolution.org
-0.0.0.0 ida-dresden.de
-0.0.0.0 idash.org
-0.0.0.0 idealo.de
-0.0.0.0 idowa.de
-0.0.0.0 ifo.de
-0.0.0.0 ikiosk.de
-0.0.0.0 immergruen-medien.de
-0.0.0.0 immonet.de
-0.0.0.0 immowelt.de
-0.0.0.0 impact-records.de
-0.0.0.0 independent.co.uk
-0.0.0.0 indybay.org
-0.0.0.0 indymedia.org
-0.0.0.0 infopartisan.net
-0.0.0.0 inforiot.de
-0.0.0.0 infosperber.ch
-0.0.0.0 infranken.de
-0.0.0.0 inprekorr.de
-0.0.0.0 input-aktuell.de
-0.0.0.0 internationale-rosa-luxemburg-gesellschaft.de
-0.0.0.0 internationalmediasales.net
-0.0.0.0 interventionistische-linke.org
-0.0.0.0 invid-project.eu
-0.0.0.0 isdonline.de
-0.0.0.0 isw-muenchen.de
-0.0.0.0 itsallpolitics.com
-0.0.0.0 itservice-herzog.de
-0.0.0.0 iutv.de
-0.0.0.0 ivi.copyriot.com
-0.0.0.0 iz-dresden.org
-0.0.0.0 jacobinmag.com
-0.0.0.0 jewishcurrents.org
-0.0.0.0 jfda.de
-0.0.0.0 jns.org
-0.0.0.0 jobsite.co.uk
-0.0.0.0 jogspace.net
-0.0.0.0 journal.lu
-0.0.0.0 jpost.com
-0.0.0.0 jugendhaus-rosswein.de
-0.0.0.0 jungefreiheit.de
-0.0.0.0 jungewelt.de
-0.0.0.0 jungle.world
-0.0.0.0 jw.org
-0.0.0.0 jwatch.org
-0.0.0.0 jwz.org
-0.0.0.0 karl-liebknecht-haus.de
-0.0.0.0 karl-liebknecht.de
-0.0.0.0 kaufda.de
-0.0.0.0 kaz-online.de
-0.0.0.0 kbh-mauerplatz.de
-0.0.0.0 keine-stimme-den-nazis.org
-0.0.0.0 kfsr.info
-0.0.0.0 kiezschreiber.blogspot.com
-0.0.0.0 kinderbauernhofberlin.de
-0.0.0.0 kirchenasyl.de
-0.0.0.0 klassegegenklasse.org
-0.0.0.0 kn-online.de
-0.0.0.0 komputerswiat.pl
-0.0.0.0 konkret-magazin.de
-0.0.0.0 kontext-tv.de
-0.0.0.0 kosmotique.org
-0.0.0.0 kossawa.de
-0.0.0.0 kotaku.com
-0.0.0.0 kreiszeitung.de
-0.0.0.0 kreta-dresden.org
-0.0.0.0 kreta-film.net
-0.0.0.0 kreuzberg-info.de
-0.0.0.0 kritische-koepfe-waehlen-links.de
-0.0.0.0 kts-freiburg.org
-0.0.0.0 kulturbuero-sachsen.de
-0.0.0.0 kulturelle-linke.de
-0.0.0.0 kulturkritik.net
-0.0.0.0 kurier.de
-0.0.0.0 labandavaga.org
-0.0.0.0 labanquesuisse.ch
-0.0.0.0 labournet.de
-0.0.0.0 lacentrale.fr
-0.0.0.0 ladenzeile.de
-0.0.0.0 ladyfest-ffm.copyriot.com
-0.0.0.0 landeszeitung.de
-0.0.0.0 lateinamerika-nachrichten.de
-0.0.0.0 laubegast-ist-bunt.de
-0.0.0.0 lefigaro.fr
-0.0.0.0 left-stickers.com
-0.0.0.0 leipzigerinnen.de
-0.0.0.0 lemonde.fr
-0.0.0.0 libelle-leipzig.de
-0.0.0.0 lifehacker.com
-0.0.0.0 ligatus.be
-0.0.0.0 ligatus.de
-0.0.0.0 ligatus.fr
-0.0.0.0 link.springer.com
-0.0.0.0 linke-buecher.de
-0.0.0.0 linke-t-shirts.de
-0.0.0.0 linke-verkehrswende.de
-0.0.0.0 linke-woche-der-zukunft.de
-0.0.0.0 linkeseite.de
-0.0.0.0 linkewochederzukunft.de
-0.0.0.0 linkezeitung.de
-0.0.0.0 links-aktiv.de
-0.0.0.0 linksaktiv.de
-0.0.0.0 linksfraktion-baden-wuerttemberg.de
-0.0.0.0 linksfraktion-bayern.de
-0.0.0.0 linksfraktion.de
-0.0.0.0 linksfraktionbayern.de
-0.0.0.0 linksjugend-sachsen.de
-0.0.0.0 linksjugend-solid.de
-0.0.0.0 linkspartei.de
-0.0.0.0 linkswende.org
-0.0.0.0 litlounge.tv
-0.0.0.0 livestrong.com
-0.0.0.0 ln-online.de
-0.0.0.0 lohmuehle-berlin.de
-0.0.0.0 lonny.com
-0.0.0.0 lostineu.eu
-0.0.0.0 lotta-magazin.de
-0.0.0.0 lowerclassmag.com
-0.0.0.0 lr-online.de
-0.0.0.0 lsa-rechtsaussen.net
-0.0.0.0 lukacs-gesellschaft.de
-0.0.0.0 lvz.de
-0.0.0.0 lwdz.de
-0.0.0.0 mads.de
-0.0.0.0 maenner.media
-0.0.0.0 main-echo.de
-0.0.0.0 mainpost.de
-0.0.0.0 makronom.de
-0.0.0.0 mallorcazeitung.es
-0.0.0.0 manager-magazin.de
-0.0.0.0 manifest-verlag.de
-0.0.0.0 manifeste-euroafricain.org
-0.0.0.0 mao-projekt.de
-0.0.0.0 marbacher-zeitung.de
-0.0.0.0 marginalrevolution.com
-0.0.0.0 marx-forum.de
-0.0.0.0 marx21.de
-0.0.0.0 marxists.de
-0.0.0.0 marxists.org
-0.0.0.0 maz-online.de
-0.0.0.0 mazandmore.de
-0.0.0.0 mdr.de
-0.0.0.0 media-impact.net
-0.0.0.0 media-impact.org
-0.0.0.0 mediapart.fr
-0.0.0.0 mediapilot.de
-0.0.0.0 mediawiki.org
-0.0.0.0 medinetz-dresden.org
-0.0.0.0 meinestadt.de
-0.0.0.0 meinprospekt.de
-0.0.0.0 merkur.de
-0.0.0.0 meta.copyriot.com
-0.0.0.0 metal-hammer.de
-0.0.0.0 mez-berlin.de
-0.0.0.0 mhi.com.hk
-0.0.0.0 mhichina.com
-0.0.0.0 miete-bezahlbar.de
-0.0.0.0 migranten-waehlen-links.de
-0.0.0.0 migrantinnen-waehlen-links.de
-0.0.0.0 migreurop.org
-0.0.0.0 minuskel.de
-0.0.0.0 mittelbayerische.de
-0.0.0.0 mlpd.de
-0.0.0.0 mobaction.de
-0.0.0.0 monde-diplomatique.de
-0.0.0.0 monputeaux.com
-0.0.0.0 mopo.de
-0.0.0.0 morgenpost.de
-0.0.0.0 morgenweb.de
-0.0.0.0 motherjones.com
-0.0.0.0 motorsport-total.com
-0.0.0.0 moz.de
-0.0.0.0 ms-versenken.org
-0.0.0.0 munzinger.de
-0.0.0.0 musik-sammler.de
-0.0.0.0 musikexpress.de
-0.0.0.0 myblog.de
-0.0.0.0 mylittleparis.fr
-0.0.0.0 mz-web.de
-0.0.0.0 n-tv.de
-0.0.0.0 n24.at
-0.0.0.0 n24.de
-0.0.0.0 naacp.org
-0.0.0.0 nadir.org
-0.0.0.0 nakedcapitalism.com
-0.0.0.0 nazis-raus-aus-dem-internet.de
-0.0.0.0 nbcnews.com
-0.0.0.0 ndr.de
-0.0.0.0 nemesis.marxists.org
-0.0.0.0 net-news-global.net
-0.0.0.0 netmoms.de
-0.0.0.0 netz-antifa.com
-0.0.0.0 netz-antifa.org
-0.0.0.0 netzpolitik.org
-0.0.0.0 netzwerk-360-grad.org
-0.0.0.0 netzwerk-naunhof.org
-0.0.0.0 netzwerk-selbsthilfe.de
-0.0.0.0 neue-einheit.com
-0.0.0.0 neuegegenwart.de
-0.0.0.0 neuepresse.de
-0.0.0.0 neues-deutschland.de
-0.0.0.0 neuewut.de
-0.0.0.0 neulandrebellen.de
-0.0.0.0 neusprech.org
-0.0.0.0 news.de
-0.0.0.0 newsstand.de
-0.0.0.0 newsweek.pl
-0.0.0.0 newyorck.net
-0.0.0.0 newyorker.com
-0.0.0.0 ngo-online.de
-0.0.0.0 niederrheinzeitung.de
-0.0.0.0 nin.co.rs
-0.0.0.0 noblogs.org
-0.0.0.0 noborder.org
-0.0.0.0 non.copyriot.com
-0.0.0.0 nordbayern.de
-0.0.0.0 nordkurier.de
-0.0.0.0 nos.nl
-0.0.0.0 nostate.net
-0.0.0.0 notraces.net
-0.0.0.0 noz.de
-0.0.0.0 npr.org
-0.0.0.0 nrc.nl
-0.0.0.0 nrz.de
-0.0.0.0 ntz.de
-0.0.0.0 nw.de
-0.0.0.0 nwzonline.de
-0.0.0.0 nytimes.com
-0.0.0.0 nzz.ch
-0.0.0.0 obermain.de
-0.0.0.0 occupyberlin.de
-0.0.0.0 oekotest.de
-0.0.0.0 offen-siv.net
-0.0.0.0 ohost.de
-0.0.0.0 ok-magazine.ru
-0.0.0.0 olygraph.info
-0.0.0.0 onesolutionrevolution.de
-0.0.0.0 onet.pl
-0.0.0.0 onmeda.de
-0.0.0.0 openpetition.de
-0.0.0.0 opor-streetwar.com
-0.0.0.0 ostsee-zeitung.de
-0.0.0.0 ox-fanzine.de
-0.0.0.0 oz-online.de
-0.0.0.0 ozy.com
-0.0.0.0 pacificpundit.com
-0.0.0.0 panafrikanismusforum.net
-0.0.0.0 parsimony.net
-0.0.0.0 parstoday.com
-0.0.0.0 partei-die-linke.de
-0.0.0.0 parteiderarbeit.at
-0.0.0.0 partyguide.ch
-0.0.0.0 pda.ch
-0.0.0.0 pds-online.de
-0.0.0.0 pedestrian.tv
-0.0.0.0 pedestriangroup.com.au
-0.0.0.0 perlentaucher.de
-0.0.0.0 perspektive-online.net
-0.0.0.0 perutz.copyriot.com
-0.0.0.0 petra.de
-0.0.0.0 peykeiran.com
-0.0.0.0 pflegenotstand-stoppen.de
-0.0.0.0 pflegenotstandstoppen.de
-0.0.0.0 pinkkoshernostra.org
-0.0.0.0 pinkstinks.de
-0.0.0.0 piqd.de
-0.0.0.0 planet-melmac.de
-0.0.0.0 playpc.pl
-0.0.0.0 plus.tagesspiegel.de
-0.0.0.0 pme.ch
-0.0.0.0 pnn.de
-0.0.0.0 polen-heute.de
-0.0.0.0 polidia.de
-0.0.0.0 politico.com
-0.0.0.0 politico.eu
-0.0.0.0 politifact.com
-0.0.0.0 polygon.com
-0.0.0.0 polygraph.info
-0.0.0.0 potemkin-zeitschrift.de
-0.0.0.0 prager-fruehling-magazin.de
-0.0.0.0 prenzlauerberg-nachrichten.de
-0.0.0.0 presse-report.de
-0.0.0.0 pressenza.com
-0.0.0.0 prinz.de
-0.0.0.0 prisma.de
-0.0.0.0 prismamedia.com
-0.0.0.0 proasyl.de
-0.0.0.0 profession.hu
-0.0.0.0 project-youcheck.com
-0.0.0.0 prokla.de
-0.0.0.0 proletarische-plattform.org
-0.0.0.0 prp-hamburg.org
-0.0.0.0 prpchannel.com
-0.0.0.0 psiram.com
-0.0.0.0 public-ip.org
-0.0.0.0 pz-news.de
-0.0.0.0 quarks.de
-0.0.0.0 r-mediabase.eu
-0.0.0.0 raa-berlin.de
-0.0.0.0 raa-sachsen.de
-0.0.0.0 radiohamburg.de
-0.0.0.0 radionrw.de
-0.0.0.0 radioprimaton.de
-0.0.0.0 rand.org
-0.0.0.0 rasdonovan.com
-0.0.0.0 ratiomatrix.net
-0.0.0.0 raw.at
-0.0.0.0 rebellmarkt.blogger.de
-0.0.0.0 recherche-nord.com
-0.0.0.0 recherchenblog.ch
-0.0.0.0 rechtaufstadt.net
-0.0.0.0 rechtesland.de
-0.0.0.0 red-skins.de
-0.0.0.0 redglobe.de
-0.0.0.0 redside.tk
-0.0.0.0 refinery29.com
-0.0.0.0 refusefascism.org
-0.0.0.0 reichtum-und-religion.de
-0.0.0.0 reportagen.de
-0.0.0.0 revista-online.info
-0.0.0.0 revolutionaere-aktion.org
-0.0.0.0 rf-news.de
-0.0.0.0 rga.de
-0.0.0.0 rhein-mainer.de
-0.0.0.0 rhein-zeitung.d
-0.0.0.0 rhein-zeitung.de
-0.0.0.0 rheinneckarblog.de
-0.0.0.0 rheinpfalz.de
-0.0.0.0 rhiz.wien
-0.0.0.0 rightlivelihoodaward.org
-0.0.0.0 riolyrics.de
-0.0.0.0 riseup.net
-0.0.0.0 rki.de
-0.0.0.0 rnz.de
-0.0.0.0 roarmag.org
-0.0.0.0 rockefellerfoundation.org
-0.0.0.0 rollingstone.de
-0.0.0.0 roma-center.de
-0.0.0.0 romea.cz
-0.0.0.0 rosa-luxemburg-saal.de
-0.0.0.0 rosalux.de
-0.0.0.0 rot-blau.com
-0.0.0.0 rotdorn.org
-0.0.0.0 rote-hilfe.de
-0.0.0.0 rote-ruhr-uni.com
-0.0.0.0 rotenburger-rundschau.de
-0.0.0.0 roter-aufbau.de
-0.0.0.0 roter-shop.de
-0.0.0.0 roter-stern-leipzig.de
-0.0.0.0 rotermorgen.eu
-0.0.0.0 rotershop.de
-0.0.0.0 rotfuchs.net
-0.0.0.0 rp-online.de
-0.0.0.0 rrreiche.de
-0.0.0.0 rs2.de
-0.0.0.0 rtl.de
-0.0.0.0 ruhrbarone.de
-0.0.0.0 rundschau-online.de
-0.0.0.0 sachsenpublizistik.de
-0.0.0.0 saechsische.de
-0.0.0.0 saechsischer-fluechtlingsrat.de
-0.0.0.0 salonkolumnisten.com
-0.0.0.0 salzsau-panorama.de
-0.0.0.0 sanoma.com
-0.0.0.0 saz-aktuell.com
-0.0.0.0 scharf-links.de
-0.0.0.0 schattenblick.de
-0.0.0.0 scheune.org
-0.0.0.0 schmok.blogsport.eu
-0.0.0.0 schwaebische.de
-0.0.0.0 schweizerbank.ch
-0.0.0.0 schweizerversicherung.ch
-0.0.0.0 seapoint.de
-0.0.0.0 secarts.org
-0.0.0.0 seebruecke-hamburg.de
-0.0.0.0 seloger.com
-0.0.0.0 senselab.org
-0.0.0.0 shz.de
-0.0.0.0 siegener-zeitung.de
-0.0.0.0 siegessaeule.de
-0.0.0.0 sinistra-europea.eu
-0.0.0.0 sinistra.copyriot.com
-0.0.0.0 slate.com
-0.0.0.0 slp.at
-0.0.0.0 smartdroid.de
-0.0.0.0 snopes.com
-0.0.0.0 solidaritaet.info
-0.0.0.0 solistv.de
-0.0.0.0 sonnenstaatland.com
-0.0.0.0 sopos.org
-0.0.0.0 sormas-oegd.de
-0.0.0.0 soziale-opposition.de
-0.0.0.0 sozialismus.de
-0.0.0.0 sozialismus.net
-0.0.0.0 sozialisten.de
-0.0.0.0 sozialistinnen.de
-0.0.0.0 sozialistische-klassiker.org
-0.0.0.0 spacequadrat.de
-0.0.0.0 spex.de
-0.0.0.0 spiegel.de
-0.0.0.0 spiegelgruppe.de
-0.0.0.0 spohr-publishers.de
-0.0.0.0 sportauto.fr
-0.0.0.0 sportbild.de
-0.0.0.0 sports.pl
-0.0.0.0 spreeblick.com
-0.0.0.0 spunk.org
-0.0.0.0 squat.net
-0.0.0.0 srf.ch
-0.0.0.0 stadtanzeiger-ortenau.de
-0.0.0.0 steinhaus-bautzen.de
-0.0.0.0 stepstone.de
-0.0.0.0 stern.de
-0.0.0.0 stiftung-bridge.de
-0.0.0.0 stiftung-do.org
-0.0.0.0 stimme.de
-0.0.0.0 stormfront.de
-0.0.0.0 strassenfeger.org
-0.0.0.0 studentenwerk-dresden.de
-0.0.0.0 students.at
-0.0.0.0 students.ch
-0.0.0.0 students.de
-0.0.0.0 studieren-ohne-grenzen.org
-0.0.0.0 studio100.de
-0.0.0.0 stura.tu-dresden.de
-0.0.0.0 stuttgarter-nachrichten.de
-0.0.0.0 stuttgarter-zeitung.de
-0.0.0.0 stylebistro.com
-0.0.0.0 stylebook.de
-0.0.0.0 sueddeutsche.de
-0.0.0.0 suedkurier.de
-0.0.0.0 sunrisesystem.pl
-0.0.0.0 super-illu.de
-0.0.0.0 supergiro.de
-0.0.0.0 swp-berlin.org
-0.0.0.0 swp.de
-0.0.0.0 swp.org.uk
-0.0.0.0 syndikat.copyriot.com
-0.0.0.0 systemausfall.org
-0.0.0.0 systemli.org
-0.0.0.0 t-online.de
-0.0.0.0 tacheles-sozialhilfe.de
-0.0.0.0 tag24.de
-0.0.0.0 tagebuch.at
-0.0.0.0 tagesanzeiger.ch
-0.0.0.0 tagespost-speyer.de
-0.0.0.0 tagesschau.de
-0.0.0.0 tagesspiegel.de
-0.0.0.0 taz.de
-0.0.0.0 teckbote.de
-0.0.0.0 tele.ch
-0.0.0.0 territory.de
-0.0.0.0 textlog.de
-0.0.0.0 theblackpanthers.com
-0.0.0.0 thecaravan.org
-0.0.0.0 thedigitalfwd.com
-0.0.0.0 thefeministwire.com
-0.0.0.0 theguardian.com
-0.0.0.0 theintercept.com
-0.0.0.0 thejc.com
-0.0.0.0 themarysue.com
-0.0.0.0 themediaco.com.au
-0.0.0.0 theverge.com
-0.0.0.0 thevoiceforum.org
-0.0.0.0 timesofisrael.com
-0.0.0.0 tip-berlin.de
-0.0.0.0 tolerantes-sachsen.de
-0.0.0.0 tommyhaus.org
-0.0.0.0 top-berlin.net
-0.0.0.0 totaljobs.com
-0.0.0.0 towerproductions.de
-0.0.0.0 transfermarkt.de
-0.0.0.0 transfermarkt.tv
-0.0.0.0 travelbook.de
-0.0.0.0 treibhaus-doebeln.de
-0.0.0.0 triller-online.de
-0.0.0.0 true-rebel-store.com
-0.0.0.0 tt.com
-0.0.0.0 ttip-stoppen.de
-0.0.0.0 tuuwi.de
-0.0.0.0 tvinfo.de
-0.0.0.0 tvrhet.hu
-0.0.0.0 tvstar.ch
-0.0.0.0 twoday.net
-0.0.0.0 tyt.com
-0.0.0.0 uli-ludwig.de
-0.0.0.0 umbruch-bildarchiv.de
-0.0.0.0 umsganze.org
-0.0.0.0 umverteilen.de
-0.0.0.0 umzugsauktion.de
-0.0.0.0 unherd.com
-0.0.0.0 uni-hamburg.de
-0.0.0.0 unsere-zeit.de
-0.0.0.0 untergrund-blttle-2qb.ch
-0.0.0.0 unwritten-future.org
-0.0.0.0 unz.de
-0.0.0.0 urban-classics.net
-0.0.0.0 us-onlineshop.com
-0.0.0.0 useless-streetwear.de
-0.0.0.0 usgang.ch
-0.0.0.0 veganladen.de
-0.0.0.0 verband-brg.de
-0.0.0.0 verfassungsschutz.de
-0.0.0.0 verstaatlichen.jetzt
-0.0.0.0 vienna.at
-0.0.0.0 volksstimme.de
-0.0.0.0 volksverpetzer.de
-0.0.0.0 vox.com
-0.0.0.0 vox.de
-0.0.0.0 voxmedia.com
-0.0.0.0 vsa-verlag.de
-0.0.0.0 vvn-bda.de
-0.0.0.0 vwd.com
-0.0.0.0 w2eu.info
-0.0.0.0 wagenburg.org
-0.0.0.0 wams.de
-0.0.0.0 warnung-der-bevoelkerung.de
-0.0.0.0 wartenaufheimat.de
-0.0.0.0 watchthemed.net
-0.0.0.0 waz.de
-0.0.0.0 wdr.de
-0.0.0.0 weather.com
-0.0.0.0 welt-am-sonntag.de
-0.0.0.0 welt.de
-0.0.0.0 welt.net
-0.0.0.0 weltbesten.de
-0.0.0.0 weltn24.de
-0.0.0.0 weltonline.de
-0.0.0.0 weser-kurier.de
-0.0.0.0 westendverlag.de
-0.0.0.0 weverify.eu
-0.0.0.0 wildcat-de
-0.0.0.0 willkommen-im-hochland.de
-0.0.0.0 willkommen-in-loebtau.de
-0.0.0.0 wir-falken.de
-0.0.0.0 wir-waehlen-links.de
-0.0.0.0 wirfrauen.de
-0.0.0.0 wirwaehlenlinks.de
-0.0.0.0 wissenschaft-im-dialog.de
-0.0.0.0 wiwo.de
-0.0.0.0 wkb.blogsport.de
-0.0.0.0 wn.de
-0.0.0.0 wn24.at
-0.0.0.0 wobblies.org
-0.0.0.0 women-in-exile.net
-0.0.0.0 wunderweib.de
-0.0.0.0 wz.de
-0.0.0.0 x-berg.de
-0.0.0.0 xn--linksfraktion-baden-wrttemberg-pfd.de
-0.0.0.0 xn--untergrund-blttle-2qb.ch
-0.0.0.0 yad2.co.il
-0.0.0.0 yoc.de
-0.0.0.0 zak.de
-0.0.0.0 zambon.net
-0.0.0.0 zanox.de
-0.0.0.0 zdf.de
-0.0.0.0 zeit.de
-0.0.0.0 zimbio.com
-0.0.0.0 zitty.de
-0.0.0.0 zmarta.se
-0.0.0.0 zona-antifascista.org
-0.0.0.0 zufallsshirt.de
-0.0.0.0 zusammenleben-willkommen.de
-0.0.0.0 zvw.de
-0.0.0.0 zweitehand.de
+# hello dont cry
+||0x0a.li^
+||100-prozent-sozial.de^
+||29rooms.com^
+||3sat.de^
+||a-laden.org^
+||a2s.copyriot.com^
+||aachener-friedenspreis.de^
+||aachener-zeitung.de^
+||abendblatt.de^
+||abo.welt.de^
+||aboservice.welt.de^
+||aboservice2.welt.de^
+||aboservice3.welt.de^
+||abriss-berlin.de^
+||abschiebehaft.de^
+||abschiebehaftkontaktgruppe.de^
+||adb-sachsen.de^
+||addn.me^
+||adf-berlin.de^
+||adl.ae^
+||adl.aero^
+||adl.ai^
+||adl.app^
+||adl.art^
+||adl.asia^
+||adl.at^
+||adl.az^
+||adl.be^
+||adl.bh^
+||adl.buzz^
+||adl.by^
+||adl.ca^
+||adl.care^
+||adl.catholic.edu.au^
+||adl.cc^
+||adl.center^
+||adl.ch^
+||adl.city^
+||adl.cl^
+||adl.cloud^
+||adl.cn^
+||adl.co.at^
+||adl.co.hu^
+||adl.co.id^
+||adl.co.il^
+||adl.co.in^
+||adl.co.jp^
+||adl.co.ke^
+||adl.co.kr^
+||adl.co.nz^
+||adl.co.th^
+||adl.co.uk^
+||adl.co.za^
+||adl.co^
+||adl.coffee^
+||adl.com.ar^
+||adl.com.au^
+||adl.com.bo^
+||adl.com.br^
+||adl.com.cn^
+||adl.com.co^
+||adl.com.ec^
+||adl.com.mx^
+||adl.com.my^
+||adl.com.np^
+||adl.com.pk^
+||adl.com.pt^
+||adl.com.py^
+||adl.com^
+||adl.org^
+||advancementproject.org^
+||aerztezeitung.de^
+||afd-watch-hamburg.org^
+||afeefa.de^
+||afrinic.net^
+||afrique-europe-interact.net^
+||afropa.org^
+||ag-asylsuchende.de^
+||ag.kritis.info^
+||ainfos.ca^
+||aipac.org^
+||ak-gewerkschafter.de^
+||aktion-mensch.de^
+||aktion.welt.de^
+||aktionbleiberecht.de^
+||al-zh.ch^
+||alarmphone.org^
+||alhakam.org^
+||alhaq.org^
+||altinamedia.com^
+||amadeu-antonio-stiftung.de^
+||americanimmigrationcouncil.org^
+||americasvoice.org^
+||amiado.com^
+||amiadogroup.com^
+||amnesty-sachsen.de^
+||amp-iframe.welt.de^
+||amp.welt.de^
+||anarchie.de^
+||anarchopedia.org^
+||anarkismo.net^
+||angebote-stage.welt.de^
+||angebote.welt.de^
+||anonews.co^
+||antagonistischeassoziation.copyriot.com^
+||antenne.de^
+||antenne1.de^
+||antifa.biz^
+||antifa.cz^
+||antifa.de^
+||antifa.info^
+||antifademo.tk^
+||antifainfoblatt.de^
+||antihate.ca^
+||antikapitalistische-linke.de^
+||antira-kompass.info^
+||antira.info^
+||antispe.org^
+||antville.org^
+||apabiz.de^
+||appc.welt.de^
+||arbeit-zukunft.de^
+||arbeiterfotografie.com^
+||arbeitermacht.de^
+||arbeiterpolitik.de^
+||archivtiger.de^
+||arcor.de^
+||ardmediathek.de^
+||arendt-art.de^
+||artcollector-magazin.de^
+||arte.tv^
+||artinvestor.de^
+||as-konzerneinkauf.de^
+||asv-ag.com^
+||asv.de^
+||asventure.com^
+||asylumineurope.org^
+||attac.de^
+||attenzione.kulturhaus-pirna.de^
+||audioscript.net^
+||audiovideofotobild.de^
+||aufbau.org^
+||aufeminin.com^
+||aufstehen-gegen-rassismus.de^
+||auslaenderrat.de^
+||auto-bild.ro^
+||auto-swiat.pl^
+||auto-wirtschaft.ch^
+||auto.cz^
+||autobild.com.mx^
+||autobild.de^
+||autobild.es^
+||autobild.fi^
+||autobild.ge^
+||autobild.gr^
+||autobild.hu^
+||autobild.in^
+||autobild.lt^
+||autobild.si^
+||autobild.tv^
+||autobild.ua^
+||autobildallrad.de^
+||autobildindonesia.com^
+||autoexpress.co.uk^
+||autohaus24.de^
+||autojournal.fr^
+||autoleht.ee^
+||autonom.biz^
+||autoplus.fr^
+||autoshow.com.tr^
+||autotip.auto.cz^
+||autoundwirtschaft.at^
+||autoweek.nl^
+||avfbild.de^
+||awc-eg.de^
+||axel-springer-ag.com^
+||axel-springer-akademie.de^
+||axel-springer-verlag.com^
+||axel-springer.com^
+||axel-springer.de^
+||axelspringer-ag.com^
+||axelspringer-syndication.de^
+||axelspringer.de^
+||axelspringer.fr^
+||axelspringer.hu^
+||axelspringer.pl^
+||axelspringerag.com^
+||az.com.na^
+||azconni.de^
+||azet.sk^
+||badische-zeitung.de^
+||badisches-tagblatt.de^
+||bak-shalom.de^
+||bams.de^
+||bantrybay.de^
+||basta-bs.ch^
+||bauermedia.com^
+||bbc.com^
+||bbv-mediengruppe.de^
+||bbv-net.de^
+||beate-klarsfeld.de^
+||belgieninfo.net^
+||bellingcat.com^
+||belltower.news^
+||belvilla.com^
+||bento.de/^
+||bento.de^
+||beobachter.ch^
+||beobachtertv.ch^
+||berliner-morgenpost.de^
+||berliner-zeitung.de^
+||besserewelt.info^
+||bestcheck.de^
+||bewegung.in^
+||bewegungsmelder.org^
+||beyondeurope.net^
+||bigleaguepolitics.com^
+||bilanz-magazin.de^
+||bild.de^
+||bildblog.de^
+||bildet-laeden.de^
+||black-mosquito.org^
+||blackblogs.org^
+||blacklivesmatter.com^
+||bleiberechtsbuero.de^
+||blic.rs^
+||blikk.hu^
+||blocktogether.org^
+||blog-der-republik.de^
+||blog.zeit.de^
+||blogbar.de^
+||blogsome.com^
+||blogsport.de^
+||bmsfr.de^
+||bo.de^
+||boeckler.de^
+||boncourage.de^
+||bonial.com^
+||borderline-europe.de^
+||bpb.de^
+||br.de^
+||brasilienmagazin.net^
+||braunschweiger-zeitung.de^
+||brigitte.de^
+||buchkomplizen.de^
+||buecher.de^
+||burda-forward.de^
+||burda.com^
+||burks.de^
+||butterland.org^
+||buzzfeed.com^
+||buzzfeednews.com^
+||bz-berlin.de^
+||bz.de^
+||campact.de^
+||carava.net^
+||carwale.com^
+||casamundo.com^
+||ccc.de^
+||cdu.de^
+||chathamhouse.org^
+||chip.de^
+||chronikle.org^
+||cicero.de^
+||city-journal.org^
+||clara-zetkin-frauenpreis.de^
+||codepink.org^
+||colorofchange.org^
+||come-on.de^
+||communityrack.org^
+||computerbild.de^
+||computerbildspiele.de^
+||computeruniverse.net^
+||conne-island.de^
+||copyriot.com^
+||copyriot.net^
+||copyriot.org^
+||correctiv.org^
+||cosmic-law.com^
+||csu.de^
+||curved.de^
+||cybersicherheitsrat.de^
+||dailydot.com^
+||das-muss-drin-sein.de^
+||das-parlament.de^
+||dasmussdrinsein.de^
+||deliberationdaily.de^
+||demvolkedienen.org^
+||der-audio-verlag.de^
+||der-postillon.com^
+||der-rechte-rand.de^
+||derfunke.de^
+||derwesten.de^
+||destatis.de^
+||deutsch.radio.cz^
+||deutsche-mittelstands-nachrichten.de^
+||deutschland-lagerland.de^
+||deutschlandfunk.de^
+||die-ergos.de^
+||die-glocke.de^
+||die-linke-im-bundestag.de^
+||die-linke-kommunal.de^
+||die-linke-spen.de^
+||die-linke-spende.de^
+||die-linke-spenden.de^
+||die-linke.bayern^
+||die-linke.de^
+||die-linke.email^
+||die-linke.eu^
+||die-linke.info^
+||die-linke.name^
+||die-linke.net^
+||die-tagespost.de^
+||dielinke-kommunal.de^
+||dielinke.berlin^
+||dielinke.church^
+||dielinke.eu^
+||dielinke.party^
+||dielunte.de^
+||dienstraum.com^
+||diepresse.com^
+||diewelt.de^
+||digitale-linke.de^
+||digitallinks.de^
+||diraction-merch.org^
+||diraction.com^
+||diraction.de^
+||diraction.es^
+||diraction.global^
+||diraction.it^
+||diraction.net^
+||diraction.nl^
+||diraction.nu^
+||diraction.org^
+||diraction.ru^
+||diractionbus.world^
+||diractions.com^
+||diractionscapital.com^
+||direkteaktion.org^
+||diskus.copyriot.com^
+||diss-duisburg.de^
+||distractify.com^
+||diva.copyriot.com^
+||dkp.de^
+||dresden-nazifrei.com^
+||dresden-postkolonial.de^
+||dudweiler-blog.de^
+||dw.com^
+||dzienniksport.pl^
+||echo-online.de^
+||econlib.org^
+||edition.cnn.com^
+||eigenleben.copyriot.com^
+||ein-herz-fuer-kinder.com^
+||ein-herz-fuer-kinder.de^
+||einfach-kochen.de^
+||eingeschlossen-ausgeschlossen.de^
+||ejpress.org^
+||eldiario.net^
+||eldinamo.cl^
+||elespectador.com^
+||endstation-rechts.de^
+||enlacezapatista.ezln.org.mx^
+||esershop24.de^
+||esslinger-zeitung.de^
+||europa-nur-solidarisch.de^
+||europaeische-linke.de^
+||europaeische-linke.eu^
+||europaeische-linke.org^
+||european-left.org^
+||europeanvoice.com^
+||exit-deutschland.de^
+||express.de^
+||extra-hamburg.com^
+||fakt.pl^
+||falkvinge.net^
+||fateback.com^
+||fau.org^
+||faz.media^
+||fdik.org^
+||fdj.de^
+||feindbeguenstigung.de^
+||fem.com^
+||ffh.de^
+||ffm-online.org^
+||ffn.de^
+||filmpool-entertainment.de^
+||finanz.ru^
+||finanzen.ch^
+||finanzen.net^
+||fluechtlingsrat-bayern.de^
+||fluechtlingsrat-berlin.de^
+||forbes.pl^
+||forbes.ru^
+||forumromanum.de^
+||fr.de^
+||free.de^
+||freemensworld.de^
+||freepress.net^
+||freiheit-durch-sozialismus.de^
+||freitag.de^
+||friedenspartei.de^
+||frikoberlin.de^
+||frontexplode.eu^
+||fu-berlin.de^
+||fueralle.org^
+||funk.net^
+||fussball-gegen-nazis.de^
+||ganske.de^
+||gegen-kapital-und-nation.org^
+||gegenabschiebehaft.de^
+||gegenantiromaismus.org^
+||gegendiestroemung.net^
+||gegenstandpunkt.com^
+||geo.ru^
+||geolenok.ru^
+||gerede-dresden.de^
+||german-foreign-policy.com^
+||gesund.bund.de^
+||gewerkschafter-waehlen-links.de^
+||gewerkschafterinnen-waehlen-links.de^
+||ghettokids.org^
+||gizmodo.com^
+||glamouronline.hu^
+||glokal.org^
+||gofeminin.de^
+||gothamist.com^
+||gottunddiewelt.net^
+||graeberfeld.copyriot.com^
+||granma.cu^
+||graswurzel.tv^
+||griechenland.net^
+||gruenderszene.de^
+||gruene-bundestag.de^
+||gruene.de^
+||gruppe-polar.org^
+||guj.de^
+||guter-rat-abo.de^
+||guter-rat.de^
+||guterrat.de^
+||gutmenschen.party^
+||h-wie-hering.de^
+||haaretz.com^
+||hagalil.com^
+||hamburg-extra.com^
+||hamburg.de^
+||hamburgextra.com^
+||hamburgsuche.com^
+||handelszeitung.ch^
+||hanfmuseum.de^
+||hanfparade.de^
+||harenberg.de^
+||hartziv-muss-weg.de^
+||haz.de^
+||heidelberg24.de^
+||heise.de^
+||helle-panke.de^
+||hellwegeranzeiger.de^
+||help.copyriot.com^
+||hias.org^
+||hier-ist-die-linke.de^
+||hier-und-in-europa.de^
+||hieristdielinke.de^
+||hierundineuropa.de^
+||horizont.net^
+||hpage.com^
+||hubber.me^
+||huffpost.com^
+||hyperevolution.org^
+||ida-dresden.de^
+||idash.org^
+||idealo.de^
+||idowa.de^
+||ifo.de^
+||ikiosk.de^
+||immergruen-medien.de^
+||immonet.de^
+||immowelt.de^
+||impact-records.de^
+||independent.co.uk^
+||indybay.org^
+||indymedia.org^
+||infopartisan.net^
+||inforiot.de^
+||infosperber.ch^
+||infranken.de^
+||inprekorr.de^
+||input-aktuell.de^
+||internationale-rosa-luxemburg-gesellschaft.de^
+||internationalmediasales.net^
+||interventionistische-linke.org^
+||invid-project.eu^
+||isdonline.de^
+||isw-muenchen.de^
+||itsallpolitics.com^
+||itservice-herzog.de^
+||iutv.de^
+||ivi.copyriot.com^
+||iz-dresden.org^
+||jacobinmag.com^
+||jewishcurrents.org^
+||jfda.de^
+||jns.org^
+||jobsite.co.uk^
+||jogspace.net^
+||journal.lu^
+||jpost.com^
+||jugendhaus-rosswein.de^
+||jungefreiheit.de^
+||jungewelt.de^
+||jungle.world^
+||jw.org^
+||jwatch.org^
+||jwz.org^
+||karl-liebknecht-haus.de^
+||karl-liebknecht.de^
+||kaufda.de^
+||kaz-online.de^
+||kbh-mauerplatz.de^
+||keine-stimme-den-nazis.org^
+||kfsr.info^
+||kiezschreiber.blogspot.com^
+||kinderbauernhofberlin.de^
+||kirchenasyl.de^
+||klassegegenklasse.org^
+||kn-online.de^
+||komputerswiat.pl^
+||konkret-magazin.de^
+||kontext-tv.de^
+||kosmotique.org^
+||kossawa.de^
+||kotaku.com^
+||kreiszeitung.de^
+||kreta-dresden.org^
+||kreta-film.net^
+||kreuzberg-info.de^
+||kritische-koepfe-waehlen-links.de^
+||kts-freiburg.org^
+||kulturbuero-sachsen.de^
+||kulturelle-linke.de^
+||kulturkritik.net^
+||kurier.de^
+||labandavaga.org^
+||labanquesuisse.ch^
+||labournet.de^
+||lacentrale.fr^
+||ladenzeile.de^
+||ladyfest-ffm.copyriot.com^
+||landeszeitung.de^
+||lateinamerika-nachrichten.de^
+||laubegast-ist-bunt.de^
+||lefigaro.fr^
+||left-stickers.com^
+||leipzigerinnen.de^
+||lemonde.fr^
+||lhr-law.de^
+||libelle-leipzig.de^
+||lifehacker.com^
+||ligatus.be^
+||ligatus.de^
+||ligatus.fr^
+||link.springer.com^
+||linke-buecher.de^
+||linke-t-shirts.de^
+||linke-verkehrswende.de^
+||linke-woche-der-zukunft.de^
+||linkeseite.de^
+||linkewochederzukunft.de^
+||linkezeitung.de^
+||links-aktiv.de^
+||linksaktiv.de^
+||linksfraktion-baden-wrttemberg-pfd.de^
+||linksfraktion-baden-wuerttemberg.de^
+||linksfraktion-bayern.de^
+||linksfraktion.de^
+||linksfraktionbayern.de^
+||linksjugend-sachsen.de^
+||linksjugend-solid.de^
+||linkspartei.de^
+||linkswende.org^
+||litlounge.tv^
+||livestrong.com^
+||ln-online.de^
+||lohmuehle-berlin.de^
+||lonny.com^
+||lostineu.eu^
+||lotta-magazin.de^
+||lowerclassmag.com^
+||lr-online.de^
+||lsa-rechtsaussen.net^
+||lukacs-gesellschaft.de^
+||lvz.de^
+||lwdz.de^
+||mads.de^
+||maenner.media^
+||main-echo.de^
+||mainpost.de^
+||makronom.de^
+||mallorcazeitung.es^
+||manager-magazin.de^
+||manifest-verlag.de^
+||manifeste-euroafricain.org^
+||mao-projekt.de^
+||marbacher-zeitung.de^
+||marginalrevolution.com^
+||marx-forum.de^
+||marx21.de^
+||marxists.de^
+||marxists.org^
+||maz-online.de^
+||mazandmore.de^
+||mdr.de^
+||media-impact.net^
+||media-impact.org^
+||mediapart.fr^
+||mediapilot.de^
+||mediawiki.org^
+||medinetz-dresden.org^
+||meinestadt.de^
+||meinprospekt.de^
+||merkur.de^
+||meta.copyriot.com^
+||metal-hammer.de^
+||mez-berlin.de^
+||mhi.com.hk^
+||mhichina.com^
+||miete-bezahlbar.de^
+||migranten-waehlen-links.de^
+||migrantinnen-waehlen-links.de^
+||migreurop.org^
+||minuskel.de^
+||mirror.co.uk^
+||mittelbayerische.de^
+||mlpd.de^
+||mobaction.de^
+||monde-diplomatique.de^
+||monputeaux.com^
+||mopo.de^
+||morgenpost.de^
+||morgenweb.de^
+||motherjones.com^
+||motorsport-total.com^
+||moz.de^
+||ms-versenken.org^
+||munzinger.de^
+||musik-sammler.de^
+||musikexpress.de^
+||myblog.de^
+||mylittleparis.fr^
+||mz-web.de^
+||n-tv.de^
+||n24.at^
+||n24.de^
+||naacp.org^
+||nadir.org^
+||nakedcapitalism.com^
+||nazis-raus-aus-dem-internet.de^
+||nbcnews.com^
+||ndr.de^
+||nemesis.marxists.org^
+||net-news-global.net^
+||netmoms.de^
+||netz-antifa.com^
+||netz-antifa.org^
+||netzpolitik.org^
+||netzwerk-360-grad.org^
+||netzwerk-naunhof.org^
+||netzwerk-selbsthilfe.de^
+||neue-einheit.com^
+||neuegegenwart.de^
+||neuepresse.de^
+||neues-deutschland.de^
+||neuewut.de^
+||neulandrebellen.de^
+||neusprech.org^
+||news.com.au^
+||news.de^
+||newsstand.de^
+||newsweek.pl^
+||newyorck.net^
+||newyorker.com^
+||ngo-online.de^
+||niederrheinzeitung.de^
+||nin.co.rs^
+||noblogs.org^
+||noborder.org^
+||non.copyriot.com^
+||nordbayern.de^
+||nordkurier.de^
+||nos.nl^
+||nostate.net^
+||notraces.net^
+||noz.de^
+||npr.org^
+||nrc.nl^
+||nrz.de^
+||ntz.de^
+||nw.de^
+||nwzonline.de^
+||nytimes.com^
+||nzz.ch^
+||obermain.de^
+||occupyberlin.de^
+||oekotest.de^
+||offen-siv.net^
+||ohost.de^
+||ok-magazine.ru^
+||olygraph.info^
+||onesolutionrevolution.de^
+||onet.pl^
+||onmeda.de^
+||openpetition.de^
+||opor-streetwar.com^
+||ostsee-zeitung.de^
+||ox-fanzine.de^
+||oz-online.de^
+||ozy.com^
+||pacificpundit.com^
+||panafrikanismusforum.net^
+||parsimony.net^
+||parstoday.com^
+||partei-die-linke.de^
+||parteiderarbeit.at^
+||partyguide.ch^
+||pda.ch^
+||pds-online.de^
+||pedestrian.tv^
+||pedestriangroup.com.au^
+||people.com^
+||perlentaucher.de^
+||perspektive-online.net^
+||perutz.copyriot.com^
+||petra.de^
+||peykeiran.com^
+||pflegenotstand-stoppen.de^
+||pflegenotstandstoppen.de^
+||pinkkoshernostra.org^
+||pinkstinks.de^
+||piqd.de^
+||planet-melmac.de^
+||playpc.pl^
+||plus.tagesspiegel.de^
+||pme.ch^
+||pnn.de^
+||polen-heute.de^
+||polidia.de^
+||politico.com^
+||politico.eu^
+||politifact.com^
+||polygon.com^
+||polygraph.info^
+||potemkin-zeitschrift.de^
+||prager-fruehling-magazin.de^
+||prenzlauerberg-nachrichten.de^
+||presse-report.de^
+||pressenza.com^
+||prinz.de^
+||prisma.de^
+||prismamedia.com^
+||proasyl.de^
+||profession.hu^
+||project-youcheck.com^
+||prokla.de^
+||proletarische-plattform.org^
+||prp-hamburg.org^
+||prpchannel.com^
+||psiram.com^
+||public-ip.org^
+||pz-news.de^
+||quarks.de^
+||r-mediabase.eu^
+||raa-berlin.de^
+||raa-sachsen.de^
+||radiohamburg.de^
+||radionrw.de^
+||radioprimaton.de^
+||rand.org^
+||rasdonovan.com^
+||ratiomatrix.net^
+||raw.at^
+||rebellmarkt.blogger.de^
+||recherche-nord.com^
+||recherchenblog.ch^
+||rechtaufstadt.net^
+||rechtesland.de^
+||red-skins.de^
+||redglobe.de^
+||redside.tk^
+||refinery29.com^
+||refusefascism.org^
+||reichtum-und-religion.de^
+||reportagen.de^
+||revista-online.info^
+||revolutionaere-aktion.org^
+||rf-news.de^
+||rga.de^
+||rhein-mainer.de^
+||rhein-zeitung.d^
+||rhein-zeitung.de^
+||rheinneckarblog.de^
+||rheinpfalz.de^
+||rhiz.wien^
+||rightlivelihoodaward.org^
+||riolyrics.de^
+||riseup.net^
+||rki.de^
+||rnz.de^
+||roarmag.org^
+||rockefellerfoundation.org^
+||rollingstone.de^
+||roma-center.de^
+||romea.cz^
+||rosa-luxemburg-saal.de^
+||rosalux.de^
+||rot-blau.com^
+||rotdorn.org^
+||rote-hilfe.de^
+||rote-ruhr-uni.com^
+||rotenburger-rundschau.de^
+||roter-aufbau.de^
+||roter-shop.de^
+||roter-stern-leipzig.de^
+||rotermorgen.eu^
+||rotershop.de^
+||rotfuchs.net^
+||rp-online.de^
+||rrreiche.de^
+||rs2.de^
+||rtl.de^
+||ruhrbarone.de^
+||rundschau-online.de^
+||sachsenpublizistik.de^
+||saechsische.de^
+||saechsischer-fluechtlingsrat.de^
+||salonkolumnisten.com^
+||salzsau-panorama.de^
+||sanoma.com^
+||saz-aktuell.com^
+||scharf-links.de^
+||schattenblick.de^
+||scheune.org^
+||schmok.blogsport.eu^
+||schwaebische.de^
+||schweizerbank.ch^
+||schweizerversicherung.ch^
+||seapoint.de^
+||secarts.org^
+||seebruecke-hamburg.de^
+||seloger.com^
+||senselab.org^
+||shz.de^
+||siegener-zeitung.de^
+||siegessaeule.de^
+||sinistra-europea.eu^
+||sinistra.copyriot.com^
+||skepticalscience.com^
+||slate.com^
+||slp.at^
+||smartdroid.de^
+||snopes.com^
+||solidaritaet.info^
+||solistv.de^
+||sonnenstaatland.com^
+||sopos.org^
+||sormas-oegd.de^
+||soziale-opposition.de^
+||sozialismus.de^
+||sozialismus.net^
+||sozialisten.de^
+||sozialistinnen.de^
+||sozialistische-klassiker.org^
+||spacequadrat.de^
+||spex.de^
+||spiegel.de^
+||spiegelgruppe.de^
+||spiritlegal.com^
+||spohr-publishers.de^
+||sportauto.fr^
+||sportbild.de^
+||sports.pl^
+||spreeblick.com^
+||spunk.org^
+||squat.net^
+||srf.ch^
+||stadtanzeiger-ortenau.de^
+||steinhaus-bautzen.de^
+||stepstone.de^
+||stern.de^
+||stiftung-bridge.de^
+||stiftung-do.org^
+||stimme.de^
+||stormfront.de^
+||strassenfeger.org^
+||studentenwerk-dresden.de^
+||students.at^
+||students.ch^
+||students.de^
+||studieren-ohne-grenzen.org^
+||studio100.de^
+||stura.tu-dresden.de^
+||stuttgarter-nachrichten.de^
+||stuttgarter-zeitung.de^
+||stylebistro.com^
+||stylebook.de^
+||sueddeutsche.de^
+||suedkurier.de^
+||sunrisesystem.pl^
+||super-illu.de^
+||supergiro.de^
+||swp-berlin.org^
+||swp.de^
+||swp.org.uk^
+||syndikat.copyriot.com^
+||systemausfall.org^
+||systemli.org^
+||t-online.de^
+||tacheles-sozialhilfe.de^
+||tag24.de^
+||tagebuch.at^
+||tagesanzeiger.ch^
+||tagespost-speyer.de^
+||tagesschau.de^
+||tagesspiegel.de^
+||taz.de^
+||teckbote.de^
+||tele.ch^
+||territory.de^
+||textlog.de^
+||theblackpanthers.com^
+||thecaravan.org^
+||thedigitalfwd.com^
+||thefeministwire.com^
+||theguardian.com^
+||theintercept.com^
+||thejc.com^
+||themarysue.com^
+||themediaco.com.au^
+||theverge.com^
+||thevoiceforum.org^
+||timesofisrael.com^
+||tip-berlin.de^
+||tolerantes-sachsen.de^
+||tommyhaus.org^
+||top-berlin.net^
+||totaljobs.com^
+||towerproductions.de^
+||transfermarkt.de^
+||transfermarkt.tv^
+||travelbook.de^
+||treibhaus-doebeln.de^
+||triller-online.de^
+||true-rebel-store.com^
+||tt.com^
+||ttip-stoppen.de^
+||tuuwi.de^
+||tvinfo.de^
+||tvrhet.hu^
+||tvstar.ch^
+||twoday.net^
+||tyt.com^
+||uli-ludwig.de^
+||umbruch-bildarchiv.de^
+||umsganze.org^
+||umverteilen.de^
+||umzugsauktion.de^
+||unherd.com^
+||uni-hamburg.de^
+||unsere-zeit.de^
+||untergrund-blttle-2qb.ch^
+||unwritten-future.org^
+||unz.de^
+||urban-classics.net^
+||us-onlineshop.com^
+||useless-streetwear.de^
+||usgang.ch^
+||veganladen.de^
+||verband-brg.de^
+||verfassungsschutz.de^
+||verstaatlichen.jetzt^
+||vienna.at^
+||volksstimme.de^
+||volksverpetzer.de^
+||vox.com^
+||vox.de^
+||voxmedia.com^
+||vsa-verlag.de^
+||vvn-bda.de^
+||vwd.com^
+||w2eu.info^
+||wagenburg.org^
+||wams.de^
+||warnung-der-bevoelkerung.de^
+||wartenaufheimat.de^
+||watchthemed.net^
+||waz.de^
+||wdr.de^
+||weather.com^
+||welt-am-sonntag.de^
+||welt.de^
+||welt.net^
+||weltbesten.de^
+||weltn24.de^
+||weltonline.de^
+||weser-kurier.de^
+||westendverlag.de^
+||weverify.eu^
+||wildcat-de^
+||willkommen-im-hochland.de^
+||willkommen-in-loebtau.de^
+||wir-falken.de^
+||wir-waehlen-links.de^
+||wirfrauen.de^
+||wirwaehlenlinks.de^
+||wissenschaft-im-dialog.de^
+||wiwo.de^
+||wkb.blogsport.de^
+||wn.de^
+||wn24.at^
+||wobblies.org^
+||women-in-exile.net^
+||wsws.org^
+||wunderweib.de^
+||wz.de^
+||x-berg.de^
+||xn--linksfraktion-baden-wrttemberg-pfd.de^
+||xn--untergrund-blttle-2qb.ch^
+||yad2.co.il^
+||yoc.de^
+||zak.de^
+||zambon.net^
+||zanox.de^
+||zdf.de^
+||zeit.de^
+||zimbio.com^
+||zitty.de^
+||zmarta.se^
+||zona-antifascista.org^
+||zufallsshirt.de^
+||zusammenleben-willkommen.de^
+||zvw.de^
+||zweitehand.de^
