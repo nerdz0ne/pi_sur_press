@@ -1,5 +1,6 @@
 #update to abp format
 ||1rx.io^
+||metapedia.org^
 ||2cnt.net^
 ||3lift.com^
 ||5rocks.io^
