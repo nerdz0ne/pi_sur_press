@@ -1,5 +1,6 @@
 #osint
 ||180grad.org^
+||journalism.co.uk^
 ||CounterPunch.org^
 ||abcnews.go.com^
 ||actionnetwork.org^
