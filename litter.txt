@@ -2,8 +2,7 @@
 ||0x0a.li^
 ||techtotherescue.org^
 ||spectreofcommunism.boo^
-||un.org
-||block new^
+||un.org^
 ||fullfact.org^
 ||gigafact.org^
 ||fee.org^
