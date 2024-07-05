@@ -1,6 +1,15 @@
 # hello what are you looking at ?
 ||radioeins.de^
 ||change.org^
+||flashscore.de^
+||liveticker.com^
+||fussball.de^
+||livescore.in^
+||android-user.de^
+||sport.de^
+||sofascore.com^
+||flashscore.de^
+||sport.de^
 ||sciencefocus.com^
 ||anticapitalist.party^
 ||0x0a.li^
