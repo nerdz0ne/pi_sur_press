@@ -95,3 +95,7 @@
 ||infiniteammo.ca^
 ||gammaspace.ca^
 ||cozycometgames.ca^
+||ign.com^
+||direct2drive.com^
+||gamestats.com^
+||ZIFFDAVIS.COM^
