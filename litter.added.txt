@@ -1,182 +1,112 @@
-0.0.0.0 wr.de
-0.0.0.0 www.wr.de
-0.0.0.0 tz.de
-0.0.0.0 www.tz.de
-0.0.0.0 www.11freunde.de
-0.0.0.0 www.aljazeera.com
-0.0.0.0 www.amateur-fussball-hamburg.de
-0.0.0.0 www.bautzenerbote.de
-0.0.0.0 www.bazonline.ch
-0.0.0.0 www.berchtesgadener-anzeiger.de
-0.0.0.0 www.bergkamen-infoblog.de
-0.0.0.0 www.berliner-kurier.de
-0.0.0.0 www.berlinergazette.de
-0.0.0.0 www.capital.de
-0.0.0.0 www.derbrienzer.ch
-0.0.0.0 www.derstandard.de
-0.0.0.0 www.derwesten.de
-0.0.0.0 www.deutsche-wirtschafts-nachrichten.de
-0.0.0.0 www.duesseldorf-blog.de
-0.0.0.0 www.dzonline.de
-0.0.0.0 www.erliner-woche.de
-0.0.0.0 www.faz.net
-0.0.0.0 www.fnp.de
-0.0.0.0 www.focus.de
-0.0.0.0 www.ga.de
-0.0.0.0 www.gq-magazin.de
-0.0.0.0 www.guten-tach.de
-0.0.0.0 www.gutjahr.biz
-0.0.0.0 www.heldenstadt.de
-0.0.0.0 www.hessenschau.de
-0.0.0.0 www.hna.de
-0.0.0.0 www.igb.info
-0.0.0.0 www.indiskretionehrensache.de
-0.0.0.0 www.ka-news.de
-0.0.0.0 www.kicker.de
-0.0.0.0 www.kurier.at
-0.0.0.0 www.l-iz.de
-0.0.0.0 www.leverkusen.com
-0.0.0.0 www.lto.de
-0.0.0.0 www.makellosmag.de
-0.0.0.0 www.mediasteak.com
-0.0.0.0 www.mediummagazin.de
-0.0.0.0 www.meedia.de
-0.0.0.0 www.moabitonline.de
-0.0.0.0 www.motorsport-magazin.com
-0.0.0.0 www.muenchen.tv
-0.0.0.0 www.muenster-journal.de
-0.0.0.0 www.mv-online.de
-0.0.0.0 www.n-land.de
-0.0.0.0 www.nordstadtblogger.de
-0.0.0.0 www.oberberg-aktuell.de
-0.0.0.0 www.op-online.de
-0.0.0.0 www.osthessen-zeitung.de
-0.0.0.0 www.rnd.de
-0.0.0.0 www.rostock-heute.de
-0.0.0.0 www.ruhrnachrichten.de
-0.0.0.0 www.rundblick-unna.de
-0.0.0.0 www.sauerlandkurier.de
-0.0.0.0 www.schwarzwaelder-bote.de
-0.0.0.0 www.sn.at
-0.0.0.0 www.soester-anzeiger.de
-0.0.0.0 www.solinger-tageblatt.de
-0.0.0.0 www.sonntag-sachsen.de
-0.0.0.0 www.spielverlagerung.de
-0.0.0.0 www.sport1.de
-0.0.0.0 www.sportschau.de
-0.0.0.0 www.spox.com
-0.0.0.0 www.srgd.ch
-0.0.0.0 www.szlz.de
-0.0.0.0 www.taeglich.me
-0.0.0.0 www.theeuropean.de
-0.0.0.0 www.titanic-magazin.de
-0.0.0.0 www.twentyzen.com
-0.0.0.0 www.volksverpetzer.de
-0.0.0.0 www.wien.orf.at
-0.0.0.0 www.woz.ch
-0.0.0.0 11freunde.de
-0.0.0.0 aljazeera.com
-0.0.0.0 amateur-fussball-hamburg.de
-0.0.0.0 bautzenerbote.de
-0.0.0.0 bazonline.ch
-0.0.0.0 berchtesgadener-anzeiger.de
-0.0.0.0 bergkamen-infoblog.de
-0.0.0.0 berliner-kurier.de
-0.0.0.0 berlinergazette.de
-0.0.0.0 capital.de
-0.0.0.0 derbrienzer.ch
-0.0.0.0 derstandard.de
-0.0.0.0 derwesten.de
-0.0.0.0 deutsche-wirtschafts-nachrichten.de
-0.0.0.0 duesseldorf-blog.de
-0.0.0.0 dzonline.de
-0.0.0.0 erliner-woche.de
-0.0.0.0 faz.net
-0.0.0.0 fnp.de
-0.0.0.0 focus.de
-0.0.0.0 ga.de
-0.0.0.0 gq-magazin.de
-0.0.0.0 guten-tach.de
-0.0.0.0 gutjahr.biz
-0.0.0.0 heldenstadt.de
-0.0.0.0 hessenschau.de
-0.0.0.0 hna.de
-0.0.0.0 igb.info
-0.0.0.0 indiskretionehrensache.de
-0.0.0.0 ka-news.de
-0.0.0.0 kicker.de
-0.0.0.0 kurier.at
-0.0.0.0 l-iz.de
-0.0.0.0 leverkusen.com
-0.0.0.0 lto.de
-0.0.0.0 makellosmag.de
-0.0.0.0 mediasteak.com
-0.0.0.0 mediummagazin.de
-0.0.0.0 meedia.de
-0.0.0.0 moabitonline.de
-0.0.0.0 motorsport-magazin.com
-0.0.0.0 muenchen.tv
-0.0.0.0 muenster-journal.de
-0.0.0.0 mv-online.de
-0.0.0.0 n-land.de
-0.0.0.0 nordstadtblogger.de
-0.0.0.0 oberberg-aktuell.de
-0.0.0.0 op-online.de
-0.0.0.0 osthessen-zeitung.de
-0.0.0.0 rnd.de
-0.0.0.0 rostock-heute.de
-0.0.0.0 ruhrnachrichten.de
-0.0.0.0 rundblick-unna.de
-0.0.0.0 sauerlandkurier.de
-0.0.0.0 schwarzwaelder-bote.de
-0.0.0.0 sn.at
-0.0.0.0 soester-anzeiger.de
-0.0.0.0 solinger-tageblatt.de
-0.0.0.0 sonntag-sachsen.de
-0.0.0.0 spielverlagerung.de
-0.0.0.0 sport1.de
-0.0.0.0 sportschau.de
-0.0.0.0 spox.com
-0.0.0.0 srgd.ch
-0.0.0.0 szlz.de
-0.0.0.0 taeglich.me
-0.0.0.0 theeuropean.de
-0.0.0.0 titanic-magazin.de
-0.0.0.0 twentyzen.com
-0.0.0.0 volksverpetzer.de
-0.0.0.0 wien.orf.at
-0.0.0.0 woz.ch
-0.0.0.0 www.tagesspiegel.de
-0.0.0.0 tagesspiegel.de
-0.0.0.0 www.die-partei.de
-0.0.0.0 die-partei.de
-0.0.0.0 www.fraktionsverein.de
-0.0.0.0 fraktionsverein.de
-0.0.0.0 www.zona.media
-0.0.0.0 zona.media
-0.0.0.0 www.justsecurity.org
-0.0.0.0 www.gnet-research.org
-0.0.0.0 www.europenowjournal.org
-0.0.0.0 www.insider.com
-0.0.0.0 www.9news.com.au
-0.0.0.0 www.dailykos.com
-0.0.0.0 www.unaids.org
-0.0.0.0 www.theatlantic.com
-0.0.0.0 www.democracynow.org
-0.0.0.0 www.alternet.org
-0.0.0.0 www.jacobin.de
-0.0.0.0 www.jacobin.com
-0.0.0.0 www.thenation.com
-0.0.0.0 justsecurity.org
-0.0.0.0 gnet-research.org
-0.0.0.0 europenowjournal.org
-0.0.0.0 insider.com
-0.0.0.0 9news.com.au
-0.0.0.0 dailykos.com
-0.0.0.0 unaids.org
-0.0.0.0 theatlantic.com
-0.0.0.0 democracynow.org
-0.0.0.0 alternet.org
-0.0.0.0 jacobin.de
-0.0.0.0 jacobin.com
-0.0.0.0 thenation.com
+||.pbs.org^
+||11freunde.de^
+||9news.com.au^
+||aljazeera.com^
+||alternet.org^
+||amateur-fussball-hamburg.de^
+||android-user.de
+||bautzenerbote.de^
+||bazonline.ch^
+||berchtesgadener-anzeiger.de^
+||bergkamen-infoblog.de^
+||berliner-kurier.de^
+||berlinergazette.de^
+||cambridge.org^
+||capital.de^
+||dailykos.com^
+||defenddemocracy.press^
+||democracynow.org^
+||derbrienzer.ch^
+||derstandard.de^
+||derwesten.de^
+||deutsche-wirtschafts-nachrichten.de^
+||deutschland.de^
+||die-partei.de^
+||duesseldorf-blog.de^
+||dzonline.de^
+||erliner-woche.de^
+||eurogamer.com^
+||euronews.com^
+||europenowjournal.org^
+||express.co.uk^
+||fairobserver.com^
+||faz.net^
+||flashscore.de^
+||fnp.de^
+||focus.de^
+||forward.com^
+||fraktionsverein.de^
+||fussball.de^
+||ga.de^
+||globaleuronews.com^
+||gnet-research.org^
+||gq-magazin.de^
+||guten-tach.de^
+||gutjahr.biz^
+||heldenstadt.de^
+||hessenschau.de^
+||hna.de^
+||igb.info^
+||indiskretionehrensache.de^
+||insider.com^
+||jacobin.com^
+||jacobin.de^
+||justsecurity.org^
+||ka-news.de^
+||kicker.de^
+||kurier.at^
+||l-iz.de^
+||leverkusen.com^
+||livescore.in^
+||liveticker.com^
+||lto.de^
+||makellosmag.de^
+||mediasteak.com^
+||mediummagazin.de^
+||meedia.de^
+||moabitonline.de^
+||motorsport-magazin.com^
+||muenchen.tv^
+||muenster-journal.de^
+||mv-online.de^
+||mythdetector.ge^
+||n-land.de^
+||nordstadtblogger.de^
+||oberberg-aktuell.de^
+||op-online.de^
+||osthessen-zeitung.de^
+||rferl.org^
+||rnd.de^
+||rostock-heute.de^
+||ruhrnachrichten.de^
+||rundblick-unna.de^
+||sauerlandkurier.de^
+||schwarzwaelder-bote.de^
+||sn.at^
+||soester-anzeiger.de^
+||sofascore.com^
+||solinger-tageblatt.de^
+||sonntag-sachsen.de^
+||spielverlagerung.de^
+||sport.de^
+||sport1.de^
+||sportschau.de^
+||spox.com^
+||srgd.ch^
+||szlz.de^
+||taeglich.me^
+||tagesspiegel.de^
+||theatlantic.com^
+||theeuropean.de^
+||themilitant.com^
+||thenation.com^
+||titanic-magazin.de^
+||trtworld.com^
+||twentyzen.com^
+||tz.de^
+||unaids.org^
+||volksverpetzer.de^
+||wien.orf.at^
+||woz.ch^
+||wr.de^
+||zona.media^
