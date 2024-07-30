@@ -4,7 +4,7 @@
 ||aljazeera.com^
 ||alternet.org^
 ||amateur-fussball-hamburg.de^
-||android-user.de
+||android-user.de^
 ||bautzenerbote.de^
 ||bazonline.ch^
 ||berchtesgadener-anzeiger.de^
