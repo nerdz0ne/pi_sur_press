@@ -1,3 +1,4 @@
+#old regex better solution
 0.0.0.0 www.admin.nadir.org
 0.0.0.0 www.aktuell.nadir.org
 0.0.0.0 www.antifaradio.nadir.org
