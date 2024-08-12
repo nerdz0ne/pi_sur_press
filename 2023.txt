@@ -255,3 +255,12 @@
 ||zag-berlin.de^
 ||zentralkino.de^
 ||zuklampen.de^
+||wfanet.org^
+||who.int^
+||zefr.com^
+||metro.us^
+||pewresearch.org^
+||mediamatters.org^
+||adweek.com^
+||adexchanger.com^
+||meforum.org^
