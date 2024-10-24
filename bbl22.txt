@@ -1930,3 +1930,12 @@
 ||zusammenleben-willkommen.de^
 ||zvw.de^
 ||zweitehand.de^
+||swfs.org^
+||tikkun.org^
+||thejc.com^
+||newsweek.com^
+||brandeis.edu^
+||lubavitch.com^
+||learnreligions.com^
+||jewishvirtuallibrary.org^
+
