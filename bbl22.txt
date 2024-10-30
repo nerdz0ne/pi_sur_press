@@ -1,17 +1,4 @@
-# hello what are you looking at ?
-||radioeins.de^
-||change.org^
-||flashscore.de^
-||liveticker.com^
-||fussball.de^
-||livescore.in^
-||android-user.de^
-||sport.de^
-||sofascore.com^
-||flashscore.de^
-||sport.de^
-||sciencefocus.com^
-||anticapitalist.party^
+# traitor, ahead ?
 ||0x0a.li^
 ||100-prozent-sozial.de^
 ||29rooms.com^
@@ -26,6 +13,7 @@
 ||aachener-zeitung.de^
 ||aargauerzeitung.ch^
 ||ab-inbev.com^
+||abc.es^
 ||abc.es^
 ||abcdd.org^
 ||abcnews.go.com^
@@ -142,6 +130,7 @@
 ||anarchie.de^
 ||anarchopedia.org^
 ||anarkismo.net^
+||android-user.de^
 ||anfdeutsch.com^
 ||angebote-stage.welt.de^
 ||angebote.welt.de^
@@ -151,6 +140,7 @@
 ||antagonistischeassoziation.copyriot.com^
 ||antenne.de^
 ||antenne1.de^
+||anticapitalist.party^
 ||antifa.biz^
 ||antifa.cz^
 ||antifa.de^
@@ -308,6 +298,8 @@
 ||bildblog.de^
 ||bildet-laeden.de^
 ||billboard.com^
+||birthrightisrael.com^
+||birthrightisrael.foundation^
 ||bizjournals.com^
 ||black-mosquito.org^
 ||black-pigeon.org^
@@ -342,6 +334,7 @@
 ||bpb.de^
 ||bqprime.com^
 ||br.de^
+||brandeis.edu^
 ||brasilienmagazin.net^
 ||braunschweiger-zeitung.de^
 ||bridgetowermedia.com^
@@ -371,6 +364,7 @@
 ||bz-berlin.de^
 ||bz.de^
 ||cairnspost.com.au^
+||calcalistech.com^
 ||calgaryherald.com^
 ||cambiocolombia.com^
 ||campact.de^
@@ -392,6 +386,7 @@
 ||chabad.org^
 ||challenge-mag.com^
 ||challenges.fr^
+||change.org^
 ||charentelibre.fr^
 ||charliehebdo.fr^
 ||charlotteobserver.com^
@@ -419,9 +414,11 @@
 ||cntbarcelona.org^
 ||cntraveler.com^
 ||codepink.org^
+||collive.com^
 ||colorofchange.org^
 ||columbian.com^
 ||come-on.de^
+||commentary.org^
 ||commentary.org^
 ||commercialappeal.com^
 ||communityrack.org^
@@ -448,6 +445,7 @@
 ||courant.com^
 ||courier-journal.com^
 ||couriermail.com.au^
+||cpj.org^
 ||crainscleveland.com^
 ||crainsdetroit.com^
 ||crainsnewyork.com^
@@ -684,6 +682,8 @@
 ||fiskeribladet.no^
 ||flair.be^
 ||flair.nl^
+||flashscore.de^
+||flashscore.de^
 ||fluechtlingsrat-bayern.de^
 ||fluechtlingsrat-berlin.de^
 ||flugrevue.de^
@@ -723,6 +723,7 @@
 ||fueralle.org^
 ||funk.net^
 ||fussball-gegen-nazis.de^
+||fussball.de^
 ||ganske.de^
 ||gauchazh.clicrbs.com.br^
 ||gazetadopovo.com.br^
@@ -821,6 +822,7 @@
 ||hintergrund.de^
 ||historyextra.com^
 ||hln.be^
+||homelandsecuritynewswire.com^
 ||horizont.net^
 ||housebeautiful.com^
 ||houstonchronicle.com^
@@ -910,6 +912,7 @@
 ||iutv.de^
 ||ivi.copyriot.com^
 ||iz-dresden.org^
+||jackpoulson.substack.com^
 ||jacksonville.com^
 ||jacobin.com^
 ||jacobin.de^
@@ -918,7 +921,9 @@
 ||japantimes.co.jp^
 ||jazziz.com^
 ||jazzwise.com^
+||jew.ski^
 ||jewishcurrents.org^
+||jewishvirtuallibrary.org^
 ||jfda.de^
 ||jns.org^
 ||jobsite.co.uk^
@@ -1015,6 +1020,7 @@
 ||lavozdigital.es^
 ||law.com^
 ||lc.nl^
+||learnreligions.com^
 ||lecho.be^
 ||lecourrierdesstrateges.fr^
 ||ledevoir.com^
@@ -1077,7 +1083,9 @@
 ||litlounge.tv^
 ||livelaw.in^
 ||livemint.com^
+||livescore.in^
 ||livestrong.com^
+||liveticker.com^
 ||lkz.de^
 ||ln-online.de^
 ||lne.es^
@@ -1093,6 +1101,7 @@
 ||lr-online.de^
 ||lrb.co.uk^
 ||lsa-rechtsaussen.net^
+||lubavitch.com^
 ||lukacs-gesellschaft.de^
 ||luzernerzeitung.ch^
 ||lvz.de^
@@ -1172,6 +1181,7 @@
 ||modernhealthcare.com^
 ||monacomatin.mc^
 ||monde-diplomatique.de^
+||moneycontrol.com^
 ||monocle.com^
 ||monputeaux.com^
 ||mopo.de^
@@ -1238,6 +1248,7 @@
 ||newsstand.de^
 ||newstatesman.com^
 ||newsweek.com^
+||newsweek.com^
 ||newsweek.pl^
 ||newyorck.net^
 ||newyorker.com^
@@ -1276,6 +1287,7 @@
 ||nwitimes.com^
 ||nwtmedia.se^
 ||nwzonline.de^
+||nybooks.com^
 ||nybooks.com^
 ||nydailynews.com^
 ||nymag.com^
@@ -1399,6 +1411,7 @@
 ||prokla.de^
 ||proletarische-plattform.org^
 ||promedia.nl^
+||propublica.org^
 ||prospectmagazine.co.uk^
 ||provokant.net^
 ||prp-hamburg.org^
@@ -1417,6 +1430,7 @@
 ||r-mediabase.eu^
 ||raa-berlin.de^
 ||raa-sachsen.de^
+||radioeins.de^
 ||radiohamburg.de^
 ||radionrw.de^
 ||radioprimaton.de^
@@ -1443,6 +1457,7 @@
 ||reportagen.de^
 ||repubblica.it^
 ||respectberlin.org^
+||restofworld.org^
 ||reuters.com^
 ||revista-online.info^
 ||revistaoeste.com^
@@ -1499,6 +1514,7 @@
 ||runnersworld.com^
 ||sabado.pt^
 ||sacbee.com^
+||sacbee.com^
 ||sachsenpublizistik.de^
 ||saechsische.de^
 ||saechsischer-fluechtlingsrat.de^
@@ -1525,7 +1541,10 @@
 ||science-et-vie.com^
 ||science.org^
 ||sciencebasedmedicine.org^
+||sciencefocus.com^
 ||sciencesetavenir.fr^
+||scientificamerican.com^
+||scientificamerican.com^
 ||scientificamerican.com^
 ||scmp.com^
 ||scotsman.com^
@@ -1541,6 +1560,7 @@
 ||seloger.com^
 ||senselab.org^
 ||sfchronicle.com^
+||sfss.space^
 ||sfvbj.com^
 ||sh-dresden.de^
 ||shz.de^
@@ -1554,6 +1574,7 @@
 ||skepticalscience.com^
 ||skimag.com^
 ||slate.com^
+||slate.com^
 ||slideshare.net^
 ||sloanreview.mit.edu^
 ||slp.at^
@@ -1561,6 +1582,7 @@
 ||smh.com.au^
 ||sn.at^
 ||snopes.com^
+||sofascore.com^
 ||sofrep.com^
 ||solidaritaet.info^
 ||solistv.de^
@@ -1585,6 +1607,8 @@
 ||spiritlegal.com^
 ||splunk.com^
 ||spohr-publishers.de^
+||sport.de^
+||sport.de^
 ||sportauto.fr^
 ||sportbild.de^
 ||sportico.com^
@@ -1648,6 +1672,7 @@
 ||sustainableplastics.com^
 ||svz.de^
 ||swarajyamag.com^
+||swfs.org^
 ||swp-berlin.org^
 ||swp.de^
 ||swp.org.uk^
@@ -1657,6 +1682,7 @@
 ||systemausfall.org^
 ||systemli.org^
 ||t-online.de^
+||tabletmag.com^
 ||tacheles-sozialhilfe.de^
 ||tag24.com^
 ||tag24.de^
@@ -1694,6 +1720,7 @@
 ||theathletic.com^
 ||theatlantic.com^
 ||theaustralian.com.au^
+||theawl.com^
 ||thebaffler.com^
 ||thebanker.com^
 ||theblackpanthers.com^
@@ -1715,6 +1742,8 @@
 ||thehindubusinessline.com^
 ||theimpression.com^
 ||theintercept.com^
+||thejc.com^
+||thejc.com^
 ||thejc.com^
 ||thejuggernaut.com^
 ||thelampmagazine.com^
@@ -1739,6 +1768,7 @@
 ||thespec.com^
 ||thespectator.com^
 ||thestar.com^
+||thestar.com^
 ||thestate.com^
 ||thetimes.co.uk^
 ||theverge.com^
@@ -1747,6 +1777,7 @@
 ||thewest.com.au^
 ||thewrap.com^
 ||tijd.be^
+||tikkun.org^
 ||tikozigalpa.org^
 ||timeshighereducation.com^
 ||timesofindia.indiatimes.com^
@@ -1789,6 +1820,7 @@
 ||twincities.com^
 ||twoday.net^
 ||tyt.com^
+||ua-magazine.com^
 ||uacrisis.org^
 ||uli-ludwig.de^
 ||umbruch-bildarchiv.de^
@@ -1908,6 +1940,7 @@
 ||wz.de^
 ||x-berg.de^
 ||yad2.co.il^
+||yalereview.org^
 ||ynet.co.il^
 ||yoc.de^
 ||yogajournal.com^
@@ -1930,12 +1963,3 @@
 ||zusammenleben-willkommen.de^
 ||zvw.de^
 ||zweitehand.de^
-||swfs.org^
-||tikkun.org^
-||thejc.com^
-||newsweek.com^
-||brandeis.edu^
-||lubavitch.com^
-||learnreligions.com^
-||jewishvirtuallibrary.org^
-
