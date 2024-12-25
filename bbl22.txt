@@ -9,11 +9,11 @@
 ||a-dresden.org^
 ||a-laden.org^
 ||a2s.copyriot.com^
+||aa.com.tr^
 ||aachener-friedenspreis.de^
 ||aachener-zeitung.de^
 ||aargauerzeitung.ch^
 ||ab-inbev.com^
-||abc.es^
 ||abc.es^
 ||abcdd.org^
 ||abcnews.go.com^
@@ -95,6 +95,7 @@
 ||afropa.org^
 ||ag-asylsuchende.de^
 ||ag.kritis.info^
+||agbi.com^
 ||agitart.de^
 ||ainfos.ca^
 ||aipac.org^
@@ -106,6 +107,7 @@
 ||aktionbleiberecht.de^
 ||al-zh.ch^
 ||al.com^
+||alarabiya.net^
 ||alarmphone.org^
 ||alhakam.org^
 ||alhaq.org^
@@ -173,6 +175,7 @@
 ||arendt-art.de^
 ||arizent.com^
 ||armin-laschet.de^
+||armyrecognition.com^
 ||artcollector-magazin.de^
 ||arte.tv^
 ||artforum.com^
@@ -180,6 +183,7 @@
 ||artnet.com^
 ||artsenkrant.com^
 ||as-konzerneinkauf.de^
+||asahi.com^
 ||asia.nikkei.com^
 ||aspentimes.com^
 ||asv-ag.com^
@@ -387,6 +391,7 @@
 ||challenge-mag.com^
 ||challenges.fr^
 ||change.org^
+||channelnewsasia.com^
 ||charentelibre.fr^
 ||charliehebdo.fr^
 ||charlotteobserver.com^
@@ -395,6 +400,7 @@
 ||chicagotribune.com^
 ||chip.de^
 ||chmedia.ch^
+||christianpost.com^
 ||chronicle.com^
 ||chronikle.org^
 ||cicero.de^
@@ -418,7 +424,6 @@
 ||colorofchange.org^
 ||columbian.com^
 ||come-on.de^
-||commentary.org^
 ||commentary.org^
 ||commercialappeal.com^
 ||communityrack.org^
@@ -570,6 +575,7 @@
 ||droemer-knaur.de^
 ||dudweiler-blog.de^
 ||dunyacollective.org^
+||dutchnews.nl^
 ||dvhn.nl^
 ||dw.com^
 ||dwell.com^
@@ -633,6 +639,7 @@
 ||etc.se^
 ||euobserver.com^
 ||euractiv.com^
+||euromaidanpress.com^
 ||europa-nur-solidarisch.de^
 ||europaeische-linke.de^
 ||europaeische-linke.eu^
@@ -683,7 +690,6 @@
 ||flair.be^
 ||flair.nl^
 ||flashscore.de^
-||flashscore.de^
 ||fluechtlingsrat-bayern.de^
 ||fluechtlingsrat-berlin.de^
 ||flugrevue.de^
@@ -703,6 +709,7 @@
 ||forumromanum.de^
 ||foxnews.com^
 ||fr.de^
+||france24.com^
 ||free.de^
 ||freemensworld.de^
 ||freeopenarms.org^
@@ -728,6 +735,7 @@
 ||gauchazh.clicrbs.com.br^
 ||gazetadopovo.com.br^
 ||gazzetta.it^
+||gcaptain.com^
 ||geelongadvertiser.com.au^
 ||gegen-kapital-und-nation.org^
 ||gegenabschiebehaft.de^
@@ -752,6 +760,7 @@
 ||gizmodo.com^
 ||glamouronline.hu^
 ||glassdoor.com^
+||global.espreso.tv^
 ||globes.co.il^
 ||glokal.org^
 ||gnet-research.org^
@@ -761,12 +770,16 @@
 ||goodhousekeeping.com^
 ||gothamist.com^
 ||gottunddiewelt.net^
+||gov.ua^
+||gov.uk^
 ||gq.com^
 ||graeberfeld.copyriot.com^
 ||granma.cu^
 ||granta.com^
 ||graswurzel.tv^
+||greekcitytimes.com^
 ||griechenland.net^
+||grist.org^
 ||groene.nl^
 ||grubstreet.com^
 ||gruenderszene.de^
@@ -823,6 +836,7 @@
 ||historyextra.com^
 ||hln.be^
 ||homelandsecuritynewswire.com^
+||hongkongfp.com^
 ||horizont.net^
 ||housebeautiful.com^
 ||houstonchronicle.com^
@@ -836,6 +850,7 @@
 ||humanite.fr^
 ||humo.be^
 ||hyperevolution.org^
+||i24news.tv^
 ||ida-dresden.de^
 ||idash.org^
 ||ideal.es^
@@ -955,6 +970,7 @@
 ||keine-stimme-den-nazis.org^
 ||kentucky.com^
 ||kfsr.info^
+||kharon.com^
 ||kiezschreiber.blogspot.com^
 ||kinderbauernhofberlin.de^
 ||kirchenasyl.de^
@@ -967,6 +983,7 @@
 ||komputerswiat.pl^
 ||konkret-magazin.de^
 ||kontext-tv.de^
+||koreatimes.co.kr^
 ||kosmotique.org^
 ||kossawa.de^
 ||kotaku.com^
@@ -985,6 +1002,7 @@
 ||kurier.at^
 ||kurier.de^
 ||kw.be^
+||kyivindependent.com^
 ||la-croix.com^
 ||labandavaga.org^
 ||labanquesuisse.ch^
@@ -1164,6 +1182,8 @@
 ||miamiherald.com^
 ||michaelmoore.com^
 ||mid-day.com^
+||middleeasteye.net^
+||middleeastmonitor.com^
 ||midilibre.fr^
 ||miete-bezahlbar.de^
 ||migranten-waehlen-links.de^
@@ -1236,10 +1256,13 @@
 ||neuewut.de^
 ||neulandrebellen.de^
 ||neusprech.org^
+||newarab.com^
 ||newcastleherald.com.au^
 ||newleftreview.org^
 ||newrepublic.com^
+||news-medical.net^
 ||news-press.com^
+||news.az^
 ||news.com.au^
 ||news.de^
 ||newscientist.com^
@@ -1247,7 +1270,7 @@
 ||newsobserver.com^
 ||newsstand.de^
 ||newstatesman.com^
-||newsweek.com^
+||newsukraine.rbc.ua^
 ||newsweek.com^
 ||newsweek.pl^
 ||newyorck.net^
@@ -1261,6 +1284,7 @@
 ||nieuwsblad.be^
 ||nin.co.rs^
 ||nj.com^
+||nltimes.nl^
 ||noblogs.org^
 ||noborder.org^
 ||nola.com^
@@ -1271,6 +1295,7 @@
 ||northjersey.com^
 ||nos.nl^
 ||nostate.net^
+||notesfrompoland.com^
 ||notraces.net^
 ||nouvelobs.com^
 ||novaukraine.org^
@@ -1287,7 +1312,6 @@
 ||nwitimes.com^
 ||nwtmedia.se^
 ||nwzonline.de^
-||nybooks.com^
 ||nybooks.com^
 ||nydailynews.com^
 ||nymag.com^
@@ -1465,6 +1489,7 @@
 ||revolutionaere-aktion.org^
 ||revueconflits.com^
 ||rf-news.de^
+||rfi.fr^
 ||rga.de^
 ||rhein-mainer.de^
 ||rhein-zeitung.de^
@@ -1514,7 +1539,6 @@
 ||runnersworld.com^
 ||sabado.pt^
 ||sacbee.com^
-||sacbee.com^
 ||sachsenpublizistik.de^
 ||saechsische.de^
 ||saechsischer-fluechtlingsrat.de^
@@ -1544,8 +1568,6 @@
 ||sciencefocus.com^
 ||sciencesetavenir.fr^
 ||scientificamerican.com^
-||scientificamerican.com^
-||scientificamerican.com^
 ||scmp.com^
 ||scotsman.com^
 ||scribe.rip^
@@ -1571,9 +1593,9 @@
 ||simona-wehling.de^
 ||sinistra-europea.eu^
 ||sinistra.copyriot.com^
+||skeptic.com^
 ||skepticalscience.com^
 ||skimag.com^
-||slate.com^
 ||slate.com^
 ||slideshare.net^
 ||sloanreview.mit.edu^
@@ -1607,7 +1629,6 @@
 ||spiritlegal.com^
 ||splunk.com^
 ||spohr-publishers.de^
-||sport.de^
 ||sport.de^
 ||sportauto.fr^
 ||sportbild.de^
@@ -1673,6 +1694,7 @@
 ||svz.de^
 ||swarajyamag.com^
 ||swfs.org^
+||swissinfo.ch^
 ||swp-berlin.org^
 ||swp.de^
 ||swp.org.uk^
@@ -1743,8 +1765,6 @@
 ||theimpression.com^
 ||theintercept.com^
 ||thejc.com^
-||thejc.com^
-||thejc.com^
 ||thejuggernaut.com^
 ||thelampmagazine.com^
 ||thelawyersdaily.ca^
@@ -1753,6 +1773,7 @@
 ||themarysue.com^
 ||themediaco.com.au^
 ||themercury.com.au^
+||themoscowtimes.com^
 ||thenation.com^
 ||thenewatlantis.com^
 ||theneweuropean.co.uk^
@@ -1767,7 +1788,6 @@
 ||thesaturdaypaper.com.au^
 ||thespec.com^
 ||thespectator.com^
-||thestar.com^
 ||thestar.com^
 ||thestate.com^
 ||thetimes.co.uk^
@@ -1803,6 +1823,8 @@
 ||treibhaus-doebeln.de^
 ||tri-cityherald.com^
 ||triathlete.com^
+||tribune.com.pk^
+||tribyoon.co.uk^
 ||triller-online.de^
 ||trouw.nl^
 ||true-rebel-store.com^
@@ -1812,9 +1834,11 @@
 ||tucson.com^
 ||tullney.de^
 ||tulsaworld.com^
+||turkiyetoday.com^
 ||tuttosport.com^
 ||tuuwi.de^
 ||tvinfo.de^
+||tvpworld.com^
 ||tvrhet.hu^
 ||tvstar.ch^
 ||twincities.com^
@@ -1822,6 +1846,7 @@
 ||tyt.com^
 ||ua-magazine.com^
 ||uacrisis.org^
+||ukrainianworldcongress.org^
 ||uli-ludwig.de^
 ||umbruch-bildarchiv.de^
 ||umsganze.org^
@@ -1832,11 +1857,14 @@
 ||unherd.com^
 ||uni-hamburg.de^
 ||unido.org^
+||united24media.com^
+||unn.ua^
 ||unsere-zeit.de^
 ||untergrund-blttle-2qb.ch^
 ||unwritten-future.org^
 ||unz.de^
 ||uol.com.br^
+||upi.com^
 ||upstreamonline.com^
 ||ura-dresden.org^
 ||urban-classics.net^
@@ -1845,6 +1873,7 @@
 ||useless-streetwear.de^
 ||usgang.ch^
 ||usinenouvelle.com^
+||ustr.gov^
 ||utech-polyurethane.com^
 ||valeursactuelles.com^
 ||valor.globo.com^
@@ -1863,6 +1892,7 @@
 ||vivantes.de^
 ||vn.at^
 ||vn.nl^
+||voanews.com^
 ||vogue.co.uk^
 ||vogue.com^
 ||voguebusiness.com^
