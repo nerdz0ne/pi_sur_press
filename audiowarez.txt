@@ -97,12 +97,9 @@
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cc-api-data.adobe.io # Adobe
-0.0.0.0 ccleaner.piriform.com
 0.0.0.0 ccleaner.piriform.com # Piriform
-0.0.0.0 cert.bandicam.com
 0.0.0.0 cert.bandicam.com # Bandicam
 0.0.0.0 check4updates.com
-0.0.0.0 cloud.kuvo.com
 0.0.0.0 cloud.kuvo.com # Pioneer
 0.0.0.0 cloudflare.com
 0.0.0.0 cloudghost.net
@@ -168,6 +165,8 @@
 0.0.0.0 ipm.corel.com
 0.0.0.0 iws.corel.com
 0.0.0.0 izotope.com
+0.0.0.0 jam-software.com
+0.0.0.0 jam-software.de
 0.0.0.0 juce.com # Juce
 0.0.0.0 khaelis.com
 0.0.0.0 license-api.ccleaner.com
@@ -184,7 +183,6 @@
 0.0.0.0 licensing2.ultraedit.com
 0.0.0.0 lindellaudio.se
 0.0.0.0 lindellplugins.com
-0.0.0.0 line6.com
 0.0.0.0 line6.com # Line6
 0.0.0.0 links.raxco.com
 0.0.0.0 liveupdate.acronis.com
@@ -273,13 +271,10 @@
 0.0.0.0 sugar-bytes.de
 0.0.0.0 support.image-line.com # Image-Line
 0.0.0.0 support.splice.com
-0.0.0.0 support.vengeance-sound.com
 0.0.0.0 support.vengeance-sound.com # Vengeance
 0.0.0.0 support.xfer.com
 0.0.0.0 support.xferrecords.com
-0.0.0.0 synapse-audio.com
 0.0.0.0 synapse-audio.com    
-0.0.0.0 syntorial.com
 0.0.0.0 syntorial.com # Syntorial
 0.0.0.0 tal-software.com
 0.0.0.0 techsmith.com
@@ -290,9 +285,7 @@
 0.0.0.0 toneboosters.com # ToneBoosters
 0.0.0.0 tonecloud-staging.herokuapp.com 
 0.0.0.0 tonecloud.positivegrid.com
-0.0.0.0 tonecloud.positivegrid.com 
 0.0.0.0 tonecloud.positivegrid.com.cn
-0.0.0.0 tonecloud.positivegrid.com.cn 
 0.0.0.0 track.easeus.com
 0.0.0.0 tsccloud.cloudapp.net
 0.0.0.0 txc.ikmultimedia.com
@@ -315,13 +308,10 @@
 0.0.0.0 virsyn.com
 0.0.0.0 virsyn.de
 0.0.0.0 virtual.gudaaudio.com
-0.0.0.0 virtualaudiostream.com
 0.0.0.0 virtualaudiostream.com # DDMF
-0.0.0.0 virtualaudiostream.com # VirtualAudioStream
 0.0.0.0 vox1b.nuedge.net
 0.0.0.0 vox1b.nuedge.net # Sonic Charge
 0.0.0.0 voxengo.com
-0.0.0.0 vps-avenger.com
 0.0.0.0 vps-avenger.com # Vengeance
 0.0.0.0 waves.com
 0.0.0.0 web-api-tih.acronis.com
@@ -345,9 +335,7 @@
 0.0.0.0 www.Tone2.net 
 0.0.0.0 www.accentize.com
 0.0.0.0 www.accusonus.api-us1.com
-0.0.0.0 www.bandicam.com
 0.0.0.0 www.bandicam.com # Bandicam
-0.0.0.0 www.bandisoft.com
 0.0.0.0 www.bandisoft.com # Bandicam
 0.0.0.0 www.bitsumactivationserver.com
 0.0.0.0 www.bitwig.com
@@ -360,23 +348,17 @@
 0.0.0.0 www.elephantafiles.net # R2R fakers
 0.0.0.0 www.elephantafiles.org
 0.0.0.0 www.elephantafiles.org # R2R fakers
-0.0.0.0 www.fabfilter.com
 0.0.0.0 www.fabfilter.com # FabFilter
 0.0.0.0 www.high-logic.com
 0.0.0.0 www.ikstore.com
 0.0.0.0 www.ikstore.com # IK Multimedia
-0.0.0.0 www.image-line.com
-0.0.0.0 www.image-line.com # Image-Line
-0.0.0.0 www.juce.com
+0.0.0.0 www.image-line.com # Image-Line Scammers
 0.0.0.0 www.juce.com # Juce
-0.0.0.0 www.meldaproduction.com
 0.0.0.0 www.meldaproduction.com # MeldaProduction
 0.0.0.0 www.netlimiter.com
-0.0.0.0 www.overloud.com
 0.0.0.0 www.overloud.com # Overloud
 0.0.0.0 www.pitchinnovations.com
 0.0.0.0 www.pitchinnovations.com # Pitch Innovations
-0.0.0.0 www.quikquak.com
 0.0.0.0 www.quikquak.com # QuikQuak
 0.0.0.0 www.r2rdownload.com
 0.0.0.0 www.r2rdownload.com # R2R fakers
@@ -385,9 +367,7 @@
 0.0.0.0 www.r2rdownload.org
 0.0.0.0 www.r2rdownload.org # R2R fakers
 0.0.0.0 www.raxco.com
-0.0.0.0 www.sononym.net
 0.0.0.0 www.sononym.net # Sononym
-0.0.0.0 www.soundradix.com
 0.0.0.0 www.soundradix.com # SoundRadix
 0.0.0.0 www.splice.com
 0.0.0.0 www.support.splice.com
@@ -413,7 +393,6 @@
 0.0.0.0 www.xferrecords.com # XferRecords
 0.0.0.0 www.xferrecordz.com
 0.0.0.0 www.xferrecordz.com # XferRecords
-0.0.0.0 wyday.com
 0.0.0.0 wyday.com # DJ Swivel
 0.0.0.0 xfer.com
 0.0.0.0 xferrecords.com
