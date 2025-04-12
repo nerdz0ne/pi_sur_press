@@ -1,4 +1,8 @@
-0.0.0.0 303clones.com # AudioRealism
+0.0.0.0 157.56.8.159 
+0.0.0.0 173.231.151.131 
+0.0.0.0 217.160.0.171 
+0.0.0.0 217.160.0.45 
+0.0.0.0 303clones.com 
 0.0.0.0 3dns-1.adobe.com
 0.0.0.0 3dns-2.adobe.com
 0.0.0.0 3dns-2.adobe.de
@@ -9,39 +13,26 @@
 0.0.0.0 64.13.192.110
 0.0.0.0 69.167.144.18
 0.0.0.0 74.86.5.247
-0.0.0.0 89.161.254.97  d16group.pl
+0.0.0.0 89.161.254.97 
+0.0.0.0 89.161.254.97  
 0.0.0.0 Tone2.co.uk
-0.0.0.0 Tone2.co.uk
-0.0.0.0 Tone2.co.uk # Tone2
-0.0.0.0 Tone2.co.uk # Tone2
-0.0.0.0 Tone2.co.uk localhost
+0.0.0.0 Tone2.co.uk 
 0.0.0.0 Tone2.com
-0.0.0.0 Tone2.com
-0.0.0.0 Tone2.com # Tone2
-0.0.0.0 Tone2.com # Tone2
-0.0.0.0 Tone2.com localhost
+0.0.0.0 Tone2.com 
 0.0.0.0 Tone2.net
-0.0.0.0 Tone2.net
-0.0.0.0 Tone2.net # Tone2
-0.0.0.0 Tone2.net # Tone2
-0.0.0.0 Tone2.net localhost
+0.0.0.0 Tone2.net 
 0.0.0.0 abas.hofa.de
 0.0.0.0 ableton.com
-0.0.0.0 ableton.com localhost
+0.0.0.0 ableton.com 
 0.0.0.0 ableton.de
-0.0.0.0 ableton.de localhost
+0.0.0.0 ableton.de 
 0.0.0.0 abyssmedia.com
-0.0.0.0 abyssmedia.com localhost
+0.0.0.0 abyssmedia.com 
 0.0.0.0 accentize.com
 0.0.0.0 account.acronis.com
-0.0.0.0 account.acronis.com # Acronis
-0.0.0.0 account.deltasoundlabs.com
 0.0.0.0 account.deltasoundlabs.com # Delta Sound Labs
-0.0.0.0 account.positivegrid.com
 0.0.0.0 account.positivegrid.com # positivegrid
-0.0.0.0 accounts.us1.gigya.com
 0.0.0.0 accounts.us1.gigya.com # Pioneer
-0.0.0.0 accusonus.api-us1.com
 0.0.0.0 accusonus.api-us1.com
 0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sea.adobe.de
@@ -56,10 +47,8 @@
 0.0.0.0 activate.wip3.adobe.com
 0.0.0.0 activate.wip3.adobe.de
 0.0.0.0 activate.wip4.adobe.com
-0.0.0.0 activation.acronis.com
 0.0.0.0 activation.acronis.com # Acronis
 0.0.0.0 activation.cloud.techsmith.com
-0.0.0.0 activation.cyberlink.com
 0.0.0.0 activation.cyberlink.com # Cyberlink
 0.0.0.0 activation.easeus.com
 0.0.0.0 activation.easeus.com # EaseUS
@@ -76,49 +65,34 @@
 0.0.0.0 api.beatskillz.com
 0.0.0.0 api.output.com
 0.0.0.0 api.output.com # Output
-0.0.0.0 api.positivegrid.com
 0.0.0.0 api.positivegrid.com # positivegrid
-0.0.0.0 api.positivegrid.com.cn
 0.0.0.0 api.positivegrid.com.cn # positivegrid
-0.0.0.0 api.rollbar.com
 0.0.0.0 api.rollbar.com # Output
 0.0.0.0 api.wondershare.com
 0.0.0.0 apidev.odesimusic.com # Mixed In Key
 0.0.0.0 apidev.odesimusic.com # Odesi Music
 0.0.0.0 apowersoft.com
 0.0.0.0 apps.corel.com
-0.0.0.0 arcade-events-api.output.com
 0.0.0.0 arcade-events-api.output.com # Output
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adobedtm.com # Adobe
 0.0.0.0 assets.cloud.techsmith.com
-0.0.0.0 assets.positivegrid.com
 0.0.0.0 assets.positivegrid.com # positivegrid
 0.0.0.0 audiorealism.se
 0.0.0.0 auth.cycling74.com
 0.0.0.0 auth64.cycling74.com
-0.0.0.0 bandicam.com
-0.0.0.0 bandicam.com
 0.0.0.0 bandicam.com # Bandicam
-0.0.0.0 bandicam.com # Bandicam
-0.0.0.0 bandisoft.com
-0.0.0.0 bandisoft.com
-0.0.0.0 bandisoft.com # Bandicam
 0.0.0.0 bandisoft.com # Bandicam
 0.0.0.0 beatskillz-prod.us-west-1.elasticbeanstalk.com
 0.0.0.0 beta.raxco.com
 0.0.0.0 bias1.positivegrid.com
-0.0.0.0 bias1.positivegrid.com # positivegrid
+0.0.0.0 bias1.positivegrid.com 
 0.0.0.0 bitsumactivationserver.com
 0.0.0.0 bitwig.com
-0.0.0.0 bitwig.com
-0.0.0.0 bitwig.com  localhost
-0.0.0.0 bleass.com
 0.0.0.0 bleass.com # BLEASS
 0.0.0.0 bozdigitallabs.com
 0.0.0.0 cableguys.com
 0.0.0.0 camtasiatudi.techsmith.com
-0.0.0.0 cap.cyberlink.com
 0.0.0.0 cap.cyberlink.com # Cyberlink
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cc-api-data.adobe.io
@@ -141,24 +115,18 @@
 0.0.0.0 ddmf.eu # DDMF
 0.0.0.0 dev1.ipm.corel.public.corel.net
 0.0.0.0 djswivel.com
-0.0.0.0 dlcf.positivegrid.com
-0.0.0.0 dlcf.positivegrid.com # positivegrid
+0.0.0.0 dlcf.positivegrid.com 
 0.0.0.0 docs.raxco.com
 0.0.0.0 dotec-audio.com
 0.0.0.0 dotec-audio.sakura.ne.jp
-0.0.0.0 download.acronis.com
 0.0.0.0 download.acronis.com # Acronis
 0.0.0.0 download.wondershare.com
 0.0.0.0 easeus.com
 0.0.0.0 ec2-52-42-114-201.us-west-2.compute.amazonaws.com
 0.0.0.0 ec2-52-70-136-170.compute-1.amazonaws.com
 0.0.0.0 ec2-54-70-136-156.us-west-2.compute.amazonaws.com
-0.0.0.0 elephantafiles.com
-0.0.0.0 elephantafiles.com
 0.0.0.0 elephantafiles.com # R2R fakers
-0.0.0.0 elephantafiles.net
 0.0.0.0 elephantafiles.net # R2R fakers
-0.0.0.0 elephantafiles.org
 0.0.0.0 elephantafiles.org # R2R fakers
 0.0.0.0 entitlements.steinberg.net # Steinberg
 0.0.0.0 ereg.adobe.com
@@ -169,22 +137,18 @@
 0.0.0.0 ereg.wip3.adobe.com
 0.0.0.0 ereg.wip3.adobe.de
 0.0.0.0 ereg.wip4.adobe.com
-0.0.0.0 expatriate.goodhertz.com
 0.0.0.0 expatriate.goodhertz.com # Goodhertz
-0.0.0.0 fabfilter.com
 0.0.0.0 fabfilter.com # FabFilter
-0.0.0.0 focusrite.count.ly
 0.0.0.0 focusrite.count.ly # Focusrite
-0.0.0.0 foodstamps.blacksaltaudio.com
 0.0.0.0 foodstamps.blacksaltaudio.com # Black Salt Audio
 0.0.0.0 foodstamps.yum-audio.com
 0.0.0.0 foodstamps.yum-audio.com # Yum Audio
+0.0.0.0 futurephonic.co.uk
 0.0.0.0 gateway.acronis.com
 0.0.0.0 gateway.acronis.com # Acronis
 0.0.0.0 genuine.adobe.com
 0.0.0.0 genuine.adobe.com # Adobe
 0.0.0.0 goaudio.cc
-0.0.0.0 goodhertz.com
 0.0.0.0 goodhertz.com # Goodhertz
 0.0.0.0 gudaaudio.com
 0.0.0.0 high-logic.com
@@ -204,9 +168,6 @@
 0.0.0.0 ipm.corel.com
 0.0.0.0 iws.corel.com
 0.0.0.0 izotope.com
-0.0.0.0 juce.com
-0.0.0.0 juce.com
-0.0.0.0 juce.com # Juce
 0.0.0.0 juce.com # Juce
 0.0.0.0 khaelis.com
 0.0.0.0 license-api.ccleaner.com
@@ -236,8 +197,6 @@
 0.0.0.0 looper-events-api.herokuapp.com # Output
 0.0.0.0 macplatform.wondershare.com
 0.0.0.0 mc.corel.com
-0.0.0.0 meldaproduction.com
-0.0.0.0 meldaproduction.com
 0.0.0.0 meldaproduction.com # MeldaProduction
 0.0.0.0 my.wondershare.com
 0.0.0.0 na1r.services.adobe.com
@@ -245,13 +204,10 @@
 0.0.0.0 native-instruments.com
 0.0.0.0 native-instruments.de
 0.0.0.0 netlimiter.com
-0.0.0.0 netlimiter.com
 0.0.0.0 ns1.acronis.com # Acronis
 0.0.0.0 ns2.acronis.com # Acronis
 0.0.0.0 ns3.acronis.com # Acronis
 0.0.0.0 nuedge.net
-0.0.0.0 odesimusic.com
-0.0.0.0 odesimusic.com # Mixed In Key
 0.0.0.0 odesimusic.com # Odesi Music
 0.0.0.0 orders.acronis.com
 0.0.0.0 orders.acronis.com # Acronis
@@ -261,19 +217,15 @@
 0.0.0.0 output-looper-json-api.herokuapp.com # Output
 0.0.0.0 output.com
 0.0.0.0 overloud.com
-0.0.0.0 overloud.com
-0.0.0.0 overloud.com # Overloud
 0.0.0.0 overloud.com # Overloud
 0.0.0.0 packs.bitwig.com
-0.0.0.0 pg-api-staging.herokuapp.com # positivegrid
+0.0.0.0 pg-api-staging.herokuapp.com 
 0.0.0.0 pg-tonecloud-webapp.herokuapp.com
-0.0.0.0 pg-tonecloud-webapp.herokuapp.com # positivegrid
-0.0.0.0 pitchinnovations.com
+0.0.0.0 pg-tonecloud-webapp.herokuapp.com 
 0.0.0.0 pitchinnovations.com # Pitch Innovations
 0.0.0.0 platform.wondershare.com
 0.0.0.0 plugin-alliance.com
 0.0.0.0 pluginboutique.com
-0.0.0.0 plugins.futurephonic.co.uk
 0.0.0.0 plugins.futurephonic.co.uk # Futurephonic
 0.0.0.0 polyversemusic.com
 0.0.0.0 polyversemusic.com # Polyverse Music
@@ -289,13 +241,9 @@
 0.0.0.0 pulsarmodular.com
 0.0.0.0 pulsarmodular.com # Pulsar Modular
 0.0.0.0 quikquak.com # QuikQuak
-0.0.0.0 r2rdownload.com
 0.0.0.0 r2rdownload.com # R2R fakers
-0.0.0.0 r2rdownload.net
 0.0.0.0 r2rdownload.net # R2R fakers
-0.0.0.0 r2rdownload.org
 0.0.0.0 r2rdownload.org # R2R fakers
-0.0.0.0 raxco.com
 0.0.0.0 raxco.com
 0.0.0.0 rb-share.kuvo.com # Pioneer
 0.0.0.0 register.waves.com
@@ -315,37 +263,36 @@
 0.0.0.0 soniccharge.com
 0.0.0.0 sononym.net # Sononym
 0.0.0.0 soundradix.com # SoundRadix
+0.0.0.0 splice.com
 0.0.0.0 ssl.bandisoft.com
 0.0.0.0 ssl.bandisoft.com # Bandicam
 0.0.0.0 stagecraft-prod.us-west-1.elasticbeanstalk.com
 0.0.0.0 store.positivegrid.com
-0.0.0.0 store.positivegrid.com # positivegrid
+0.0.0.0 store.positivegrid.com 
 0.0.0.0 store.tokyodawn.net
 0.0.0.0 sugar-bytes.de
-0.0.0.0 support.image-line.com
 0.0.0.0 support.image-line.com # Image-Line
+0.0.0.0 support.splice.com
 0.0.0.0 support.vengeance-sound.com
 0.0.0.0 support.vengeance-sound.com # Vengeance
-0.0.0.0 support.vengeance-sound.com # Vengeance
+0.0.0.0 support.xfer.com
+0.0.0.0 support.xferrecords.com
 0.0.0.0 synapse-audio.com
-0.0.0.0 synapse-audio.com    localhost
+0.0.0.0 synapse-audio.com    
 0.0.0.0 syntorial.com
 0.0.0.0 syntorial.com # Syntorial
 0.0.0.0 tal-software.com
 0.0.0.0 techsmith.com
 0.0.0.0 tokyodawn.net
 0.0.0.0 tone2.co.uk
-0.0.0.0 tone2.co.uk
 0.0.0.0 tone2.com
-0.0.0.0 tone2.com
-0.0.0.0 tone2.net
 0.0.0.0 tone2.net
 0.0.0.0 toneboosters.com # ToneBoosters
-0.0.0.0 tonecloud-staging.herokuapp.com # positivegrid
+0.0.0.0 tonecloud-staging.herokuapp.com 
 0.0.0.0 tonecloud.positivegrid.com
-0.0.0.0 tonecloud.positivegrid.com # positivegrid
+0.0.0.0 tonecloud.positivegrid.com 
 0.0.0.0 tonecloud.positivegrid.com.cn
-0.0.0.0 tonecloud.positivegrid.com.cn # positivegrid
+0.0.0.0 tonecloud.positivegrid.com.cn 
 0.0.0.0 track.easeus.com
 0.0.0.0 tsccloud.cloudapp.net
 0.0.0.0 txc.ikmultimedia.com
@@ -364,7 +311,6 @@
 0.0.0.0 us1.gigya.com # Pioneer
 0.0.0.0 userarea.d16.pl
 0.0.0.0 userarea.d16.pl # D16
-0.0.0.0 vengeance-sound.com
 0.0.0.0 vengeance-sound.com # Vengeance
 0.0.0.0 virsyn.com
 0.0.0.0 virsyn.de
@@ -392,11 +338,11 @@
 0.0.0.0 wwis-dubc1-vip60.adobe.com
 0.0.0.0 wwis-dubc1-vip60.adobe.de
 0.0.0.0 www.Tone2.co.uk
-0.0.0.0 www.Tone2.co.uk # Tone2
+0.0.0.0 www.Tone2.co.uk 
 0.0.0.0 www.Tone2.com
-0.0.0.0 www.Tone2.com # Tone2
+0.0.0.0 www.Tone2.com 
 0.0.0.0 www.Tone2.net
-0.0.0.0 www.Tone2.net # Tone2
+0.0.0.0 www.Tone2.net 
 0.0.0.0 www.accentize.com
 0.0.0.0 www.accusonus.api-us1.com
 0.0.0.0 www.bandicam.com
@@ -443,7 +389,11 @@
 0.0.0.0 www.sononym.net # Sononym
 0.0.0.0 www.soundradix.com
 0.0.0.0 www.soundradix.com # SoundRadix
+0.0.0.0 www.splice.com
+0.0.0.0 www.support.splice.com
 0.0.0.0 www.support.vengeance-sound.com # Vengeance
+0.0.0.0 www.support.xfer.com
+0.0.0.0 www.support.xferrecords.com
 0.0.0.0 www.syntorial.com
 0.0.0.0 www.syntorial.com # Syntorial
 0.0.0.0 www.techsmith.com
@@ -452,25 +402,20 @@
 0.0.0.0 www.tone2.net
 0.0.0.0 www.toneboosters.com
 0.0.0.0 www.toneboosters.com # ToneBoosters
-0.0.0.0 www.u-he.com
 0.0.0.0 www.u-he.com # u-he
-0.0.0.0 www.u-he.de
 0.0.0.0 www.u-he.de # u-he
 0.0.0.0 www.vengeance-sound.com # Vengeance
-0.0.0.0 www.vps-avenger.com
 0.0.0.0 www.vps-avenger.com # Vengeance
 0.0.0.0 www.wyday.com
 0.0.0.0 www.wyday.com # DJ Swivel
+0.0.0.0 www.xfer.com
 0.0.0.0 www.xferrecords.com
 0.0.0.0 www.xferrecords.com # XferRecords
 0.0.0.0 www.xferrecordz.com
 0.0.0.0 www.xferrecordz.com # XferRecords
 0.0.0.0 wyday.com
 0.0.0.0 wyday.com # DJ Swivel
+0.0.0.0 xfer.com
+0.0.0.0 xferrecords.com
 0.0.0.0 xferrecords.com # XferRecords
 0.0.0.0 xferrecordz.com # XferRecords
-0.0.0.0 157.56.8.159 #phonehome
-0.0.0.0 173.231.151.131 #phonehome
-0.0.0.0 217.160.0.171 #phonehome
-0.0.0.0 217.160.0.45 #phonehome
-0.0.0.0 89.161.254.97 #phonehomed16group.pl
