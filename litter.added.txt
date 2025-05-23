@@ -32,7 +32,6 @@
 ||betalfa.org.il^
 ||bizcommunity.com^
 ||blaetter.de^
-||block new^
 ||blockedandreported.org^
 ||bpb.de^
 ||bund.de^
