@@ -298,5 +298,4 @@
 ||hildesheimer-allgemeine.de^
 ||buzzard.org^
 ||journalist.de^
-
 ||zona.media^
