@@ -299,3 +299,11 @@
 ||buzzard.org^
 ||journalist.de^
 ||zona.media^
+||stopantisemitism.org^
+||piratewires.com^
+||cbc.ca^
+||israelnationalnews.com^
+||juedischerundschau.de^
+||feministinternet.com^
+||genderit.org^
+||wauland.de^
