@@ -288,6 +288,7 @@
 ||berlingske.dk^
 ||besserewelt.info^
 ||bestcheck.de^
+||bestwestern-hotel-dresden.de^
 ||betamtb.com^
 ||betternutrition.com^
 ||betterprogramming.pub^
@@ -331,10 +332,12 @@
 ||bonappetit.com^
 ||boncourage.de^
 ||bonial.com^
+||boo.world^
 ||borderline-europe.de^
 ||bordermail.com.au^
 ||bostonglobe.com^
 ||bostonherald.com^
+||boysbar.de^
 ||bpb.de^
 ||bqprime.com^
 ||br.de^
@@ -351,6 +354,7 @@
 ||buecher.de^
 ||buffalonews.com^
 ||buildchange.org^
+||bunker-dresden.de^
 ||burda-forward.de^
 ||burda.com^
 ||burks.de^
@@ -378,6 +382,7 @@
 ||capitalgazette.com^
 ||carava.net^
 ||cartacapital.com.br^
+||carte-blanche-dresden.de^
 ||carwale.com^
 ||casamundo.com^
 ||causeur.fr^
@@ -408,6 +413,7 @@
 ||cincinnati.com^
 ||cipla.com^
 ||city-journal.org^
+||cityseeker.com^
 ||citywire.com^
 ||civilfleet.org^
 ||clara-zetkin-frauenpreis.de^
@@ -561,6 +567,7 @@
 ||diractionscapital.com^
 ||direkteaktion.org^
 ||discovermagazine.com^
+||discowoanders.com^
 ||diskus.copyriot.com^
 ||dispatch.com^
 ||diss-duisburg.de^
@@ -568,7 +575,9 @@
 ||diva.copyriot.com^
 ||dkp.de^
 ||dn.se^
+||dobbernationloves.com^
 ||doorbraak.be^
+||downtown-dresden.de^
 ||dresden-nazifrei.com^
 ||dresden-postkolonial.de^
 ||drinkbabe.net^
@@ -650,6 +659,7 @@
 ||europemustact.org^
 ||europenowjournal.org^
 ||europower.no^
+||eventim.de^
 ||exame.com^
 ||examiner.com.au^
 ||exit-deutschland.de^
@@ -733,6 +743,7 @@
 ||fussball.de^
 ||ganske.de^
 ||gauchazh.clicrbs.com.br^
+||gayout.com^
 ||gazetadopovo.com.br^
 ||gazzetta.it^
 ||gcaptain.com^
@@ -968,6 +979,7 @@
 ||kaz-online.de^
 ||kbh-mauerplatz.de^
 ||keine-stimme-den-nazis.org^
+||kempinski.com^
 ||kentucky.com^
 ||kfsr.info^
 ||kharon.com^
@@ -1074,6 +1086,7 @@
 ||ligatus.de^
 ||ligatus.fr^
 ||lighthousereports.com^
+||lilasosse.de^
 ||limburger.nl^
 ||lindependant.fr^
 ||linforme.com^
@@ -1115,6 +1128,7 @@
 ||losandes.com.ar^
 ||lostineu.eu^
 ||lotta-magazin.de^
+||loveradvisor.org^
 ||lowerclassmag.com^
 ||lr-online.de^
 ||lrb.co.uk^
@@ -1358,6 +1372,7 @@
 ||pacificpundit.com^
 ||paloaltoonline.com^
 ||panafrikanismusforum.net^
+||paradise-dresden.de^
 ||parismatch.com^
 ||parool.nl^
 ||parsimony.net^
@@ -1385,9 +1400,11 @@
 ||philomag.com^
 ||philomag.de^
 ||philosophynow.org^
+||pickupdresden.de^
 ||pieman.org^
 ||pilotonline.com^
 ||pinkkoshernostra.org^
+||pinksider.com^
 ||pinkstinks.de^
 ||pionline.com^
 ||piqd.de^
@@ -1444,9 +1461,13 @@
 ||public-ip.org^
 ||public.fr^
 ||puck.news^
+||pullman-hotel-dresden.de^
 ||pz-news.de^
 ||pzc.nl^
 ||quarks.de^
+||queer.de^
+||queerintheworld.com^
+||queerpridedd.org^
 ||quora.com^
 ||quotidiano.net^
 ||quotidianodipuglia.it^
@@ -1580,6 +1601,7 @@
 ||seebruecke-hamburg.de^
 ||seekingalpha.com^
 ||seloger.com^
+||semperoper.de^
 ||senselab.org^
 ||sfchronicle.com^
 ||sfss.space^
@@ -1609,6 +1631,7 @@
 ||solidaritaet.info^
 ||solistv.de^
 ||sonnenstaatland.com^
+||sophienkeller-dresden.de^
 ||sopos.org^
 ||sormas-oegd.de^
 ||sourcingjournal.com^
@@ -1747,6 +1770,7 @@
 ||thebanker.com^
 ||theblackpanthers.com^
 ||thebulletin.org^
+||thebunkerbristol.com^
 ||thecaravan.org^
 ||thechronicle.com.au^
 ||thecourier.com.au^
@@ -1820,6 +1844,7 @@
 ||transfermarkt.de^
 ||transfermarkt.tv^
 ||travelbook.de^
+||travelgay.com^
 ||treibhaus-doebeln.de^
 ||tri-cityherald.com^
 ||triathlete.com^
@@ -1875,6 +1900,7 @@
 ||usinenouvelle.com^
 ||ustr.gov^
 ||utech-polyurethane.com^
+||valentino-dresden.de^
 ||valeursactuelles.com^
 ||valor.globo.com^
 ||vancouversun.com^
@@ -1888,6 +1914,7 @@
 ||verstaatlichen.jetzt^
 ||videowerkstatt.de^
 ||vienna.at^
+||vier-vogel-pils.de^
 ||vikatan.com^
 ||vivantes.de^
 ||vn.at^
