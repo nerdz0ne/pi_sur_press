@@ -2,12 +2,13 @@
 # Filterlist 
 # Blocklist
 
+everything here will be mirrored in realtime
+
 This is a small approach that helps you to flee away from the center of insanity...
 
 "If one desires to improve their standard of living, free from the influence of state-run media, then this is the ideal location for them."
 
 something to give you peace of mind
-
 
 Escape the Noise: A Path to Clarity and Authenticity
 
