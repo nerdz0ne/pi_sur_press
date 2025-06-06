@@ -40,7 +40,6 @@
 ||betalfa.org.il^
 ||bizcommunity.com^
 ||blaetter.de^
-||block new^
 ||blockedandreported.org^
 ||bookbeat.com^
 ||booklooker.de^
