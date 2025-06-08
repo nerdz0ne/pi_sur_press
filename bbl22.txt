@@ -1,4 +1,3 @@
-# traitor, ahead ?
 ||0x0a.li^
 ||100-prozent-sozial.de^
 ||29rooms.com^
@@ -107,6 +106,7 @@
 ||aktionbleiberecht.de^
 ||al-zh.ch^
 ||al.com^
+||alamy.com^
 ||alarabiya.net^
 ||alarmphone.org^
 ||alhakam.org^
@@ -115,6 +115,7 @@
 ||alltageinesfotoproduzenten.de^
 ||alobeo.org^
 ||alternatives-economiques.fr^
+||alternativlos.org^
 ||alternet.org^
 ||altinamedia.com^
 ||amadeu-antonio-stiftung.de^
@@ -142,6 +143,7 @@
 ||antagonistischeassoziation.copyriot.com^
 ||antenne.de^
 ||antenne1.de^
+||antenneniederrhein.de^
 ||anticapitalist.party^
 ||antifa.biz^
 ||antifa.cz^
@@ -184,6 +186,7 @@
 ||artsenkrant.com^
 ||as-konzerneinkauf.de^
 ||asahi.com^
+||ashoka.org^
 ||asia.nikkei.com^
 ||aspentimes.com^
 ||asv-ag.com^
@@ -267,6 +270,8 @@
 ||basta-bs.ch^
 ||bauermedia.com^
 ||bayer.com^
+||bayern-gegen-gewalt.de^
+||bayern-gegen-hass.de^
 ||bbc.com^
 ||bbv-mediengruppe.de^
 ||bbv-net.de^
@@ -291,6 +296,7 @@
 ||bestwestern-hotel-dresden.de^
 ||betamtb.com^
 ||betternutrition.com^
+||betterplace.org^
 ||betterprogramming.pub^
 ||bewegung.in^
 ||bewegungsmelder.org^
@@ -306,6 +312,7 @@
 ||birthrightisrael.com^
 ||birthrightisrael.foundation^
 ||bizjournals.com^
+||bka.de^
 ||black-mosquito.org^
 ||black-pigeon.org^
 ||blackblogs.org^
@@ -321,6 +328,8 @@
 ||blogsport.de^
 ||bloomberg.com^
 ||bloombergadria.com^
+||bmfsfj.de^
+||bmj.de^
 ||bmsfr.de^
 ||bnd.com^
 ||bndestem.nl^
@@ -354,6 +363,7 @@
 ||buecher.de^
 ||buffalonews.com^
 ||buildchange.org^
+||bundesnetzagentur.de^
 ||bunker-dresden.de^
 ||burda-forward.de^
 ||burda.com^
@@ -369,6 +379,7 @@
 ||butterland.org^
 ||buzzfeed.com^
 ||buzzfeednews.com^
+||bvoh.de^
 ||bz-berlin.de^
 ||bz.de^
 ||cairnspost.com.au^
@@ -397,6 +408,7 @@
 ||challenges.fr^
 ||change.org^
 ||channelnewsasia.com^
+||channelpartner.de^
 ||charentelibre.fr^
 ||charliehebdo.fr^
 ||charlotteobserver.com^
@@ -422,9 +434,11 @@
 ||cleveland.com^
 ||climbing.com^
 ||cmjornal.pt^
+||cms-stiftung.de^
 ||cnbc.com^
 ||cntbarcelona.org^
 ||cntraveler.com^
+||codeblau.de^
 ||codepink.org^
 ||collive.com^
 ||colorofchange.org^
@@ -443,6 +457,7 @@
 ||copyriot.com^
 ||copyriot.net^
 ||copyriot.org^
+||core-evidence.eu^
 ||correctiv.org^
 ||correiodopovo.com.br^
 ||corriere.it^
@@ -480,6 +495,7 @@
 ||dailypress.com^
 ||dailytelegraph.com.au^
 ||dailywire.com^
+||dajeb.de^
 ||dallasnews.com^
 ||dallasobserver.com^
 ||das-krokodil.com^
@@ -515,6 +531,7 @@
 ||deutschlandfunkkultur.de^
 ||developer.mozilla.org^
 ||df.cl^
+||dfavote.org^
 ||dfv.de^
 ||dhnet.be^
 ||di.se^
@@ -582,6 +599,7 @@
 ||dresden-postkolonial.de^
 ||drinkbabe.net^
 ||droemer-knaur.de^
+||dsc.bund.de^
 ||dudweiler-blog.de^
 ||dunyacollective.org^
 ||dutchnews.nl^
@@ -635,6 +653,7 @@
 ||endstation-rechts.de^
 ||enlacezapatista.ezln.org.mx^
 ||enotes.com^
+||envr.eu^
 ||epe.es^
 ||epicurious.com^
 ||epoch.org.il^
@@ -680,6 +699,7 @@
 ||fd.nl^
 ||fdik.org^
 ||fdj.de^
+||fearlessdemocracy.org^
 ||feindbeguenstigung.de^
 ||fem.com^
 ||femmesdaujourdhui.be^
@@ -728,8 +748,10 @@
 ||freie-radios.net^
 ||freiepresse.de^
 ||freiheit-durch-sozialismus.de^
+||freilich-magazin.com^
 ||freitag.de^
 ||fresnobee.com^
+||frieden-fragen.de^
 ||friedenspartei.de^
 ||frikoberlin.de^
 ||frontexplode.eu^
@@ -778,6 +800,7 @@
 ||goettinger-tageblatt.de^
 ||gofeminin.de^
 ||goldcoastbulletin.com.au^
+||good-search.org^
 ||goodhousekeeping.com^
 ||gothamist.com^
 ||gottunddiewelt.net^
@@ -820,6 +843,7 @@
 ||harpers.org^
 ||harpersbazaar.com^
 ||hartziv-muss-weg.de^
+||hateaid.org^
 ||haymarket.com^
 ||haymarketmedicalnetwork.com^
 ||haz.de^
@@ -834,18 +858,22 @@
 ||help.copyriot.com^
 ||heraldsun.com.au^
 ||heroku.com^
+||hessen.de^
+||hessengegenhetze.de^
 ||hias.org^
 ||hiball.com^
 ||hier-ist-die-linke.de^
 ||hier-und-in-europa.de^
 ||hieristdielinke.de^
 ||hierundineuropa.de^
+||hilfe-info.de^
 ||hilltimes.com^
 ||hindustantimes.com^
 ||hindutamil.in^
 ||hintergrund.de^
 ||historyextra.com^
 ||hln.be^
+||hoganlovellsbase.com^
 ||homelandsecuritynewswire.com^
 ||hongkongfp.com^
 ||horizont.net^
@@ -869,6 +897,7 @@
 ||idowa.de^
 ||ifc.org^
 ||ifo.de^
+||ifun.de^
 ||igorslab.de^
 ||ikiosk.de^
 ||ikz-online.de^
@@ -909,7 +938,11 @@
 ||infosperber.ch^
 ||infranken.de^
 ||infzm.com^
+||initiative-toleranz-im-netz.de^
 ||inkl.com^
+||inklupedia.at^
+||inklupedia.ch^
+||inklupedia.de^
 ||inprekorr.de^
 ||input-aktuell.de^
 ||inquirer.com^
@@ -920,6 +953,7 @@
 ||internationale-rosa-luxemburg-gesellschaft.de^
 ||internationalmediasales.net^
 ||internazionale.it^
+||internet-beschwerdestelle.de^
 ||interventionistische-linke.org^
 ||intrafish.com^
 ||intrafish.no^
@@ -991,6 +1025,7 @@
 ||knack.be^
 ||knoxnews.com^
 ||koenig-kurt.de^
+||kommunen.nrw^
 ||komplex-schwerin.de^
 ||komputerswiat.pl^
 ||konkret-magazin.de^
@@ -1002,9 +1037,11 @@
 ||kottke.org^
 ||krautreporter.de^
 ||kreiszeitung.de^
+||kress.de^
 ||kreta-dresden.org^
 ||kreta-film.net^
 ||kreuzberg-info.de^
+||krimz.de^
 ||kritische-koepfe-waehlen-links.de^
 ||ksta.de^
 ||kts-freiburg.org^
@@ -1026,6 +1063,7 @@
 ||ladepeche.fr^
 ||ladiaria.com.uy^
 ||ladyfest-ffm.copyriot.com^
+||laist.com^
 ||lalibre.be^
 ||lamontagne.fr^
 ||lanacion.com.ar^
@@ -1117,6 +1155,7 @@
 ||livescore.in^
 ||livestrong.com^
 ||liveticker.com^
+||lka.polizei-nds.de^
 ||lkz.de^
 ||ln-online.de^
 ||lne.es^
@@ -1164,6 +1203,7 @@
 ||marxists.de^
 ||marxists.org^
 ||masslive.com^
+||matzingjero.com^
 ||maz-online.de^
 ||mazandmore.de^
 ||mcall.com^
@@ -1175,11 +1215,13 @@
 ||mediapart.fr^
 ||mediapilot.de^
 ||mediawiki.org^
+||medienanstalt-nrw.de^
 ||medinetz-dresden.org^
 ||medium.com^
 ||medscape.com^
 ||meinestadt.de^
 ||meinprospekt.de^
+||meldestelle-respect.de^
 ||melinaborcak.com^
 ||menshealth.com^
 ||mercurynews.com^
@@ -1241,6 +1283,7 @@
 ||n24.at^
 ||n24.de^
 ||naacp.org^
+||nachhaltigkeitsberatung-sfr.de^
 ||nadir.org^
 ||nakedcapitalism.com^
 ||nationalgeographic.com^
@@ -1290,6 +1333,7 @@
 ||newyorck.net^
 ||newyorker.com^
 ||ngo-online.de^
+||nhk.or.jp^
 ||nhregister.com^
 ||niagarafallsreview.ca^
 ||nicematin.com^
@@ -1297,6 +1341,7 @@
 ||niederrheinzeitung.de^
 ||nieuwsblad.be^
 ||nin.co.rs^
+||nius.de^
 ||nj.com^
 ||nltimes.nl^
 ||noblogs.org^
@@ -1359,12 +1404,14 @@
 ||oregonlive.com^
 ||orionmagazine.org^
 ||orlandosentinel.com^
+||oseon.com^
 ||ossietzky.net^
 ||ostsee-zeitung.de^
 ||outdoorlife.com^
 ||outlookbusiness.com^
 ||outlookindia.com^
 ||outsideonline.com^
+||overton-magazin.de^
 ||ox-fanzine.de^
 ||oxygenmag.com^
 ||oz-online.de^
@@ -1421,7 +1468,9 @@
 ||politico.com^
 ||politico.eu^
 ||politifact.com^
+||politik-kommunikation.de^
 ||polityka.pl^
+||polizei-beratung.de^
 ||polskarada.de^
 ||polygon.com^
 ||polygraph.info^
@@ -1438,6 +1487,7 @@
 ||presse-report.de^
 ||pressenterprise.com^
 ||pressenza.com^
+||preubohlig.de^
 ||prevention.com^
 ||prinz.de^
 ||prisma.de^
@@ -1475,15 +1525,23 @@
 ||r-mediabase.eu^
 ||raa-berlin.de^
 ||raa-sachsen.de^
+||radio901.de^
 ||radioeins.de^
+||radioemscherlippe.de^
+||radioerft.de^
 ||radiohamburg.de^
+||radiohochstift.de^
+||radiokw.de^
 ||radionrw.de^
 ||radioprimaton.de^
+||radiorur.de^
+||radiowuppertal.de^
 ||rand.org^
 ||rasdonovan.com^
 ||ratiomatrix.net^
 ||raw.at^
 ||razomforukraine.org^
+||re-publica.com^
 ||ready2capture.dekoder.de^
 ||rebellmarkt.blogger.de^
 ||rechargenews.com^
@@ -1501,7 +1559,9 @@
 ||reichtum-und-religion.de^
 ||reportagen.de^
 ||repubblica.it^
+||respect-in-school.de^
 ||respectberlin.org^
+||respekt.plus^
 ||restofworld.org^
 ||reuters.com^
 ||revista-online.info^
@@ -1522,11 +1582,13 @@
 ||riolyrics.de^
 ||riseup.net^
 ||rki.de^
+||rlp.de^
 ||rnd.de^
 ||rnz.de^
 ||roadandtrack.com^
 ||roarmag.org^
 ||robertkneschke.de^
+||robertkoop.wordpress.com^
 ||rockefellerfoundation.org^
 ||rollingstone.com^
 ||rollingstone.de^
@@ -1551,6 +1613,7 @@
 ||rrreiche.de^
 ||rs2.de^
 ||rtl.de^
+||rtr.at^
 ||rubbernews.com^
 ||rugbypass.com^
 ||rugbyrama.fr^
@@ -1558,11 +1621,13 @@
 ||ruhrnachrichten.de^
 ||rundschau-online.de^
 ||runnersworld.com^
+||s-f.family^
 ||sabado.pt^
 ||sacbee.com^
 ||sachsenpublizistik.de^
 ||saechsische.de^
 ||saechsischer-fluechtlingsrat.de^
+||saferinternet.at^
 ||salonkolumnisten.com^
 ||saltwire.com^
 ||salzsau-panorama.de^
@@ -1573,7 +1638,9 @@
 ||saz-aktuell.com^
 ||scharf-links.de^
 ||schattenblick.de^
+||schau-hin.info^
 ||scheune.org^
+||schieb.de^
 ||schmok.blogsport.eu^
 ||schwabfound.org^
 ||schwaebische.de^
@@ -1609,6 +1676,7 @@
 ||sh-dresden.de^
 ||shz.de^
 ||si.com^
+||sicherheitsingenieur.nrw^
 ||siegener-zeitung.de^
 ||siegessaeule.de^
 ||silive.com^
@@ -1631,6 +1699,7 @@
 ||solidaritaet.info^
 ||solistv.de^
 ||sonnenstaatland.com^
+||sonntagsblatt.de^
 ||sophienkeller-dresden.de^
 ||sopos.org^
 ||sormas-oegd.de^
@@ -1672,6 +1741,7 @@
 ||standard.net.au^
 ||star-telegram.com^
 ||staradvertiser.com^
+||stark-im-amt.de^
 ||startribune.com^
 ||statesman.com^
 ||statewatch.org^
@@ -1721,6 +1791,7 @@
 ||swp-berlin.org^
 ||swp.de^
 ||swp.org.uk^
+||swr.de^
 ||syndikat.copyriot.com^
 ||synerj.media^
 ||syracuse.com^
@@ -1830,7 +1901,9 @@
 ||tip-berlin.de^
 ||tirebusiness.com^
 ||tolerantes-sachsen.de^
+||toleranz-im-netz.de^
 ||tommyhaus.org^
+||toneshift.org^
 ||top-berlin.net^
 ||topagrar.com^
 ||torontosun.com^
@@ -1883,6 +1956,7 @@
 ||uni-hamburg.de^
 ||unido.org^
 ||united24media.com^
+||unline-strafanzeige.de^
 ||unn.ua^
 ||unsere-zeit.de^
 ||untergrund-blttle-2qb.ch^
@@ -1924,6 +1998,7 @@
 ||vogue.com^
 ||voguebusiness.com^
 ||vol.at^
+||volksfreund.de^
 ||volkskrant.nl^
 ||volksstimme.de^
 ||volksverpetzer.de^
@@ -1950,6 +2025,7 @@
 ||weather.com^
 ||weeklytimesnow.com.au^
 ||weforum.org^
+||weisser-ring.de^
 ||welcome-united.org^
 ||wellandtribune.ca^
 ||welt-am-sonntag.de^
@@ -1964,6 +2040,7 @@
 ||westernadvocate.com.au^
 ||weverify.eu^
 ||wiesbadener-kurier.de^
+||wikidata.org^
 ||wildcat-de^
 ||willkommen-im-hochland.de^
 ||willkommen-in-loebtau.de^
@@ -1982,6 +2059,7 @@
 ||wobblies.org^
 ||wochenblatt.com^
 ||women-in-exile.net^
+||womenoflegaltech.eu^
 ||womenshealth.de^
 ||womenshealthmag.com^
 ||womensrunning.com^
@@ -2014,44 +2092,10 @@
 ||zerohedge.com^
 ||zimbio.com^
 ||zitty.de^
+||zivile-helden.de^
 ||zmarta.se^
 ||zona-antifascista.org^
 ||zufallsshirt.de^
 ||zusammenleben-willkommen.de^
 ||zvw.de^
 ||zweitehand.de^
-||alternativlos.org^
-||antenneniederrhein.de^
-||bmj.de^
-||bvoh.de^
-||bundesnetzagentur.de^
-||channelpartner.de^
-||cms-stiftung.de^
-||codeblau.de^
-||core-evidence.eu^
-||dsc.bund.de^
-||freilich-magazin.com^
-||good-search.org^
-||hateaid.org^
-||hoganlovellsbase.com^
-||ifun.de^
-||inklupedia.at^
-||inklupedia.ch^
-||inklupedia.de^
-||initiative-toleranz-im-netz.de^
-||kommunen.nrw^
-||laist.com^
-||matzingjero.com^
-||meldestelle-respect.de^
-||nius.de^
-||overton-magazin.de^
-||preubohlig.de^
-||radioerft.de^
-||radiokw.de^
-||radiowuppertal.de^
-||rtr.at^
-||robertkoop.wordpress.com^
-||swr.de^
-||toneshift.org^
-||volksfreund.de^
-
