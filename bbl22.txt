@@ -2027,7 +2027,7 @@
 ||bundesnetzagentur.de^
 ||channelpartner.de^
 ||cms-stiftung.de^
-||codeblau.de/references.html^
+||codeblau.de^
 ||core-evidence.eu^
 ||dsc.bund.de^
 ||freilich-magazin.com^
