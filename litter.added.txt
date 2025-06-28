@@ -337,3 +337,5 @@
 ||zeitschrift-luxemburg.de^
 ||zeitschrift-marxistische-erneuerung.de^
 ||zona.media^
+||lsvd.de^
+||hirschfeld-eddy-stiftung.de^
