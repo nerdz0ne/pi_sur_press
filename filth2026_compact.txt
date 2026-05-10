@@ -3413,7 +3413,6 @@
 ||coltivazioneindoor.info^
 ||columbia.edu^
 ||columbian.com^
-||com^
 ||com.ua^
 ||comanav.com^
 ||combango.org^
