@@ -11848,9 +11848,6 @@
 ||recyclingworkscampaign.org^
 ||red.co.il^
 ||redbox.com^
-||reddit.co^
-||reddit.com^
-||redditmedia.com^
 ||redeproaprendiz.org^
 ||redetuby.com^
 ||redgifs.com^
