@@ -10666,7 +10666,6 @@
 ||oregonlive.com^
 ||oreiily.com^
 ||orf.at^
-||org^
 ||organiclifestylemagazine.com^
 ||organizando.org^
 ||organizationalmarket.info^
